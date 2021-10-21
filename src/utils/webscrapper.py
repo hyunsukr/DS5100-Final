@@ -22,28 +22,36 @@ class Web_Scrapper():
         :returns: <dataframe> = A data frame containing the summary statistics of each country and medals earned.
         """
         URL = self.baselink + url_query
+        URL = 'https://olympics.com/en/olympic-games/tokyo-2020/medals'
         r = requests.get(URL)
         # Read the data content as html
         soup = BeautifulSoup(r.content, 'html5lib') # If this line causes an error, run 'pip install html5lib' or install html5lib
         # Get the ul tag by the id specific for the 7 day forcast
-        table = soup.find("table", {"id": "medal-standing-table"})
-        parsed_rows = []
-        individuallinks = []
-        for row in table.findAll("tr"):
-            temp = []
-            table_elements = row.findAll("td")
-            for el in range(0, len(table_elements)):
-                text_element = table_elements[el].get_text().replace("\n", '')
-                temp.append(text_element)
-                if el == 1:
-                    link = table_elements[el].find("a", href=True)
-                    link = 'https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/' + link["href"].split('/')[-1]
-                    individuallinks.append([link, text_element])
-            parsed_rows.append(temp)
+        countries = soup.find_all("div", {"class" : 'styles__CountryWrapper-sc-fehzzg-4 dVfDKJ'})
+        medals = soup.find_all("div", {"class" : 'Medalstyles__Wrapper-sc-1tu6huk-0 kXFxTL'})
+        data = []
+        for i in range(0, len(countries)):
+            data.append([countries[i].get_text(), medals[i*4].get_text(), medals[i*4 + 1].get_text(), medals[i*4 + 2].get_text(), medals[i*4 + 3].get_text()]) 
+        df = pd.DataFrame(data, columns = ['Name', 'Gold', 'Silver', 'Bronze', 'Total'])
+        return df
+        # table = soup.find("table", {"id": "medal-standing-table"})
+        # parsed_rows = []
+        # individuallinks = []
+        # for row in table.findAll("tr"):
+        #     temp = []
+        #     table_elements = row.findAll("td")
+        #     for el in range(0, len(table_elements)):
+        #         text_element = table_elements[el].get_text().replace("\n", '')
+        #         temp.append(text_element)
+        #         if el == 1:
+        #             link = table_elements[el].find("a", href=True)
+        #             link = 'https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/' + link["href"].split('/')[-1]
+        #             individuallinks.append([link, text_element])
+        #     parsed_rows.append(temp)
 
-        columns = ["Rank", "Team/NOC", "Gold", "Silver", "Bronze", "Total", "Rank by Total", "Abbreviation"]
-        df = pd.DataFrame(parsed_rows[1:], columns = columns)
-        return individuallinks, df
+        # columns = ["Rank", "Team/NOC", "Gold", "Silver", "Bronze", "Total", "Rank by Total", "Abbreviation"]
+        # df = pd.DataFrame(parsed_rows[1:], columns = columns)
+        # return individuallinks, df
 
     def scrape_country(self, country):
         """
