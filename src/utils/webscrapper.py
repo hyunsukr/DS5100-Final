@@ -12,6 +12,44 @@ class Web_Scrapper():
         self.baselink = baselink
         self.country = country
     
+    def scrape_gdp(self):
+        URL = "https://www.worldometers.info/gdp/gdp-by-country/" # specify URL of website we want to scrape
+        r = requests.get(URL) #http requests tot ehs specified url and save it in R
+        soup = BeautifulSoup(r.content, 'html5lib')
+        templist = []
+        # Locating the table on the website 
+        table = soup.find_all('table')[0]
+        # using a for loop to iterate over the columns in the table to
+        # generate the text 
+        for child in soup.find_all('table')[0].children:
+            for td in child:
+                for tr in td:
+                    if not isinstance(tr, str):
+                        templist.append(tr.get_text())
+        country = []
+        vals = []
+        other_val = []
+        percent = []
+        temp = []
+        other = []
+        for i in range(0,len(templist[9:])):
+            if i % 8 == 0:
+                country.append(templist[9:][i])
+            elif i%8 == 1:
+                vals.append(templist[9:][i])
+            elif i%8 == 2:
+                other_val.append(templist[9:][i])
+            elif i%8 == 3:
+                percent.append(templist[9:][i])
+            elif i%8 == 4:
+                temp.append(templist[9:][i])
+            elif i%8 == 5:
+                other.append(templist[9:][i])
+            d = {'Country': country, 'GDP': vals,'GDP abbreviated': other_val,'GDP growth': percent,'Population': temp,'GDP per capita': other}
+        df = pd.DataFrame(d)
+        return df
+
+        
     def scrape_summary(self, url_query):
         """
         A method to scrape the table data from the https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm
