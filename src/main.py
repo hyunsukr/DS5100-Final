@@ -19,5 +19,9 @@ def main():
     joined_df = mapper_class.join_gdp(gdp, national_src)
     joined_df.to_csv("country_medal_gdp.csv")
 
+    teams = pd.read_excel("Teams.xlsx")
+    final = mapper_class.join_aggregate_teams(teams, joined_df)
+    final.to_csv("teams_country_gdp.csv")
+
 
 main()

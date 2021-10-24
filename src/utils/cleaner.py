@@ -11,4 +11,10 @@ class Cleaner():
         joined = pd.merge(temp_olympic, gdp, how='left', on='Country')
         return joined
 
-    
+    def join_aggregate_teams(self, teams, olympic):
+        teams = teams.groupby("NOC")["Discipline"].count().reset_index()
+        temp = olympic.copy()
+        temp['tempName'] = temp["Name"].str[4:]
+        joined = pd.merge(temp, teams, how='inner', left_on='tempName', right_on='NOC')
+        joined = joined.drop(columns=["tempName"])
+        return joined
