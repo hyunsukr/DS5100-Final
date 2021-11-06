@@ -10,10 +10,28 @@ source venv/bin/actiavte
 pip install -r requirments.txt 
 ```
 
+To run tests for the repo please use the commands.
+```
+pytest --cov=src/ tests/ -vv
+```
+
+Currently the repo is performing as follows.
+
+| Name | Stmts | Miss | Cover|
+| :--- | :---: | :---: | :--: |
+| src/__init__.py | 0 | 0 | 100% |
+| src/main.py | 19  | 19 | 0 |
+| src/utils/__init__.py | 0 | 0 | 100% |
+| src/utils/cleaner.py | 42 | 0 | 100% |
+| src/utils/webscrapper.py  | 55 | 0 | 100% |
+| TOTAL | 116 | 19 | 84% |
+
+
 After running the code, you may deactivate the virtual env by running the following.
 ```
 deactivate
 ```
+
 
 ## How to Run
 To start the data pull and gather all Tokyo Olympic data you must run the main.py file.
