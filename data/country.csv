@@ -21,7 +21,7 @@
 19,NOR Norway,4,2,2,8
 20,JAM Jamaica,4,1,4,9
 21,ESP Spain,3,8,6,17
-22,SWE Sweden,3,6,-,9
+22,SWE Sweden,3,6,0,9
 23,SUI Switzerland,3,4,6,13
 24,DEN Denmark,3,4,4,11
 25,CRO Croatia,3,3,2,8
@@ -30,65 +30,65 @@
 28,BEL Belgium,3,1,3,7
 29,BUL Bulgaria,3,1,2,6
 30,SLO Slovenia,3,1,1,5
-31,UZB Uzbekistan,3,-,2,5
+31,UZB Uzbekistan,3,0,2,5
 32,GEO Georgia,2,5,1,8
 33,TPE Chinese Taipei,2,4,6,12
 34,TUR Turkey,2,2,9,13
 35,GRE Greece,2,1,1,4
 36,UGA Uganda,2,1,1,4
-37,ECU Ecuador,2,1,-,3
-38,ISR Israel,2,-,2,4
-39,IRL Ireland,2,-,2,4
-40,QAT Qatar,2,-,1,3
-41,BAH Bahamas,2,-,-,2
-42,KOS Kosovo,2,-,-,2
+37,ECU Ecuador,2,1,0,3
+38,ISR Israel,2,0,2,4
+39,IRL Ireland,2,0,2,4
+40,QAT Qatar,2,0,1,3
+41,BAH Bahamas,2,0,0,2
+42,KOS Kosovo,2,0,0,2
 43,UKR Ukraine,1,6,12,19
 44,BLR Belarus,1,3,3,7
-45,VEN Venezuela,1,3,-,4
-46,ROU Romania,1,3,-,4
+45,VEN Venezuela,1,3,0,4
+46,ROU Romania,1,3,0,4
 47,IND India,1,2,4,7
 48,"HKG Hong Kong, China",1,2,3,6
 49,SVK Slovakia,1,2,1,4
 50,PHI Philippines,1,2,1,4
-51,RSA South Africa,1,2,-,3
+51,RSA South Africa,1,2,0,3
 52,AUT Austria,1,1,5,7
 53,EGY Egypt,1,1,4,6
 54,INA Indonesia,1,1,3,5
 55,POR Portugal,1,1,2,4
 56,ETH Ethiopia,1,1,2,4
-57,TUN Tunisia,1,1,-,2
-58,FIJ Fiji,1,-,1,2
-59,LAT Latvia,1,-,1,2
-60,EST Estonia,1,-,1,2
-61,THA Thailand,1,-,1,2
-62,MAR Morocco,1,-,-,1
-63,PUR Puerto Rico,1,-,-,1
-64,BER Bermuda,1,-,-,1
-65,COL Colombia,-,4,1,5
-66,AZE Azerbaijan,-,3,4,7
-67,DOM Dominican Republic,-,3,2,5
-68,ARM Armenia,-,2,2,4
-69,KGZ Kyrgyzstan,-,2,1,3
-70,MGL Mongolia,-,1,3,4
-71,SMR San Marino,-,1,2,3
-72,ARG Argentina,-,1,2,3
-73,MAS Malaysia,-,1,1,2
-74,NGR Nigeria,-,1,1,2
-75,JOR Jordan,-,1,1,2
-76,BRN Bahrain,-,1,-,1
-77,KSA Saudi Arabia,-,1,-,1
-78,LTU Lithuania,-,1,-,1
-79,MKD North Macedonia,-,1,-,1
-80,NAM Namibia,-,1,-,1
-81,TKM Turkmenistan,-,1,-,1
-82,KAZ Kazakhstan,-,-,8,8
-83,MEX Mexico,-,-,4,4
-84,FIN Finland,-,-,2,2
-85,MDA Republic of Moldova,-,-,1,1
-86,GRN Grenada,-,-,1,1
-87,GHA Ghana,-,-,1,1
-88,BUR Burkina Faso,-,-,1,1
-89,CIV Côte d'Ivoire,-,-,1,1
-90,BOT Botswana,-,-,1,1
-91,KUW Kuwait,-,-,1,1
-92,SYR Syrian Arab Republic,-,-,1,1
+57,TUN Tunisia,1,1,0,2
+58,FIJ Fiji,1,0,1,2
+59,LAT Latvia,1,0,1,2
+60,EST Estonia,1,0,1,2
+61,THA Thailand,1,0,1,2
+62,MAR Morocco,1,0,0,1
+63,PUR Puerto Rico,1,0,0,1
+64,BER Bermuda,1,0,0,1
+65,COL Colombia,0,4,1,5
+66,AZE Azerbaijan,0,3,4,7
+67,DOM Dominican Republic,0,3,2,5
+68,ARM Armenia,0,2,2,4
+69,KGZ Kyrgyzstan,0,2,1,3
+70,MGL Mongolia,0,1,3,4
+71,SMR San Marino,0,1,2,3
+72,ARG Argentina,0,1,2,3
+73,MAS Malaysia,0,1,1,2
+74,NGR Nigeria,0,1,1,2
+75,JOR Jordan,0,1,1,2
+76,BRN Bahrain,0,1,0,1
+77,KSA Saudi Arabia,0,1,0,1
+78,LTU Lithuania,0,1,0,1
+79,MKD North Macedonia,0,1,0,1
+80,NAM Namibia,0,1,0,1
+81,TKM Turkmenistan,0,1,0,1
+82,KAZ Kazakhstan,0,0,8,8
+83,MEX Mexico,0,0,4,4
+84,FIN Finland,0,0,2,2
+85,MDA Republic of Moldova,0,0,1,1
+86,GRN Grenada,0,0,1,1
+87,GHA Ghana,0,0,1,1
+88,BUR Burkina Faso,0,0,1,1
+89,CIV Côte d'Ivoire,0,0,1,1
+90,BOT Botswana,0,0,1,1
+91,KUW Kuwait,0,0,1,1
+92,SYR Syrian Arab Republic,0,0,1,1

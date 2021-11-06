@@ -17,7 +17,6 @@ class Cleaner():
 
     def join_gdp(self, gdp, olympic):
         temp_olympic = olympic.copy()
-        # temp_olypmic["Country"] = temp_olypmic["Name"].str[3:].map(self.country_maps)
         temp_olympic["Country"] = temp_olympic["Name"].str[4:].map(self.country_maps)
         joined = pd.merge(temp_olympic, gdp, how='left', on='Country')
         return joined
@@ -42,7 +41,10 @@ class Cleaner():
                 return "Not Available"
 
     def get_full_continent_map(self, code):
-        return self.continent_maps[code]
+        try:
+            return self.continent_maps[code]
+        except:
+            return 'Not Available'
 
     def convert_continent(self, dataframe):
         continents = dataframe["NOC"].map(lambda x: self.get_continents_map(x)).map(lambda x: self.get_full_continent_map(x))
