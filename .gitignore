@@ -1,6 +1,9 @@
-.DS_Stoore
+# Byte-compiled / optimized / DLL files
 __pycache__/
-__pycache__/*
+*.py[cod]
+*$py.class
+.DS_Stoore
+
 venv/*
 venv/
 *.pyc
