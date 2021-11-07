@@ -2,7 +2,17 @@
 
 This repo is for the final project for DS5100 for the Online MSDS proogram. 
 
-## Set up
+
+## Inital Analysis
+Exploratory Analysis can be found in the notebook pathed `analysis/jupyter_notebooks_eda.ipynb`
+
+Regression Analysis of notebooks can be found in the notebook pathed `analysis/jupyter_notebooks/regression.ipynb`
+
+Any pictures or resources generated from the notebooks can be downloaded in the folder pathed `analysis/resources/`
+
+
+
+## Setting up and running the code
 The repo is configured to use a virtual environment for the sake of package dependencies. Please run the commandas to set up the virtual env.
 ```
 python -m venv venv
