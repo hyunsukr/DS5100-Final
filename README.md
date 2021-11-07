@@ -12,7 +12,7 @@ Any pictures or resources generated from the notebooks can be downloaded in the 
 
 
 
-## Setting up and running the code
+## Setting up and running the datapull
 The repo is configured to use a virtual environment for the sake of package dependencies. Please run the commandas to set up the virtual env.
 ```
 python -m venv venv
@@ -43,8 +43,8 @@ deactivate
 ```
 
 
-## How to Run
-To start the data pull and gather all Tokyo Olympic data you must run the main.py file.
+## How to Run the datapull
+To start the data pull and gather all Tokyo Olympic data you must run the main.py file after activating the virtual environments.
 
 ```
 python src/main.py 
