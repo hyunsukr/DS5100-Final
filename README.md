@@ -49,5 +49,3 @@ To start the data pull and gather all Tokyo Olympic data you must run the main.p
 ```
 python src/main.py 
 ```
-
-
