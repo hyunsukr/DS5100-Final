@@ -31,9 +31,25 @@ def test_get_continents_map_exceptions():
 
     country_not_real = 'Not a Real Country'
     continent_not_real = cleaner.get_continents_map(country_not_real)
+    
+    country_eu_pass = 'German Democratic Republic (Germany)'
+    continent_eu_pass = cleaner.get_continents_map(country_eu_pass)
+
+    country_na_pass = 'Virgin Islands, US'
+    continent_na_pass = cleaner.get_continents_map(country_na_pass)
+
+    country_sa_pass = 'Netherlands Antilles'
+    continent_sa_pass = cleaner.get_continents_map(country_sa_pass)
+
+    country_oc_pass = 'Australasia'
+    continent_oc_pass = cleaner.get_continents_map(country_oc_pass)
 
     assert continent_russia == 'AS'
     assert continent_korea == 'AS'
+    assert continent_eu_pass == 'EU'
+    assert continent_na_pass == 'NA'
+    assert continent_sa_pass == 'SA'
+    assert continent_oc_pass == 'OC'
     assert continent_not_real == 'Not Available'
 
 def test_convert_continent():

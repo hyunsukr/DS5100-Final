@@ -31,4 +31,5 @@ def main():
     print("Finished Data Processing")
 
 
-main()
+if __name__ == "__main__":
+    main()
