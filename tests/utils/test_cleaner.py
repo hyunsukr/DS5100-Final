@@ -4,7 +4,7 @@ from src.utils.cleaner import Cleaner
 import pandas as pd
 
 
-def test_join_gdp():
+def test_join_gdp_single():
     cleaner = Cleaner()
     north_america = 'NA'
     continent = cleaner.get_full_continent_map(north_america)
@@ -58,14 +58,14 @@ def test_convert_continent_not_available():
 
 def test_join_gdp():
     cleaner = Cleaner()
-    sample_df = pd.DataFrame([['USA United States of America', 10], ['CAN Canada',20], ['PUR Puerto Rico',30]], columns = ['Name','Medal'])
+    sample_df = pd.DataFrame([['USA United States of America', 10], ['CAN Canada',20], ['DS 5100Group',30]], columns = ['Name','Medal'])
     sample_gdp = pd.DataFrame([['United States', 100], ['Canada',100]], columns = ['Country', 'GDP'])
     joined_df = cleaner.join_gdp(sample_gdp, sample_df)
 
     correct_dataframe = pd.DataFrame([['USA United States of America', 10,'United States', 100], \
                                          ['CAN Canada',20,'Canada',100], \
-                                         ['PUR Puerto Rico',30, 'Not Available', None]], columns = ['Name','Medal', 'Country', 'GDP'])
-    
+                                         ['DS 5100Group',30, None, None]], columns = ['Name','Medal', 'Country', 'GDP'])
+
     assert joined_df.shape == (3,4)
     assert set(joined_df.columns) == set(['Name', 'Country', 'Medal', 'GDP'])
     assert joined_df.equals(correct_dataframe)

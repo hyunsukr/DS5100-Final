@@ -21,7 +21,7 @@ def test_scrape_gdp():
 
 def test_scarpe_summary():
     webscrapper = Web_Scrapper()
-    scrapped_olympic = webscrapper.scrape_summary("medal-standings.htm")
+    scrapped_olympic = webscrapper.scrape_summary('https://olympics.com/en/olympic-games/tokyo-2020/medals')
 
     computed_total = scrapped_olympic["Gold"].astype(int) + scrapped_olympic["Silver"].astype(int) + scrapped_olympic["Bronze"].astype(int)
 

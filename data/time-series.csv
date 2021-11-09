@@ -1118,3 +1118,199 @@
 35,IRI Islamic Republic of Iran,0,0,1,1,1948,LONDON,Islamic Republic of Iran,Asia
 36,PUR Puerto Rico,0,0,1,1,1948,LONDON,Puerto Rico,North America
 37,IRL Ireland,0,0,1,1,1948,LONDON,Ireland,Europe
+0,GER Germany,38,31,32,101,1936,BERLIN,Germany,Europe
+1,USA United States of America,24,21,12,57,1936,BERLIN,United States of America,North America
+2,HUN Hungary,10,1,5,16,1936,BERLIN,Hungary,Europe
+3,ITA Italy,9,13,5,27,1936,BERLIN,Italy,Europe
+4,FIN Finland,8,6,6,20,1936,BERLIN,Finland,Europe
+5,FRA France,7,6,6,19,1936,BERLIN,France,Europe
+6,SWE Sweden,6,5,10,21,1936,BERLIN,Sweden,Europe
+7,JPN Japan,6,4,10,20,1936,BERLIN,Japan,Asia
+8,NED Netherlands,6,4,7,17,1936,BERLIN,Netherlands,Europe
+9,AUT Austria,5,7,5,17,1936,BERLIN,Austria,Europe
+10,SUI Switzerland,4,9,5,18,1936,BERLIN,Switzerland,Europe
+11,GBR Great Britain,4,7,3,14,1936,BERLIN,Great Britain,Europe
+12,TCH Czechoslovakia,3,5,1,9,1936,BERLIN,Czechoslovakia,Not Available
+13,ARG Argentina,2,2,3,7,1936,BERLIN,Argentina,South America
+14,EST Estonia,2,2,3,7,1936,BERLIN,Estonia,Europe
+15,EGY Egypt,2,1,2,5,1936,BERLIN,Egypt,Africa
+16,CAN Canada,1,3,5,9,1936,BERLIN,Canada,North America
+17,NOR Norway,1,3,2,6,1936,BERLIN,Norway,Europe
+18,TUR Turkey,1,0,1,2,1936,BERLIN,Turkey,Asia
+19,NZL New Zealand,1,0,0,1,1936,BERLIN,New Zealand,Australia
+20,IND India,1,0,0,1,1936,BERLIN,India,Asia
+21,POL Poland,0,4,5,9,1936,BERLIN,Poland,Europe
+22,DEN Denmark,0,2,3,5,1936,BERLIN,Denmark,Europe
+23,LAT Latvia,0,1,1,2,1936,BERLIN,Latvia,Europe
+24,ROU Romania,0,1,0,1,1936,BERLIN,Romania,Europe
+25,RSA South Africa,0,1,0,1,1936,BERLIN,South Africa,Africa
+26,YUG Yugoslavia,0,1,0,1,1936,BERLIN,Yugoslavia,Not Available
+27,BEL Belgium,0,0,3,3,1936,BERLIN,Belgium,Europe
+28,MEX Mexico,0,0,3,3,1936,BERLIN,Mexico,North America
+29,POR Portugal,0,0,1,1,1936,BERLIN,Portugal,Europe
+30,PHI Philippines,0,0,1,1,1936,BERLIN,Philippines,Asia
+31,AUS Australia,0,0,1,1,1936,BERLIN,Australia,Australia
+0,USA United States of America,44,36,30,110,1932,LOSANGELES,United States of America,North America
+1,ITA Italy,12,12,12,36,1932,LOSANGELES,Italy,Europe
+2,FRA France,11,5,4,20,1932,LOSANGELES,France,Europe
+3,SWE Sweden,10,5,9,24,1932,LOSANGELES,Sweden,Europe
+4,JPN Japan,7,7,4,18,1932,LOSANGELES,Japan,Asia
+5,HUN Hungary,6,5,5,16,1932,LOSANGELES,Hungary,Europe
+6,GER Germany,5,12,7,24,1932,LOSANGELES,Germany,Europe
+7,FIN Finland,5,8,12,25,1932,LOSANGELES,Finland,Europe
+8,GBR Great Britain,5,7,5,17,1932,LOSANGELES,Great Britain,Europe
+9,POL Poland,3,2,4,9,1932,LOSANGELES,Poland,Europe
+10,AUS Australia,3,1,1,5,1932,LOSANGELES,Australia,Australia
+11,ARG Argentina,3,1,0,4,1932,LOSANGELES,Argentina,South America
+12,CAN Canada,2,5,9,16,1932,LOSANGELES,Canada,North America
+13,NED Netherlands,2,5,1,8,1932,LOSANGELES,Netherlands,Europe
+14,RSA South Africa,2,0,3,5,1932,LOSANGELES,South Africa,Africa
+15,IRL Ireland,2,0,0,2,1932,LOSANGELES,Ireland,Europe
+16,TCH Czechoslovakia,1,3,2,6,1932,LOSANGELES,Czechoslovakia,Not Available
+17,AUT Austria,1,1,3,5,1932,LOSANGELES,Austria,Europe
+18,IND India,1,0,0,1,1932,LOSANGELES,India,Asia
+19,DEN Denmark,0,5,3,8,1932,LOSANGELES,Denmark,Europe
+20,MEX Mexico,0,2,0,2,1932,LOSANGELES,Mexico,North America
+21,SUI Switzerland,0,1,0,1,1932,LOSANGELES,Switzerland,Europe
+22,LAT Latvia,0,1,0,1,1932,LOSANGELES,Latvia,Europe
+23,NZL New Zealand,0,1,0,1,1932,LOSANGELES,New Zealand,Australia
+24,PHI Philippines,0,0,3,3,1932,LOSANGELES,Philippines,Asia
+25,ESP Spain,0,0,1,1,1932,LOSANGELES,Spain,Europe
+26,BEL Belgium,0,0,1,1,1932,LOSANGELES,Belgium,Europe
+27,URU Uruguay,0,0,1,1,1932,LOSANGELES,Uruguay,South America
+0,USA United States of America,22,18,16,56,1928,AMSTERDAM,United States of America,North America
+1,GER Germany,11,9,19,39,1928,AMSTERDAM,Germany,Europe
+2,NED Netherlands,8,10,5,23,1928,AMSTERDAM,Netherlands,Europe
+3,FIN Finland,8,8,9,25,1928,AMSTERDAM,Finland,Europe
+4,FRA France,7,12,6,25,1928,AMSTERDAM,France,Europe
+5,SWE Sweden,7,6,12,25,1928,AMSTERDAM,Sweden,Europe
+6,ITA Italy,7,6,7,20,1928,AMSTERDAM,Italy,Europe
+7,SUI Switzerland,7,6,4,17,1928,AMSTERDAM,Switzerland,Europe
+8,HUN Hungary,5,5,0,10,1928,AMSTERDAM,Hungary,Europe
+9,GBR Great Britain,4,11,7,22,1928,AMSTERDAM,Great Britain,Europe
+10,CAN Canada,4,4,7,15,1928,AMSTERDAM,Canada,North America
+11,ARG Argentina,3,3,1,7,1928,AMSTERDAM,Argentina,South America
+12,DEN Denmark,3,2,4,9,1928,AMSTERDAM,Denmark,Europe
+13,AUT Austria,3,0,1,4,1928,AMSTERDAM,Austria,Europe
+14,TCH Czechoslovakia,2,5,2,9,1928,AMSTERDAM,Czechoslovakia,Not Available
+15,JPN Japan,2,2,1,5,1928,AMSTERDAM,Japan,Asia
+16,POL Poland,2,1,4,7,1928,AMSTERDAM,Poland,Europe
+17,EST Estonia,2,1,2,5,1928,AMSTERDAM,Estonia,Europe
+18,EGY Egypt,2,1,1,4,1928,AMSTERDAM,Egypt,Africa
+19,NOR Norway,1,2,1,4,1928,AMSTERDAM,Norway,Europe
+20,AUS Australia,1,2,1,4,1928,AMSTERDAM,Australia,Australia
+21,YUG Yugoslavia,1,1,3,5,1928,AMSTERDAM,Yugoslavia,Not Available
+22,RSA South Africa,1,0,2,3,1928,AMSTERDAM,South Africa,Africa
+23,URU Uruguay,1,0,0,1,1928,AMSTERDAM,Uruguay,South America
+24,ESP Spain,1,0,0,1,1928,AMSTERDAM,Spain,Europe
+25,IRL Ireland,1,0,0,1,1928,AMSTERDAM,Ireland,Europe
+26,LUX Luxembourg,1,0,0,1,1928,AMSTERDAM,Luxembourg,Europe
+27,IND India,1,0,0,1,1928,AMSTERDAM,India,Asia
+28,NZL New Zealand,1,0,0,1,1928,AMSTERDAM,New Zealand,Australia
+29,BEL Belgium,0,1,2,3,1928,AMSTERDAM,Belgium,Europe
+30,CHI Chile,0,1,0,1,1928,AMSTERDAM,Chile,South America
+31,HAI Haiti,0,1,0,1,1928,AMSTERDAM,Haiti,North America
+32,PHI Philippines,0,0,1,1,1928,AMSTERDAM,Philippines,Asia
+33,POR Portugal,0,0,1,1,1928,AMSTERDAM,Portugal,Europe
+0,USA United States of America,45,27,27,99,1924,PARIS,United States of America,North America
+1,FRA France,14,15,12,41,1924,PARIS,France,Europe
+2,FIN Finland,14,13,10,37,1924,PARIS,Finland,Europe
+3,GBR Great Britain,9,14,12,35,1924,PARIS,Great Britain,Europe
+4,ITA Italy,8,3,5,16,1924,PARIS,Italy,Europe
+5,SUI Switzerland,7,8,10,25,1924,PARIS,Switzerland,Europe
+6,NOR Norway,5,2,3,10,1924,PARIS,Norway,Europe
+7,SWE Sweden,4,13,12,29,1924,PARIS,Sweden,Europe
+8,NED Netherlands,4,1,6,11,1924,PARIS,Netherlands,Europe
+9,BEL Belgium,3,7,3,13,1924,PARIS,Belgium,Europe
+10,AUS Australia,3,1,2,6,1924,PARIS,Australia,Australia
+11,DEN Denmark,2,6,3,11,1924,PARIS,Denmark,Europe
+12,HUN Hungary,2,4,4,10,1924,PARIS,Hungary,Europe
+13,YUG Yugoslavia,2,0,0,2,1924,PARIS,Yugoslavia,Not Available
+14,TCH Czechoslovakia,1,4,5,10,1924,PARIS,Czechoslovakia,Not Available
+15,ARG Argentina,1,3,2,6,1924,PARIS,Argentina,South America
+16,EST Estonia,1,1,4,6,1924,PARIS,Estonia,Europe
+17,RSA South Africa,1,1,1,3,1924,PARIS,South Africa,Africa
+18,LUX Luxembourg,1,1,0,2,1924,PARIS,Luxembourg,Europe
+19,GRE Greece,1,0,0,1,1924,PARIS,Greece,Europe
+20,URU Uruguay,1,0,0,1,1924,PARIS,Uruguay,South America
+21,CAN Canada,0,3,1,4,1924,PARIS,Canada,North America
+22,AUT Austria,0,3,1,4,1924,PARIS,Austria,Europe
+23,IRL Ireland,0,1,1,2,1924,PARIS,Ireland,Europe
+24,POL Poland,0,1,1,2,1924,PARIS,Poland,Europe
+25,JPN Japan,0,0,1,1,1924,PARIS,Japan,Asia
+26,HAI Haiti,0,0,1,1,1924,PARIS,Haiti,North America
+27,MON Monaco,0,0,1,1,1924,PARIS,Monaco,Europe
+28,POR Portugal,0,0,1,1,1924,PARIS,Portugal,Europe
+29,ROU Romania,0,0,1,1,1924,PARIS,Romania,Europe
+30,NZL New Zealand,0,0,1,1,1924,PARIS,New Zealand,Australia
+0,USA United States of America,41,27,27,95,1920,ANTWERP,United States of America,North America
+1,SWE Sweden,19,20,25,64,1920,ANTWERP,Sweden,Europe
+2,BEL Belgium,16,12,14,42,1920,ANTWERP,Belgium,Europe
+3,FIN Finland,15,10,9,34,1920,ANTWERP,Finland,Europe
+4,GBR Great Britain,14,16,13,43,1920,ANTWERP,Great Britain,Europe
+5,ITA Italy,14,6,5,25,1920,ANTWERP,Italy,Europe
+6,NOR Norway,13,10,9,32,1920,ANTWERP,Norway,Europe
+7,FRA France,9,20,13,42,1920,ANTWERP,France,Europe
+8,NED Netherlands,4,2,5,11,1920,ANTWERP,Netherlands,Europe
+9,DEN Denmark,3,9,1,13,1920,ANTWERP,Denmark,Europe
+10,RSA South Africa,3,4,3,10,1920,ANTWERP,South Africa,Africa
+11,CAN Canada,3,3,3,9,1920,ANTWERP,Canada,North America
+12,SUI Switzerland,2,2,7,11,1920,ANTWERP,Switzerland,Europe
+13,EST Estonia,1,2,0,3,1920,ANTWERP,Estonia,Europe
+14,BRA Brazil,1,1,1,3,1920,ANTWERP,Brazil,South America
+15,AUS Australia,0,2,1,3,1920,ANTWERP,Australia,Australia
+16,ESP Spain,0,2,0,2,1920,ANTWERP,Spain,Europe
+17,JPN Japan,0,2,0,2,1920,ANTWERP,Japan,Asia
+18,GRE Greece,0,1,0,1,1920,ANTWERP,Greece,Europe
+19,LUX Luxembourg,0,1,0,1,1920,ANTWERP,Luxembourg,Europe
+20,TCH Czechoslovakia,0,0,2,2,1920,ANTWERP,Czechoslovakia,Not Available
+21,NZL New Zealand,0,0,1,1,1920,ANTWERP,New Zealand,Australia
+0,USA United States of America,26,19,19,64,1912,STOCKHOLM,United States of America,North America
+1,SWE Sweden,24,24,17,65,1912,STOCKHOLM,Sweden,Europe
+2,GBR Great Britain,10,15,16,41,1912,STOCKHOLM,Great Britain,Europe
+3,FIN Finland,9,8,9,26,1912,STOCKHOLM,Finland,Europe
+4,FRA France,7,5,3,15,1912,STOCKHOLM,France,Europe
+5,GER Germany,6,13,7,26,1912,STOCKHOLM,Germany,Europe
+6,ITA Italy,5,1,2,8,1912,STOCKHOLM,Italy,Europe
+7,RSA South Africa,4,2,0,6,1912,STOCKHOLM,South Africa,Africa
+8,NOR Norway,4,1,5,10,1912,STOCKHOLM,Norway,Europe
+9,CAN Canada,3,2,3,8,1912,STOCKHOLM,Canada,North America
+10,HUN Hungary,3,2,3,8,1912,STOCKHOLM,Hungary,Europe
+11,ANZ Australasia,2,2,3,7,1912,STOCKHOLM,Australasia,Not Available
+12,BEL Belgium,2,1,3,6,1912,STOCKHOLM,Belgium,Europe
+13,DEN Denmark,1,6,5,12,1912,STOCKHOLM,Denmark,Europe
+14,GRE Greece,1,0,1,2,1912,STOCKHOLM,Greece,Europe
+15,SUI Switzerland,1,0,0,1,1912,STOCKHOLM,Switzerland,Europe
+16,RUS Russian Federation,0,2,3,5,1912,STOCKHOLM,Russian Federation,Europe
+17,AUT Austria,0,2,2,4,1912,STOCKHOLM,Austria,Europe
+18,NED Netherlands,0,0,3,3,1912,STOCKHOLM,Netherlands,Europe
+0,GBR Great Britain,56,51,39,146,1908,LONDON,Great Britain,Europe
+1,USA United States of America,23,12,12,47,1908,LONDON,United States of America,North America
+2,SWE Sweden,8,6,11,25,1908,LONDON,Sweden,Europe
+3,FRA France,5,5,9,19,1908,LONDON,France,Europe
+4,GER Germany,3,5,5,13,1908,LONDON,Germany,Europe
+5,HUN Hungary,3,4,2,9,1908,LONDON,Hungary,Europe
+6,CAN Canada,3,3,10,16,1908,LONDON,Canada,North America
+7,NOR Norway,2,3,3,8,1908,LONDON,Norway,Europe
+8,ITA Italy,2,2,0,4,1908,LONDON,Italy,Europe
+9,BEL Belgium,1,5,2,8,1908,LONDON,Belgium,Europe
+10,ANZ Australasia,1,2,2,5,1908,LONDON,Australasia,Not Available
+11,RUS Russian Federation,1,2,0,3,1908,LONDON,Russian Federation,Europe
+12,FIN Finland,1,1,3,5,1908,LONDON,Finland,Europe
+13,RSA South Africa,1,1,0,2,1908,LONDON,South Africa,Africa
+14,GRE Greece,0,3,1,4,1908,LONDON,Greece,Europe
+15,DEN Denmark,0,2,3,5,1908,LONDON,Denmark,Europe
+16,NED Netherlands,0,0,2,2,1908,LONDON,Netherlands,Europe
+17,BOH Bohemia,0,0,2,2,1908,LONDON,Bohemia,Not Available
+18,AUT Austria,0,0,1,1,1908,LONDON,Austria,Europe
+0,USA United States of America,11,7,2,20,1896,ATHENS,United States of America,North America
+1,GRE Greece,10,18,19,47,1896,ATHENS,Greece,Europe
+2,GER Germany,6,5,2,13,1896,ATHENS,Germany,Europe
+3,FRA France,5,4,2,11,1896,ATHENS,France,Europe
+4,GBR Great Britain,2,3,2,7,1896,ATHENS,Great Britain,Europe
+5,HUN Hungary,2,1,3,6,1896,ATHENS,Hungary,Europe
+6,AUT Austria,2,1,2,5,1896,ATHENS,Austria,Europe
+7,AUS Australia,2,0,0,2,1896,ATHENS,Australia,Australia
+8,DEN Denmark,1,2,3,6,1896,ATHENS,Denmark,Europe
+9,SUI Switzerland,1,2,0,3,1896,ATHENS,Switzerland,Europe
+10,MIX MIX,1,0,1,2,1896,ATHENS,MIX,Not Available
