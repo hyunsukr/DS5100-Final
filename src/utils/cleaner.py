@@ -35,8 +35,16 @@ class Cleaner():
             continent_name = pc.country_alpha2_to_continent_code(country_code)
             return continent_name
         except:
-            if name == 'ROC' or name == "Republic of Korea" or name == "Chinese Taipei" or name == "Hong Kong, China":
+            if name in ['ROC',"Republic of Korea","Chinese Taipei","Hong Kong, China","Soviet Union","United Arab Republic"]:
                 return "AS"
+            elif name in ["German Democratic Republic (Germany)", "Yugoslavia", "Czechoslovakia", "Kosovo", "Serbia and Montenegro", "Bohemia"]:
+                return "EU"
+            elif name in ["Virgin Islands, US","West Indies Federation"]:
+                return "NA"
+            elif name in ['Netherlands Antilles']:
+                return 'SA'
+            elif name in ['Australasia']:
+                 return "OC"
             else:
                 return "Not Available"
 
