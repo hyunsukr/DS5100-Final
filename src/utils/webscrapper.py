@@ -6,10 +6,14 @@ import pandas as pd
 import numpy as np
 from progressbar import ProgressBar
 pbar = ProgressBar()
+import json
 
 class Web_Scrapper():
-    def __init__(self, baselink="https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/"):
+    def __init__(self, baselink="https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/", history = {}):
         self.baselink = baselink
+        with open('src/resources/history.json') as json_file:
+            history = json.load(json_file)
+        self.history = history
     
     def scrape_gdp(self):
         URL = "https://www.worldometers.info/gdp/gdp-by-country/" # specify URL of website we want to scrape
@@ -47,8 +51,21 @@ class Web_Scrapper():
             d = {'Country': country, 'GDP': vals,'GDP abbreviated': other_val,'GDP growth': percent,'Population': temp,'GDP per capita': other}
         df = pd.DataFrame(d)
         return df
+    
+    def scrape_history(self):
+        ## Not Tested Yet
+        time_series = pd.DataFrame()
+        for i in pbar(self.history.values()):
+            df = self.scrape_summary(i)
+            df["Year"] = i.split('/')[5].split('-')[-1]
+            df["Location"] = "".join(i.split('/')[5].split('-')[:-1]).upper()
+            time_series = time_series.append(df)
 
-        
+        time_series["NOC"] = time_series["Name"].str[4:]
+        return time_series
+
+
+
     def scrape_summary(self, url_query):
         """
         A method to scrape the table data from the https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm
@@ -58,9 +75,7 @@ class Web_Scrapper():
 
         :returns: <dataframe> = A data frame containing the summary statistics of each country and medals earned.
         """
-        URL = self.baselink + url_query
-        URL = 'https://olympics.com/en/olympic-games/tokyo-2020/medals'
-        r = requests.get(URL)
+        r = requests.get(url_query)
         # Read the data content as html
         soup = BeautifulSoup(r.content, 'html5lib') # If this line causes an error, run 'pip install html5lib' or install html5lib
         # Get the ul tag by the id specific for the 7 day forcast

@@ -31,7 +31,7 @@
 29,BUL Bulgaria,3,1,2,6,Bulgaria,"$58,220,973,783",$58.22 billion,3.81%,"7,102,444","$8,197",Bulgaria,1,Europe
 30,SLO Slovenia,3,1,1,5,Slovenia,"$48,769,655,479",$48.77 billion,5.00%,"2,076,394","$23,488",Slovenia,2,Europe
 31,UZB Uzbekistan,3,0,2,5,Uzbekistan,"$49,677,172,714",$49.68 billion,5.30%,"31,959,785","$1,554",Uzbekistan,1,Asia
-32,TPE Chinese Taipei,2,4,6,12,Not Available,,,,,,Chinese Taipei,7,Asia
+32,TPE Chinese Taipei,2,4,6,12,Taipei,,,,,,Chinese Taipei,7,Asia
 33,TUR Turkey,2,2,9,13,Turkey,"$851,549,299,635",$852 billion,7.44%,"81,116,450","$10,498",Turkey,4,Asia
 34,GRE Greece,2,1,1,4,Greece,"$203,085,551,429",$203 billion,1.35%,"10,569,450","$19,214",Greece,6,Europe
 35,ECU Ecuador,2,1,0,3,Ecuador,"$104,295,862,000",$104 billion,2.37%,"16,785,361","$6,214",Ecuador,1,South America
@@ -41,7 +41,7 @@
 39,BAH Bahamas,2,0,0,2,Bahamas,"$12,162,100,000",$12.16 billion,1.44%,"381,755","$31,858",Bahamas,1,North America
 40,UKR Ukraine,1,6,12,19,Ukraine,"$112,154,185,121",$112 billion,2.52%,"44,487,709","$2,521",Ukraine,10,Europe
 41,BLR Belarus,1,3,3,7,Belarus,"$54,456,465,473",$54.46 billion,2.42%,"9,450,231","$5,762",Belarus,7,Europe
-42,VEN Venezuela,1,3,0,4,Not Available,,,,,,Venezuela,1,South America
+42,VEN Venezuela,1,3,0,4,Venezuela,,,,,,Venezuela,1,South America
 43,ROU Romania,1,3,0,4,Romania,"$211,883,923,504",$212 billion,7.26%,"19,653,969","$10,781",Romania,4,Europe
 44,IND India,1,2,4,7,India,"$2,650,725,335,364",$2.651 trillion,6.68%,"1,338,676,785","$1,980",India,7,Asia
 45,"HKG Hong Kong, China",1,2,3,6,Hong Kong,"$341,449,340,451",$341 billion,3.79%,"7,306,322","$46,733","Hong Kong, China",9,Asia
@@ -56,7 +56,7 @@
 54,LAT Latvia,1,0,1,2,Latvia,"$30,463,302,414",$30.46 billion,4.55%,"1,951,097","$15,613",Latvia,3,Europe
 55,EST Estonia,1,0,1,2,Estonia,"$26,611,651,599",$26.61 billion,4.85%,"1,319,390","$20,170",Estonia,1,Europe
 56,MAR Morocco,1,0,0,1,Morocco,"$109,708,728,849",$110 billion,4.09%,"35,581,255","$3,083",Morocco,1,Africa
-57,PUR Puerto Rico,1,0,0,1,Not Available,,,,,,Puerto Rico,1,North America
+57,PUR Puerto Rico,1,0,0,1,Puerto Rico,,,,,,Puerto Rico,1,North America
 58,COL Colombia,0,4,1,5,Colombia,"$314,457,601,860",$314 billion,1.79%,"48,909,839","$6,429",Colombia,3,South America
 59,AZE Azerbaijan,0,3,4,7,Azerbaijan,"$40,747,792,238",$40.75 billion,0.10%,"9,845,320","$4,139",Azerbaijan,1,Asia
 60,DOM Dominican Republic,0,3,2,5,Dominican Republic,"$75,931,656,815",$75.93 billion,4.55%,"10,513,104","$7,223",Dominican Republic,3,North America

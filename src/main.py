@@ -4,7 +4,15 @@ import pandas as pd
 
 def main():
     scrapper = Web_Scrapper()
-    national_src = scrapper.scrape_summary("medal-standings.htm")
+    mapper_class = Cleaner()
+
+    ## History
+    history = scrapper.scrape_history()
+    history = mapper_class.convert_continent(history)
+    history.to_csv('data/time-series.csv')
+
+    ## Tokyo
+    national_src = scrapper.scrape_summary('https://olympics.com/en/olympic-games/tokyo-2020/medals')
     national_src.to_csv('data/country.csv')
     gdp = scrapper.scrape_gdp()
     gdp.to_csv("data/gdp.csv")

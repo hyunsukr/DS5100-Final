@@ -32,7 +32,7 @@
 30,SLO Slovenia,3,1,1,5,Slovenia,"$48,769,655,479",$48.77 billion,5.00%,"2,076,394","$23,488"
 31,UZB Uzbekistan,3,0,2,5,Uzbekistan,"$49,677,172,714",$49.68 billion,5.30%,"31,959,785","$1,554"
 32,GEO Georgia,2,5,1,8,Georgia,"$15,081,338,092",$15.08 billion,4.83%,"4,008,716","$3,762"
-33,TPE Chinese Taipei,2,4,6,12,Not Available,,,,,
+33,TPE Chinese Taipei,2,4,6,12,Taipei,,,,,
 34,TUR Turkey,2,2,9,13,Turkey,"$851,549,299,635",$852 billion,7.44%,"81,116,450","$10,498"
 35,GRE Greece,2,1,1,4,Greece,"$203,085,551,429",$203 billion,1.35%,"10,569,450","$19,214"
 36,UGA Uganda,2,1,1,4,Uganda,"$25,995,031,850",$26.00 billion,3.86%,"41,166,588",$631
@@ -41,10 +41,10 @@
 39,IRL Ireland,2,0,2,4,Ireland,"$331,430,014,003",$331 billion,7.80%,"4,753,279","$69,727"
 40,QAT Qatar,2,0,1,3,Qatar,"$166,928,571,429",$167 billion,1.58%,"2,724,728","$61,264"
 41,BAH Bahamas,2,0,0,2,Bahamas,"$12,162,100,000",$12.16 billion,1.44%,"381,755","$31,858"
-42,KOS Kosovo,2,0,0,2,Not Available,,,,,
+42,KOS Kosovo,2,0,0,2,Kosovo,,,,,
 43,UKR Ukraine,1,6,12,19,Ukraine,"$112,154,185,121",$112 billion,2.52%,"44,487,709","$2,521"
 44,BLR Belarus,1,3,3,7,Belarus,"$54,456,465,473",$54.46 billion,2.42%,"9,450,231","$5,762"
-45,VEN Venezuela,1,3,0,4,Not Available,,,,,
+45,VEN Venezuela,1,3,0,4,Venezuela,,,,,
 46,ROU Romania,1,3,0,4,Romania,"$211,883,923,504",$212 billion,7.26%,"19,653,969","$10,781"
 47,IND India,1,2,4,7,India,"$2,650,725,335,364",$2.651 trillion,6.68%,"1,338,676,785","$1,980"
 48,"HKG Hong Kong, China",1,2,3,6,Hong Kong,"$341,449,340,451",$341 billion,3.79%,"7,306,322","$46,733"
@@ -62,8 +62,8 @@
 60,EST Estonia,1,0,1,2,Estonia,"$26,611,651,599",$26.61 billion,4.85%,"1,319,390","$20,170"
 61,THA Thailand,1,0,1,2,Thailand,"$455,302,682,986",$455 billion,3.91%,"69,209,810","$6,579"
 62,MAR Morocco,1,0,0,1,Morocco,"$109,708,728,849",$110 billion,4.09%,"35,581,255","$3,083"
-63,PUR Puerto Rico,1,0,0,1,Not Available,,,,,
-64,BER Bermuda,1,0,0,1,Not Available,,,,,
+63,PUR Puerto Rico,1,0,0,1,Puerto Rico,,,,,
+64,BER Bermuda,1,0,0,1,Bermuda,,,,,
 65,COL Colombia,0,4,1,5,Colombia,"$314,457,601,860",$314 billion,1.79%,"48,909,839","$6,429"
 66,AZE Azerbaijan,0,3,4,7,Azerbaijan,"$40,747,792,238",$40.75 billion,0.10%,"9,845,320","$4,139"
 67,DOM Dominican Republic,0,3,2,5,Dominican Republic,"$75,931,656,815",$75.93 billion,4.55%,"10,513,104","$7,223"
@@ -91,4 +91,4 @@
 89,CIV Côte d'Ivoire,0,0,1,1,Côte d'Ivoire,"$37,353,276,059",$37.35 billion,7.70%,"24,437,470","$1,529"
 90,BOT Botswana,0,0,1,1,Botswana,"$17,406,565,823",$17.41 billion,2.36%,"2,205,080","$7,894"
 91,KUW Kuwait,0,0,1,1,Kuwait,"$120,126,277,613",$120 billion,-2.87%,"4,056,099","$29,616"
-92,SYR Syrian Arab Republic,0,0,1,1,Not Available,,,,,
+92,SYR Syrian Arab Republic,0,0,1,1,Syrian Arab Republic,,,,,
