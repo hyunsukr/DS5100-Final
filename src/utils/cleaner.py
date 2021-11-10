@@ -15,10 +15,10 @@ class Cleaner():
         self.continent_maps = cont_map
         self.country_maps = mapping
 
-    def join_gdp(self, gdp, olympic):
+    def join_gdp(self, gdp, olympic, join_cols=['Country']):
         temp_olympic = olympic.copy()
         temp_olympic["Country"] = temp_olympic["Name"].str[4:].map(self.country_maps)
-        joined = pd.merge(temp_olympic, gdp, how='left', on='Country')
+        joined = pd.merge(temp_olympic, gdp, how='left', on=join_cols)
         return joined
 
     def join_aggregate_teams(self, teams, olympic):

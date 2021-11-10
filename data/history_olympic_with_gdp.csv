@@ -1,0 +1,1316 @@
+,Name,Gold,Silver,Bronze,Total,Year,Location,NOC,Continents,Country,GDP,GDP growth,GDP per capita,GDP per capita growth
+0,USA United States of America,39,41,33,113,2020,TOKYO,United States of America,North America,United States,20893700000000.0,-3.4%,63358.0,-2.6%
+1,CHN People's Republic of China,38,32,18,88,2020,TOKYO,People's Republic of China,Asia,China,14866740000000.0,2.3%,10511.0,3.4%
+2,JPN Japan,27,14,17,58,2020,TOKYO,Japan,Asia,Japan,5045100000000.0,-4.6%,40093.0,-0.4%
+3,GBR Great Britain,22,21,22,65,2020,TOKYO,Great Britain,Europe,United Kingdom,2709680000000.0,-9.7%,40428.0,-4.7%
+4,ROC ROC,20,28,23,71,2020,TOKYO,ROC,Asia,Russia,1478570000000.0,-3.0%,10115.0,-12.2%
+5,AUS Australia,17,7,22,46,2020,TOKYO,Australia,Australia,Australia,1359370000000.0,1.4%,52905.0,-2.9%
+6,NED Netherlands,10,12,14,36,2020,TOKYO,Netherlands,Europe,Netherlands,913134000000.0,-3.8%,52456.0,-0.4%
+7,FRA France,10,12,11,33,2020,TOKYO,France,Europe,France,2624420000000.0,-7.9%,40299.0,-4.0%
+8,GER Germany,10,11,16,37,2020,TOKYO,Germany,Europe,Germany,3843340000000.0,-4.6%,46216.0,-1.3%
+9,ITA Italy,10,10,20,40,2020,TOKYO,Italy,Europe,Italy,1884940000000.0,-8.9%,31809.0,-5.1%
+10,CAN Canada,7,6,11,24,2020,TOKYO,Canada,North America,Canada,1644040000000.0,-5.3%,43295.0,-6.7%
+11,BRA Brazil,7,6,8,21,2020,TOKYO,Brazil,South America,Brazil,1444720000000.0,-4.1%,6797.0,-23.9%
+12,NZL New Zealand,7,6,7,20,2020,TOKYO,New Zealand,Australia,New Zealand,209384000000.0,-0.3%,41165.0,-2.5%
+13,CUB Cuba,7,3,5,15,2020,TOKYO,Cuba,North America,Cuba,,,,
+14,HUN Hungary,6,7,7,20,2020,TOKYO,Hungary,Europe,Hungary,155013000000.0,-4.7%,15866.0,-5.2%
+15,KOR Republic of Korea,6,4,10,20,2020,TOKYO,Republic of Korea,Asia,South Korea,1638260000000.0,-0.9%,31638.0,-0.9%
+16,POL Poland,4,5,5,14,2020,TOKYO,Poland,Europe,Poland,595916000000.0,-2.5%,15699.0,-0.2%
+17,CZE Czech Republic,4,4,3,11,2020,TOKYO,Czech Republic,Europe,Czech Republic,243530000000.0,-5.8%,22756.0,-4.0%
+18,KEN Kenya,4,4,2,10,2020,TOKYO,Kenya,Africa,Kenya,102427000000.0,-0.3%,1905.0,-9.7%
+19,NOR Norway,4,2,2,8,2020,TOKYO,Norway,Europe,Norway,362522000000.0,-0.8%,67326.0,-11.1%
+20,JAM Jamaica,4,1,4,9,2020,TOKYO,Jamaica,North America,Jamaica,13967000000.0,-10.0%,4717.0,-18.4%
+21,ESP Spain,3,8,6,17,2020,TOKYO,Spain,Europe,Spain,1280460000000.0,-10.8%,27179.0,-8.1%
+22,SWE Sweden,3,6,0,9,2020,TOKYO,Sweden,Europe,Sweden,541064000000.0,-2.8%,52129.0,0.8%
+23,SUI Switzerland,3,4,6,13,2020,TOKYO,Switzerland,Europe,Switzerland,751877000000.0,-2.9%,87367.0,1.9%
+24,DEN Denmark,3,4,4,11,2020,TOKYO,Denmark,Europe,Denmark,356085000000.0,-2.1%,60973.0,1.9%
+25,CRO Croatia,3,3,2,8,2020,TOKYO,Croatia,Europe,Croatia,56171000000.0,-8.1%,13896.0,-7.0%
+26,IRI Islamic Republic of Iran,3,2,2,7,2020,TOKYO,Islamic Republic of Iran,Asia,Iran,835351000000.0,3.4%,9945.0,42.5%
+27,SRB Serbia,3,1,5,9,2020,TOKYO,Serbia,Europe,Serbia,52960000000.0,-0.9%,7646.0,3.4%
+28,BEL Belgium,3,1,3,7,2020,TOKYO,Belgium,Europe,Belgium,514920000000.0,-5.7%,44688.0,-4.0%
+29,BUL Bulgaria,3,1,2,6,2020,TOKYO,Bulgaria,Europe,Bulgaria,69209000000.0,-4.4%,10006.0,1.5%
+30,SLO Slovenia,3,1,1,5,2020,TOKYO,Slovenia,Europe,Slovenia,53547000000.0,-4.2%,25549.0,-1.9%
+31,UZB Uzbekistan,3,0,2,5,2020,TOKYO,Uzbekistan,Asia,Uzbekistan,59928000000.0,1.7%,1767.0,-1.9%
+32,GEO Georgia,2,5,1,8,2020,TOKYO,Georgia,Asia,Georgia,15891000000.0,-6.2%,4275.0,-8.9%
+33,TPE Chinese Taipei,2,4,6,12,2020,TOKYO,Chinese Taipei,Asia,Taipei,,,,
+34,TUR Turkey,2,2,9,13,2020,TOKYO,Turkey,Asia,Turkey,719919000000.0,1.8%,8610.0,-5.9%
+35,GRE Greece,2,1,1,4,2020,TOKYO,Greece,Europe,Greece,189259000000.0,-9.0%,17657.0,-7.8%
+36,UGA Uganda,2,1,1,4,2020,TOKYO,Uganda,Africa,Uganda,38141000000.0,-0.8%,834.0,-2.9%
+37,ECU Ecuador,2,1,0,3,2020,TOKYO,Ecuador,South America,Ecuador,98808000000.0,-7.8%,5643.0,-9.9%
+38,ISR Israel,2,0,2,4,2020,TOKYO,Israel,Asia,Israel,407101000000.0,-2.2%,44181.0,0.5%
+39,IRL Ireland,2,0,2,4,2020,TOKYO,Ireland,Europe,Ireland,425549000000.0,5.9%,85206.0,5.7%
+40,QAT Qatar,2,0,1,3,2020,TOKYO,Qatar,Asia,Qatar,145450000000.0,-3.6%,54185.0,-13.7%
+41,BAH Bahamas,2,0,0,2,2020,TOKYO,Bahamas,North America,Bahamas,11250000000.0,-16.3%,28608.0,-15.4%
+42,KOS Kosovo,2,0,0,2,2020,TOKYO,Kosovo,Europe,Kosovo,,,,
+43,UKR Ukraine,1,6,12,19,2020,TOKYO,Ukraine,Europe,Ukraine,155300000000.0,-4.0%,3741.0,1.4%
+44,BLR Belarus,1,3,3,7,2020,TOKYO,Belarus,Europe,Belarus,60201000000.0,-0.9%,6398.0,-6.4%
+45,VEN Venezuela,1,3,0,4,2020,TOKYO,Venezuela,South America,Venezuela,,,,
+46,ROU Romania,1,3,0,4,2020,TOKYO,Romania,Europe,Romania,248716000000.0,-3.9%,12868.0,0.1%
+47,IND India,1,2,4,7,2020,TOKYO,India,Asia,India,2660240000000.0,-7.3%,1928.0,-8.2%
+48,"HKG Hong Kong, China",1,2,3,6,2020,TOKYO,"Hong Kong, China",Asia,Hong Kong,346584000000.0,-6.1%,46657.0,-3.3%
+49,SVK Slovakia,1,2,1,4,2020,TOKYO,Slovakia,Europe,Slovakia,104574000000.0,-4.4%,19154.0,-0.7%
+50,PHI Philippines,1,2,1,4,2020,TOKYO,Philippines,Asia,Philippines,361489000000.0,-9.6%,3323.0,-5.4%
+51,RSA South Africa,1,2,0,3,2020,TOKYO,South Africa,Africa,South Africa,335344000000.0,-7.0%,5625.0,-14.8%
+52,AUT Austria,1,1,5,7,2020,TOKYO,Austria,Europe,Austria,428965000000.0,-6.7%,48022.0,-4.4%
+53,EGY Egypt,1,1,4,6,2020,TOKYO,Egypt,Africa,Egypt,363245000000.0,3.6%,3601.0,17.8%
+54,INA Indonesia,1,1,3,5,2020,TOKYO,Indonesia,Asia,Indonesia,1059640000000.0,-2.1%,3922.0,-6.6%
+55,POR Portugal,1,1,2,4,2020,TOKYO,Portugal,Europe,Portugal,228356000000.0,-8.4%,22149.0,-5.1%
+56,ETH Ethiopia,1,1,2,4,2020,TOKYO,Ethiopia,Africa,Ethiopia,96611000000.0,6.1%,840.0,1.7%
+57,TUN Tunisia,1,1,0,2,2020,TOKYO,Tunisia,Africa,Tunisia,39219000000.0,-8.6%,3318.0,-0.2%
+58,FIJ Fiji,1,0,1,2,2020,TOKYO,Fiji,Australia,Fiji,4494000000.0,-15.7%,5013.0,-18.4%
+59,LAT Latvia,1,0,1,2,2020,TOKYO,Latvia,Europe,Latvia,33478000000.0,-3.6%,17683.0,-0.3%
+60,EST Estonia,1,0,1,2,2020,TOKYO,Estonia,Europe,Estonia,30626000000.0,-3.0%,23026.0,-1.6%
+61,THA Thailand,1,0,1,2,2020,TOKYO,Thailand,Asia,Thailand,501712000000.0,-6.1%,7188.0,-8.0%
+62,MAR Morocco,1,0,0,1,2020,TOKYO,Morocco,Africa,Morocco,114602000000.0,-6.3%,3105.0,-5.5%
+63,PUR Puerto Rico,1,0,0,1,2020,TOKYO,Puerto Rico,North America,Puerto Rico,,,,
+64,BER Bermuda,1,0,0,1,2020,TOKYO,Bermuda,North America,Bermuda,,,,
+65,COL Colombia,0,4,1,5,2020,TOKYO,Colombia,South America,Colombia,271554000000.0,-6.8%,5391.0,-17.7%
+66,AZE Azerbaijan,0,3,4,7,2020,TOKYO,Azerbaijan,Asia,Azerbaijan,42607000000.0,-4.3%,4232.0,-12.3%
+67,DOM Dominican Republic,0,3,2,5,2020,TOKYO,Dominican Republic,North America,Dominican Republic,78923000000.0,-6.7%,7275.0,-15.4%
+68,ARM Armenia,0,2,2,4,2020,TOKYO,Armenia,Asia,Armenia,12641000000.0,-7.4%,4267.0,-7.2%
+69,KGZ Kyrgyzstan,0,2,1,3,2020,TOKYO,Kyrgyzstan,Asia,Kyrgyzstan,7747000000.0,-8.6%,1175.0,-15.4%
+70,MGL Mongolia,0,1,3,4,2020,TOKYO,Mongolia,Asia,Mongolia,13137000000.0,-5.3%,3916.0,-7.8%
+71,SMR San Marino,0,1,2,3,2020,TOKYO,San Marino,Europe,San Marino,,,,
+72,ARG Argentina,0,1,2,3,2020,TOKYO,Argentina,South America,Argentina,389064000000.0,-9.9%,8574.0,-14.7%
+73,MAS Malaysia,0,1,1,2,2020,TOKYO,Malaysia,Asia,Malaysia,337008000000.0,-5.6%,10231.0,-8.9%
+74,NGR Nigeria,0,1,1,2,2020,TOKYO,Nigeria,Africa,Nigeria,429423000000.0,-1.8%,2083.0,-6.6%
+75,JOR Jordan,0,1,1,2,2020,TOKYO,Jordan,Asia,Jordan,43698000000.0,-1.6%,4283.0,-2.9%
+76,BRN Bahrain,0,1,0,1,2020,TOKYO,Bahrain,Asia,Bahrain,34729000000.0,-5.1%,23590.0,-9.0%
+77,KSA Saudi Arabia,0,1,0,1,2020,TOKYO,Saudi Arabia,Asia,Saudi Arabia,700118000000.0,-4.1%,19996.0,-13.7%
+78,LTU Lithuania,0,1,0,1,2020,TOKYO,Lithuania,Europe,Lithuania,55843000000.0,-0.1%,19975.0,2.1%
+79,MKD North Macedonia,0,1,0,1,2020,TOKYO,North Macedonia,Europe,North Macedonia,12288000000.0,-4.5%,5939.0,-1.7%
+80,NAM Namibia,0,1,0,1,2020,TOKYO,Namibia,Africa,Namibia,10710000000.0,-8.0%,4276.0,-16.3%
+81,TKM Turkmenistan,0,1,0,1,2020,TOKYO,Turkmenistan,Asia,Turkmenistan,45609000000.0,-3.4%,7562.0,-2.9%
+82,KAZ Kazakhstan,0,0,8,8,2020,TOKYO,Kazakhstan,Asia,Kazakhstan,171240000000.0,-2.6%,9131.0,-6.4%
+83,MEX Mexico,0,0,4,4,2020,TOKYO,Mexico,North America,Mexico,1073920000000.0,-8.3%,8404.0,-16.2%
+84,FIN Finland,0,0,2,2,2020,TOKYO,Finland,Europe,Finland,269557000000.0,-2.9%,48786.0,0.1%
+85,MDA Republic of Moldova,0,0,1,1,2020,TOKYO,Republic of Moldova,Europe,Moldova,11914000000.0,-7.0%,4551.0,2.0%
+86,GRN Grenada,0,0,1,1,2020,TOKYO,Grenada,North America,Grenada,1089000000.0,-11.2%,9639.0,-9.1%
+87,GHA Ghana,0,0,1,1,2020,TOKYO,Ghana,Africa,Ghana,72354000000.0,0.4%,2329.0,3.6%
+88,BUR Burkina Faso,0,0,1,1,2020,TOKYO,Burkina Faso,Africa,Burkina Faso,17378000000.0,1.9%,831.0,5.7%
+89,CIV Côte d'Ivoire,0,0,1,1,2020,TOKYO,Côte d'Ivoire,Africa,Côte d'Ivoire,,,,
+90,BOT Botswana,0,0,1,1,2020,TOKYO,Botswana,Africa,Botswana,15064000000.0,-8.5%,6406.0,-11.3%
+91,KUW Kuwait,0,0,1,1,2020,TOKYO,Kuwait,Asia,Kuwait,105949000000.0,-8.9%,22684.0,-20.5%
+92,SYR Syrian Arab Republic,0,0,1,1,2020,TOKYO,Syrian Arab Republic,Asia,Syrian Arab Republic,,,,
+93,USA United States of America,46,37,38,121,2016,RIO,United States of America,North America,United States,18695100000000.0,1.7%,57840.0,2.0%
+94,GBR Great Britain,27,23,17,67,2016,RIO,Great Britain,Europe,United Kingdom,2703240000000.0,1.7%,41178.0,-8.6%
+95,CHN People's Republic of China,26,18,26,70,2016,RIO,People's Republic of China,Asia,China,11226900000000.0,6.8%,8063.0,0.4%
+96,RUS Russian Federation,19,17,20,56,2016,RIO,Russian Federation,Europe,,,,,
+97,GER Germany,17,10,15,42,2016,RIO,Germany,Europe,Germany,3468900000000.0,2.2%,42124.0,2.5%
+98,JPN Japan,12,8,21,41,2016,RIO,Japan,Asia,Japan,5003680000000.0,0.8%,38772.0,10.8%
+99,FRA France,10,18,14,42,2016,RIO,France,Europe,France,2471260000000.0,1.1%,38333.0,1.1%
+100,KOR Republic of Korea,9,3,9,21,2016,RIO,Republic of Korea,Asia,South Korea,1499360000000.0,2.9%,29274.0,1.9%
+101,ITA Italy,8,12,8,28,2016,RIO,Italy,Europe,Italy,1876550000000.0,1.3%,31191.0,2.4%
+102,AUS Australia,8,11,10,29,2016,RIO,Australia,Australia,Australia,1266200000000.0,2.3%,51915.0,0.8%
+103,NED Netherlands,8,7,4,19,2016,RIO,Netherlands,Europe,Netherlands,783844000000.0,2.2%,46165.0,1.9%
+104,HUN Hungary,8,3,4,15,2016,RIO,Hungary,Europe,Hungary,128471000000.0,2.2%,13069.0,3.0%
+105,BRA Brazil,7,6,6,19,2016,RIO,Brazil,South America,Brazil,1796620000000.0,-3.3%,8757.0,-1.0%
+106,ESP Spain,7,4,6,17,2016,RIO,Spain,Europe,Spain,1232570000000.0,3.0%,26536.0,3.0%
+107,KEN Kenya,6,6,1,13,2016,RIO,Kenya,Africa,Kenya,74817000000.0,4.2%,1689.0,3.9%
+108,JAM Jamaica,6,3,2,11,2016,RIO,Jamaica,North America,Jamaica,14108000000.0,1.5%,5183.0,-0.4%
+109,CRO Croatia,5,3,2,10,2016,RIO,Croatia,Europe,Croatia,51601000000.0,3.5%,12363.0,4.9%
+110,CUB Cuba,5,2,4,11,2016,RIO,Cuba,North America,Cuba,91370000000.0,0.5%,8061.0,4.8%
+111,NZL New Zealand,4,9,5,18,2016,RIO,New Zealand,Australia,New Zealand,185956000000.0,3.8%,39427.0,3.2%
+112,CAN Canada,4,3,15,22,2016,RIO,Canada,North America,Canada,1528000000000.0,1.0%,42383.0,-2.9%
+113,UZB Uzbekistan,4,2,7,13,2016,RIO,Uzbekistan,Asia,Uzbekistan,85658000000.0,5.9%,2713.0,-1.8%
+114,KAZ Kazakhstan,3,5,10,18,2016,RIO,Kazakhstan,Asia,Kazakhstan,137289000000.0,1.1%,7662.0,-26.6%
+115,COL Colombia,3,2,3,8,2016,RIO,Colombia,South America,Colombia,282720000000.0,2.1%,6037.0,-4.7%
+116,SUI Switzerland,3,2,2,7,2016,RIO,Switzerland,Europe,Switzerland,695434000000.0,2.0%,83516.0,-2.0%
+117,IRI Islamic Republic of Iran,3,1,4,8,2016,RIO,Islamic Republic of Iran,Asia,Iran,418064000000.0,13.4%,5196.0,7.3%
+118,GRE Greece,3,1,2,6,2016,RIO,Greece,Europe,Greece,192810000000.0,-0.5%,17880.0,-0.7%
+119,ARG Argentina,3,1,0,4,2016,RIO,Argentina,South America,Argentina,556774000000.0,-2.1%,12773.0,-14.3%
+120,DEN Denmark,2,6,7,15,2016,RIO,Denmark,Europe,Denmark,313116000000.0,3.2%,54863.0,2.6%
+121,SWE Sweden,2,6,3,11,2016,RIO,Sweden,Europe,Sweden,515655000000.0,2.1%,51590.0,0.6%
+122,RSA South Africa,2,6,2,10,2016,RIO,South Africa,Africa,South Africa,323493000000.0,0.4%,5751.0,-8.1%
+123,UKR Ukraine,2,5,4,11,2016,RIO,Ukraine,Europe,Ukraine,93313000000.0,2.4%,2200.0,3.6%
+124,SRB Serbia,2,4,2,8,2016,RIO,Serbia,Europe,Serbia,40693000000.0,3.3%,5765.0,3.2%
+125,POL Poland,2,3,6,11,2016,RIO,Poland,Europe,Poland,472256000000.0,3.1%,12439.0,-1.0%
+126,PRK Democratic People's Republic of Korea,2,3,2,7,2016,RIO,Democratic People's Republic of Korea,Asia,,,,,
+127,THA Thailand,2,2,2,6,2016,RIO,Thailand,Asia,Thailand,413497000000.0,3.4%,5995.0,2.7%
+128,BEL Belgium,2,2,2,6,2016,RIO,Belgium,Europe,Belgium,475931000000.0,1.3%,42076.0,2.3%
+129,SVK Slovakia,2,2,0,4,2016,RIO,Slovakia,Europe,Slovakia,89691000000.0,1.9%,16529.0,1.2%
+130,GEO Georgia,2,1,4,7,2016,RIO,Georgia,Asia,Georgia,15141000000.0,2.9%,4061.0,1.1%
+131,AZE Azerbaijan,1,7,10,18,2016,RIO,Azerbaijan,Asia,Azerbaijan,37830000000.0,-3.1%,3898.0,-26.5%
+132,BLR Belarus,1,4,4,9,2016,RIO,Belarus,Europe,Belarus,47703000000.0,-2.5%,5038.0,-15.5%
+133,TUR Turkey,1,3,4,8,2016,RIO,Turkey,Asia,Turkey,869280000000.0,3.3%,10891.0,-0.8%
+134,ARM Armenia,1,3,0,4,2016,RIO,Armenia,Asia,Armenia,10546000000.0,0.2%,3524.0,-0.1%
+135,CZE Czech Republic,1,2,7,10,2016,RIO,Czech Republic,Europe,Czech Republic,196272000000.0,2.5%,18597.0,4.2%
+136,ETH Ethiopia,1,2,5,8,2016,RIO,Ethiopia,Africa,Ethiopia,72120000000.0,8.0%,791.0,12.5%
+137,SLO Slovenia,1,2,1,4,2016,RIO,Slovenia,Europe,Slovenia,44754000000.0,3.2%,21681.0,3.7%
+138,INA Indonesia,1,2,0,3,2016,RIO,Indonesia,Asia,Indonesia,932066000000.0,5.0%,3606.0,7.1%
+139,ROU Romania,1,1,2,4,2016,RIO,Romania,Europe,Romania,188130000000.0,4.7%,9520.0,6.5%
+140,BRN Bahrain,1,1,0,2,2016,RIO,Bahrain,Asia,Bahrain,32235000000.0,3.6%,22641.0,-0.1%
+141,VIE Vietnam,1,1,0,2,2016,RIO,Vietnam,Asia,,,,,
+142,TPE Chinese Taipei,1,0,2,3,2016,RIO,Chinese Taipei,Asia,Taipei,,,,
+143,CIV Côte d'Ivoire,1,0,1,2,2016,RIO,Côte d'Ivoire,Africa,Côte d'Ivoire,,,,
+144,BAH Bahamas,1,0,1,2,2016,RIO,Bahamas,North America,Bahamas,11993000000.0,0.1%,32565.0,-0.3%
+145,IOA Independent Olympic Athletes,1,0,1,2,2016,RIO,Independent Olympic Athletes,Not Available,,,,,
+146,KOS Kosovo,1,0,0,1,2016,RIO,Kosovo,Europe,Kosovo,,,,
+147,PUR Puerto Rico,1,0,0,1,2016,RIO,Puerto Rico,North America,Puerto Rico,,,,
+148,TJK Tajikistan,1,0,0,1,2016,RIO,Tajikistan,Asia,,,,,
+149,FIJ Fiji,1,0,0,1,2016,RIO,Fiji,Australia,Fiji,4930000000.0,2.4%,5621.0,4.4%
+150,SGP Singapore,1,0,0,1,2016,RIO,Singapore,Asia,,,,,
+151,JOR Jordan,1,0,0,1,2016,RIO,Jordan,Asia,Jordan,39949000000.0,2.0%,4225.0,0.1%
+152,MAS Malaysia,0,4,1,5,2016,RIO,Malaysia,Asia,Malaysia,301255000000.0,4.5%,9523.0,-1.5%
+153,MEX Mexico,0,3,2,5,2016,RIO,Mexico,North America,Mexico,1078490000000.0,2.6%,8789.0,-9.0%
+154,VEN Venezuela,0,2,1,3,2016,RIO,Venezuela,South America,Venezuela,279249000000.0,-17.0%,9355.0,-13.0%
+155,IRL Ireland,0,2,0,2,2016,RIO,Ireland,Europe,Ireland,298846000000.0,2.0%,62633.0,1.3%
+156,ALG Algeria,0,2,0,2,2016,RIO,Algeria,Africa,,,,,
+157,LTU Lithuania,0,1,3,4,2016,RIO,Lithuania,Europe,Lithuania,43035000000.0,2.5%,15004.0,5.2%
+158,BUL Bulgaria,0,1,2,3,2016,RIO,Bulgaria,Europe,Bulgaria,53802000000.0,3.0%,7576.0,7.0%
+159,IND India,0,1,1,2,2016,RIO,India,Asia,India,2294120000000.0,7.1%,1732.0,7.9%
+160,MGL Mongolia,0,1,1,2,2016,RIO,Mongolia,Asia,Mongolia,11159000000.0,1.2%,3577.0,-6.9%
+161,BDI Burundi,0,1,0,1,2016,RIO,Burundi,Africa,,,,,
+162,PHI Philippines,0,1,0,1,2016,RIO,Philippines,Asia,Philippines,318627000000.0,7.1%,3108.0,2.3%
+163,QAT Qatar,0,1,0,1,2016,RIO,Qatar,Asia,Qatar,151732000000.0,3.1%,57965.0,-12.6%
+164,GRN Grenada,0,1,0,1,2016,RIO,Grenada,North America,Grenada,1062000000.0,3.7%,9628.0,5.9%
+165,NIG Niger,0,1,0,1,2016,RIO,Niger,Africa,,,,,
+166,NOR Norway,0,0,4,4,2016,RIO,Norway,Europe,Norway,368827000000.0,1.1%,70224.0,-5.3%
+167,TUN Tunisia,0,0,3,3,2016,RIO,Tunisia,Africa,Tunisia,41801000000.0,1.2%,3666.0,-4.3%
+168,EGY Egypt,0,0,3,3,2016,RIO,Egypt,Africa,Egypt,332484000000.0,4.3%,3654.0,-2.1%
+169,ISR Israel,0,0,2,2,2016,RIO,Israel,Asia,Israel,319025000000.0,4.5%,37342.0,4.2%
+170,TTO Trinidad and Tobago,0,0,1,1,2016,RIO,Trinidad and Tobago,North America,,,,,
+171,MAR Morocco,0,0,1,1,2016,RIO,Morocco,Africa,Morocco,103312000000.0,1.1%,2996.0,1.0%
+172,NGR Nigeria,0,0,1,1,2016,RIO,Nigeria,Africa,Nigeria,404649000000.0,-1.6%,2176.0,-20.0%
+173,FIN Finland,0,0,1,1,2016,RIO,Finland,Europe,Finland,240705000000.0,2.8%,43866.0,2.3%
+174,EST Estonia,0,0,1,1,2016,RIO,Estonia,Europe,Estonia,24066000000.0,3.2%,18290.0,5.1%
+175,DOM Dominican Republic,0,0,1,1,2016,RIO,Dominican Republic,North America,Dominican Republic,75777000000.0,6.7%,7521.0,5.4%
+176,AUT Austria,0,0,1,1,2016,RIO,Austria,Europe,Austria,395728000000.0,2.0%,45279.0,2.3%
+177,UAE United Arab Emirates,0,0,1,1,2016,RIO,United Arab Emirates,Asia,,,,,
+178,POR Portugal,0,0,1,1,2016,RIO,Portugal,Europe,Portugal,206369000000.0,2.0%,19986.0,3.8%
+179,USA United States of America,46,28,30,104,2012,LONDON,United States of America,North America,United States,16254000000000.0,2.3%,51737.0,3.5%
+180,CHN People's Republic of China,38,31,22,91,2012,LONDON,People's Republic of China,Asia,China,8539580000000.0,7.9%,6283.0,13.1%
+181,GBR Great Britain,29,17,19,65,2012,LONDON,Great Britain,Europe,United Kingdom,2704500000000.0,1.4%,42453.0,1.0%
+182,RUS Russian Federation,20,19,28,67,2012,LONDON,Russian Federation,Europe,,,,,
+183,KOR Republic of Korea,13,9,8,30,2012,LONDON,Republic of Korea,Asia,South Korea,1278050000000.0,2.4%,25459.0,1.4%
+184,GER Germany,11,20,13,44,2012,LONDON,Germany,Europe,Germany,3529380000000.0,0.4%,43883.0,-6.0%
+185,FRA France,11,11,13,35,2012,LONDON,France,Europe,France,2683890000000.0,0.3%,42349.0,-6.7%
+186,AUS Australia,8,15,12,35,2012,LONDON,Australia,Australia,Australia,1569310000000.0,2.6%,68445.0,1.8%
+187,ITA Italy,8,9,11,28,2012,LONDON,Italy,Europe,Italy,2088280000000.0,-3.0%,34744.0,-9.2%
+188,HUN Hungary,8,4,6,18,2012,LONDON,Hungary,Europe,Hungary,128475000000.0,-1.3%,12936.0,-8.9%
+189,JPN Japan,7,14,17,38,2012,LONDON,Japan,Asia,Japan,6272360000000.0,1.4%,49175.0,0.9%
+190,NED Netherlands,6,6,8,20,2012,LONDON,Netherlands,Europe,Netherlands,839455000000.0,-1.0%,50176.0,-7.7%
+191,IRI Islamic Republic of Iran,6,6,1,13,2012,LONDON,Islamic Republic of Iran,Asia,Iran,392295000000.0,-7.4%,5159.0,-33.2%
+192,NZL New Zealand,6,2,5,13,2012,LONDON,New Zealand,Australia,New Zealand,175032000000.0,2.6%,39683.0,4.3%
+193,UKR Ukraine,5,4,10,19,2012,LONDON,Ukraine,Europe,Ukraine,175707000000.0,0.2%,3873.0,7.9%
+194,CUB Cuba,5,3,7,15,2012,LONDON,Cuba,North America,Cuba,73141000000.0,3.0%,6497.0,5.8%
+195,ESP Spain,4,10,4,18,2012,LONDON,Spain,Europe,Spain,1325580000000.0,-3.0%,28345.0,-10.5%
+196,JAM Jamaica,4,5,3,12,2012,LONDON,Jamaica,North America,Jamaica,14765000000.0,-0.5%,5448.0,2.2%
+197,CZE Czech Republic,4,3,4,11,2012,LONDON,Czech Republic,Europe,Czech Republic,208858000000.0,-0.8%,19881.0,-9.2%
+198,RSA South Africa,4,1,1,6,2012,LONDON,South Africa,Africa,South Africa,434400000000.0,2.2%,8207.0,-6.7%
+199,PRK Democratic People's Republic of Korea,4,0,2,6,2012,LONDON,Democratic People's Republic of Korea,Asia,,,,,
+200,BRA Brazil,3,5,9,17,2012,LONDON,Brazil,South America,Brazil,2464050000000.0,1.9%,12425.0,-6.6%
+201,ETH Ethiopia,3,2,2,7,2012,LONDON,Ethiopia,Africa,Ethiopia,42221000000.0,8.7%,493.0,30.0%
+202,KAZ Kazakhstan,3,1,7,11,2012,LONDON,Kazakhstan,Asia,Kazakhstan,207999000000.0,4.8%,12300.0,6.5%
+203,POL Poland,3,1,7,11,2012,LONDON,Poland,Europe,Poland,498517000000.0,1.3%,13097.0,-5.6%
+204,CRO Croatia,3,1,2,6,2012,LONDON,Croatia,Europe,Croatia,56581000000.0,-2.3%,13257.0,-9.3%
+205,CAN Canada,2,5,11,18,2012,LONDON,Canada,North America,Canada,1828360000000.0,1.8%,52744.0,0.9%
+206,BLR Belarus,2,5,3,10,2012,LONDON,Belarus,Europe,Belarus,65669000000.0,1.6%,6948.0,7.3%
+207,ROU Romania,2,5,2,9,2012,LONDON,Romania,Europe,Romania,170636000000.0,2.0%,8491.0,-6.4%
+208,KEN Kenya,2,4,6,12,2012,LONDON,Kenya,Africa,Kenya,56407000000.0,4.6%,1396.0,18.5%
+209,DEN Denmark,2,4,3,9,2012,LONDON,Denmark,Europe,Denmark,327149000000.0,0.2%,58623.0,-5.2%
+210,AZE Azerbaijan,2,2,6,10,2012,LONDON,Azerbaijan,Asia,Azerbaijan,69687000000.0,2.2%,7546.0,4.2%
+211,SUI Switzerland,2,2,0,4,2012,LONDON,Switzerland,Europe,Switzerland,692382000000.0,1.2%,87037.0,-5.1%
+212,NOR Norway,2,1,1,4,2012,LONDON,Norway,Europe,Norway,509506000000.0,2.7%,101130.0,0.9%
+213,LTU Lithuania,2,0,3,5,2012,LONDON,Lithuania,Europe,Lithuania,42952000000.0,3.8%,14376.0,-0.1%
+214,TUN Tunisia,2,0,1,3,2012,LONDON,Tunisia,Africa,Tunisia,45044000000.0,4.1%,4138.0,-2.8%
+215,SWE Sweden,1,4,3,8,2012,LONDON,Sweden,Europe,Sweden,552484000000.0,-0.6%,57816.0,-4.5%
+216,MEX Mexico,1,3,4,8,2012,LONDON,Mexico,North America,Mexico,1201090000000.0,3.6%,10271.0,0.4%
+217,COL Colombia,1,3,4,8,2012,LONDON,Colombia,South America,Colombia,370691000000.0,3.9%,8237.0,9.6%
+218,GEO Georgia,1,2,3,6,2012,LONDON,Georgia,Asia,Georgia,16489000000.0,6.4%,4410.0,10.1%
+219,IRL Ireland,1,1,4,6,2012,LONDON,Ireland,Europe,Ireland,225640000000.0,-0.1%,49001.0,-6.0%
+220,ARG Argentina,1,1,2,4,2012,LONDON,Argentina,South America,Argentina,579666000000.0,-1.0%,13890.0,8.6%
+221,SLO Slovenia,1,1,2,4,2012,LONDON,Slovenia,Europe,Slovenia,46607000000.0,-2.6%,22674.0,-9.9%
+222,SRB Serbia,1,1,2,4,2012,LONDON,Serbia,Europe,Serbia,43330000000.0,-0.7%,6017.0,-11.7%
+223,TTO Trinidad and Tobago,1,1,2,4,2012,LONDON,Trinidad and Tobago,North America,,,,,
+224,TUR Turkey,1,1,1,3,2012,LONDON,Turkey,Asia,Turkey,880141000000.0,4.8%,11638.0,3.7%
+225,DOM Dominican Republic,1,1,0,2,2012,LONDON,Dominican Republic,North America,Dominican Republic,60747000000.0,2.7%,6275.0,3.5%
+226,LAT Latvia,1,0,1,2,2012,LONDON,Latvia,Europe,Latvia,28346000000.0,7.0%,13862.0,0.4%
+227,TPE Chinese Taipei,1,0,1,2,2012,LONDON,Chinese Taipei,Asia,Taipei,,,,
+228,GRN Grenada,1,0,0,1,2012,LONDON,Grenada,North America,Grenada,800000000.0,-1.2%,7444.0,2.1%
+229,BRN Bahrain,1,0,0,1,2012,LONDON,Bahrain,Asia,Bahrain,30749000000.0,3.7%,25434.0,5.6%
+230,VEN Venezuela,1,0,0,1,2012,LONDON,Venezuela,South America,Venezuela,352191000000.0,5.6%,11995.0,-1.7%
+231,ALG Algeria,1,0,0,1,2012,LONDON,Algeria,Africa,,,,,
+232,UGA Uganda,1,0,0,1,2012,LONDON,Uganda,Africa,Uganda,30939000000.0,2.3%,951.0,9.0%
+233,BAH Bahamas,1,0,0,1,2012,LONDON,Bahamas,North America,Bahamas,10720000000.0,3.1%,30433.0,5.3%
+234,EGY Egypt,0,3,1,4,2012,LONDON,Egypt,Africa,Egypt,278769000000.0,2.2%,3379.0,9.8%
+235,IND India,0,2,4,6,2012,LONDON,India,Asia,India,1827640000000.0,5.5%,1444.0,-1.0%
+236,MGL Mongolia,0,2,3,5,2012,LONDON,Mongolia,Asia,Mongolia,12278000000.0,12.3%,4281.0,15.6%
+237,THA Thailand,0,2,2,4,2012,LONDON,Thailand,Asia,Thailand,397722000000.0,7.2%,5863.0,6.7%
+238,BUL Bulgaria,0,2,1,3,2012,LONDON,Bulgaria,Europe,Bulgaria,54031000000.0,0.8%,7417.0,-5.3%
+239,FIN Finland,0,2,1,3,2012,LONDON,Finland,Europe,Finland,258454000000.0,-1.4%,47851.0,-6.7%
+240,INA Indonesia,0,2,1,3,2012,LONDON,Indonesia,Asia,Indonesia,919002000000.0,6.0%,3745.0,1.5%
+241,SVK Slovakia,0,1,3,4,2012,LONDON,Slovakia,Europe,Slovakia,94589000000.0,1.4%,17503.0,-4.9%
+242,BEL Belgium,0,1,2,3,2012,LONDON,Belgium,Europe,Belgium,496467000000.0,0.7%,44824.0,-5.8%
+243,PUR Puerto Rico,0,1,1,2,2012,LONDON,Puerto Rico,North America,Puerto Rico,,,,
+244,EST Estonia,0,1,1,2,2012,LONDON,Estonia,Europe,Estonia,23034000000.0,3.2%,17414.0,-0.4%
+245,ARM Armenia,0,1,1,2,2012,LONDON,Armenia,Asia,Armenia,10619000000.0,7.1%,3576.0,4.6%
+246,MAS Malaysia,0,1,1,2,2012,LONDON,Malaysia,Asia,Malaysia,318910000000.0,5.5%,10807.0,3.9%
+247,BOT Botswana,0,1,0,1,2012,LONDON,Botswana,Africa,Botswana,15519000000.0,4.5%,7609.0,3.4%
+248,GUA Guatemala,0,1,0,1,2012,LONDON,Guatemala,North America,,,,,
+249,POR Portugal,0,1,0,1,2012,LONDON,Portugal,Europe,Portugal,216361000000.0,-4.1%,20577.0,-11.4%
+250,MNE Montenegro,0,1,0,1,2012,LONDON,Montenegro,Europe,,,,,
+251,GAB Gabon,0,1,0,1,2012,LONDON,Gabon,Africa,,,,,
+252,CYP Cyprus,0,1,0,1,2012,LONDON,Cyprus,Asia,,,,,
+253,QAT Qatar,0,0,2,2,2012,LONDON,Qatar,Asia,Qatar,186834000000.0,4.7%,101933.0,5.3%
+254,GRE Greece,0,0,2,2,2012,LONDON,Greece,Europe,Greece,242193000000.0,-7.1%,21846.0,-14.1%
+255,SGP Singapore,0,0,2,2,2012,LONDON,Singapore,Asia,,,,,
+256,UZB Uzbekistan,0,0,2,2,2012,LONDON,Uzbekistan,Asia,Uzbekistan,67520000000.0,7.1%,2285.0,10.5%
+257,KSA Saudi Arabia,0,0,1,1,2012,LONDON,Saudi Arabia,Asia,Saudi Arabia,735975000000.0,5.4%,25208.0,6.6%
+258,KUW Kuwait,0,0,1,1,2012,LONDON,Kuwait,Asia,Kuwait,174066000000.0,6.6%,45726.0,9.8%
+259,AFG Afghanistan,0,0,1,1,2012,LONDON,Afghanistan,Asia,,,,,
+260,"HKG Hong Kong, China",0,0,1,1,2012,LONDON,"Hong Kong, China",Asia,Hong Kong,262629000000.0,1.7%,36624.0,4.8%
+261,TJK Tajikistan,0,0,1,1,2012,LONDON,Tajikistan,Asia,,,,,
+262,CMR Cameroon,0,0,1,1,2012,LONDON,Cameroon,Africa,,,,,
+263,MAR Morocco,0,0,1,1,2012,LONDON,Morocco,Africa,Morocco,98266000000.0,3.0%,2980.0,-4.2%
+264,CHN People's Republic of China,48,22,30,100,2008,BEIJING,People's Republic of China,Asia,China,4577280000000.0,9.7%,3447.0,28.1%
+265,USA United States of America,36,39,37,112,2008,BEIJING,United States of America,North America,United States,14769900000000.0,0.1%,48471.0,1.1%
+266,RUS Russian Federation,24,13,23,60,2008,BEIJING,Russian Federation,Europe,,,,,
+267,GBR Great Britain,19,13,19,51,2008,BEIJING,Great Britain,Europe,United Kingdom,2952330000000.0,-0.3%,47754.0,-5.4%
+268,GER Germany,16,11,14,41,2008,BEIJING,Germany,Europe,Germany,3744850000000.0,1.0%,46368.0,9.6%
+269,AUS Australia,14,15,17,46,2008,BEIJING,Australia,Australia,Australia,1055510000000.0,1.9%,49149.0,9.0%
+270,KOR Republic of Korea,13,11,8,32,2008,BEIJING,Republic of Korea,Asia,South Korea,1049170000000.0,3.0%,21388.0,-11.2%
+271,JPN Japan,9,8,8,25,2008,BEIJING,Japan,Asia,Japan,5106680000000.0,-1.0%,39992.0,11.6%
+272,ITA Italy,8,9,10,27,2008,BEIJING,Italy,Europe,Italy,2408390000000.0,-1.0%,40819.0,7.9%
+273,FRA France,7,16,20,43,2008,BEIJING,France,Europe,France,2915820000000.0,0.3%,46927.0,9.1%
+274,NED Netherlands,7,5,4,16,2008,BEIJING,Netherlands,Europe,Netherlands,951766000000.0,2.2%,58015.0,11.8%
+275,UKR Ukraine,7,4,11,22,2008,BEIJING,Ukraine,Europe,Ukraine,181313000000.0,2.2%,3945.0,27.2%
+276,KEN Kenya,6,4,6,16,2008,BEIJING,Kenya,Africa,Kenya,48255000000.0,0.2%,1315.0,-6.9%
+277,ESP Spain,5,11,3,19,2008,BEIJING,Spain,Europe,Spain,1631690000000.0,0.9%,35484.0,8.9%
+278,JAM Jamaica,5,4,1,10,2008,BEIJING,Jamaica,North America,Jamaica,13743000000.0,-0.8%,5134.0,6.3%
+279,POL Poland,4,5,2,11,2008,BEIJING,Poland,Europe,Poland,533600000000.0,4.2%,14000.0,24.4%
+280,ETH Ethiopia,4,2,1,7,2008,BEIJING,Ethiopia,Africa,Ethiopia,26839000000.0,11.2%,334.0,34.1%
+281,ROU Romania,4,1,4,9,2008,BEIJING,Romania,Europe,Romania,214317000000.0,9.3%,10386.0,25.7%
+282,CUB Cuba,3,10,17,30,2008,BEIJING,Cuba,North America,Cuba,60806000000.0,4.1%,5411.0,3.9%
+283,CAN Canada,3,9,8,20,2008,BEIJING,Canada,North America,Canada,1552860000000.0,1.0%,46774.0,4.6%
+284,HUN Hungary,3,5,2,10,2008,BEIJING,Hungary,Europe,Hungary,158136000000.0,1.0%,15743.0,13.2%
+285,NOR Norway,3,5,1,9,2008,BEIJING,Norway,Europe,Norway,462250000000.0,0.5%,96563.0,13.7%
+286,BRA Brazil,3,4,10,17,2008,BEIJING,Brazil,South America,Brazil,1695860000000.0,5.1%,8878.0,20.1%
+287,BLR Belarus,3,4,7,14,2008,BEIJING,Belarus,Europe,Belarus,62798000000.0,10.2%,6581.0,34.7%
+288,CZE Czech Republic,3,3,1,7,2008,BEIJING,Czech Republic,Europe,Czech Republic,237131000000.0,2.7%,22926.0,23.7%
+289,SVK Slovakia,3,3,0,6,2008,BEIJING,Slovakia,Europe,Slovakia,97170000000.0,5.6%,18075.0,25.7%
+290,NZL New Zealand,3,2,4,9,2008,BEIJING,New Zealand,Australia,New Zealand,135358000000.0,-1.7%,31759.0,-0.5%
+291,GEO Georgia,3,2,2,7,2008,BEIJING,Georgia,Asia,Georgia,13154000000.0,2.4%,3419.0,26.6%
+292,KAZ Kazakhstan,2,3,4,9,2008,BEIJING,Kazakhstan,Asia,Kazakhstan,133442000000.0,3.3%,8349.0,24.0%
+293,DEN Denmark,2,2,3,7,2008,BEIJING,Denmark,Europe,Denmark,353359000000.0,-0.5%,64531.0,10.0%
+294,THA Thailand,2,2,2,6,2008,BEIJING,Thailand,Asia,Thailand,290970000000.0,1.7%,4373.0,10.1%
+295,PRK Democratic People's Republic of Korea,2,2,2,6,2008,BEIJING,Democratic People's Republic of Korea,Asia,,,,,
+296,MGL Mongolia,2,2,0,4,2008,BEIJING,Mongolia,Asia,Mongolia,5623000000.0,7.8%,2109.0,30.5%
+297,SUI Switzerland,2,1,4,7,2008,BEIJING,Switzerland,Europe,Switzerland,570059000000.0,2.8%,75077.0,14.1%
+298,ARG Argentina,2,0,4,6,2008,BEIJING,Argentina,South America,Argentina,363545000000.0,4.1%,9147.0,25.0%
+299,MEX Mexico,2,0,2,4,2008,BEIJING,Mexico,North America,Mexico,1109990000000.0,1.1%,10054.0,3.9%
+300,BEL Belgium,2,0,0,2,2008,BEIJING,Belgium,Europe,Belgium,517270000000.0,0.4%,48493.0,9.0%
+301,ZIM Zimbabwe,1,3,0,4,2008,BEIJING,Zimbabwe,Africa,,,,,
+302,SLO Slovenia,1,2,2,5,2008,BEIJING,Slovenia,Europe,Slovenia,55773000000.0,3.5%,27744.0,16.0%
+303,AZE Azerbaijan,1,1,4,6,2008,BEIJING,Azerbaijan,Asia,Azerbaijan,48979000000.0,10.6%,5579.0,46.1%
+304,INA Indonesia,1,1,4,6,2008,BEIJING,Indonesia,Asia,Indonesia,558582000000.0,6.0%,2418.0,17.1%
+305,TUR Turkey,1,1,3,5,2008,BEIJING,Turkey,Asia,Turkey,770820000000.0,0.8%,10778.0,11.8%
+306,BUL Bulgaria,1,1,3,5,2008,BEIJING,Bulgaria,Europe,Bulgaria,54434000000.0,6.1%,7156.0,23.1%
+307,FIN Finland,1,1,2,4,2008,BEIJING,Finland,Europe,Finland,285685000000.0,0.8%,53898.0,10.9%
+308,TPE Chinese Taipei,1,1,2,4,2008,BEIJING,Chinese Taipei,Asia,Taipei,,,,
+309,LAT Latvia,1,1,1,3,2008,BEIJING,Latvia,Europe,Latvia,35924000000.0,-3.2%,16390.0,16.6%
+310,EST Estonia,1,1,0,2,2008,BEIJING,Estonia,Europe,Estonia,24433000000.0,-5.1%,18273.0,9.0%
+311,POR Portugal,1,1,0,2,2008,BEIJING,Portugal,Europe,Portugal,263388000000.0,0.3%,24946.0,9.4%
+312,DOM Dominican Republic,1,1,0,2,2008,BEIJING,Dominican Republic,North America,Dominican Republic,48206000000.0,3.2%,5195.0,8.2%
+313,TTO Trinidad and Tobago,1,1,0,2,2008,BEIJING,Trinidad and Tobago,North America,,,,,
+314,IND India,1,0,2,3,2008,BEIJING,India,Asia,India,1224100000000.0,3.9%,1020.0,-2.6%
+315,IRI Islamic Republic of Iran,1,0,1,2,2008,BEIJING,Islamic Republic of Iran,Asia,Iran,405568000000.0,0.3%,5612.0,14.4%
+316,CMR Cameroon,1,0,0,1,2008,BEIJING,Cameroon,Africa,,,,,
+317,TUN Tunisia,1,0,0,1,2008,BEIJING,Tunisia,Africa,Tunisia,44844000000.0,4.2%,4309.0,14.0%
+318,PAN Panama,1,0,0,1,2008,BEIJING,Panama,North America,,,,,
+319,SWE Sweden,0,4,1,5,2008,BEIJING,Sweden,Europe,Sweden,517706000000.0,-0.5%,55930.0,4.6%
+320,LTU Lithuania,0,3,2,5,2008,BEIJING,Lithuania,Europe,Lithuania,48030000000.0,2.6%,15018.0,22.0%
+321,NGR Nigeria,0,2,3,5,2008,BEIJING,Nigeria,Africa,Nigeria,330260000000.0,7.2%,2198.0,22.7%
+322,CRO Croatia,0,2,3,5,2008,BEIJING,Croatia,Europe,Croatia,70234000000.0,1.9%,15840.0,17.0%
+323,COL Colombia,0,2,1,3,2008,BEIJING,Colombia,South America,Colombia,242504000000.0,3.3%,5622.0,16.3%
+324,GRE Greece,0,2,1,3,2008,BEIJING,Greece,Europe,Greece,352866000000.0,-0.3%,31902.0,11.3%
+325,ARM Armenia,0,1,4,5,2008,BEIJING,Armenia,Asia,Armenia,11662000000.0,6.9%,3913.0,27.1%
+326,UZB Uzbekistan,0,1,3,4,2008,BEIJING,Uzbekistan,Asia,Uzbekistan,35858000000.0,9.0%,1325.0,26.3%
+327,AUT Austria,0,1,2,3,2008,BEIJING,Austria,Europe,Austria,432005000000.0,1.5%,51914.0,10.6%
+328,IRL Ireland,0,1,2,3,2008,BEIJING,Ireland,Europe,Ireland,275417000000.0,-4.5%,60990.0,0.4%
+329,SRB Serbia,0,1,2,3,2008,BEIJING,Serbia,Europe,Serbia,52130000000.0,5.7%,7092.0,20.6%
+330,KGZ Kyrgyzstan,0,1,2,3,2008,BEIJING,Kyrgyzstan,Asia,Kyrgyzstan,5139000000.0,7.6%,972.0,33.9%
+331,ALG Algeria,0,1,1,2,2008,BEIJING,Algeria,Africa,,,,,
+332,BAH Bahamas,0,1,1,2,2008,BEIJING,Bahamas,North America,Bahamas,10526000000.0,-2.3%,31249.0,-2.0%
+333,MAR Morocco,0,1,1,2,2008,BEIJING,Morocco,Africa,Morocco,92507000000.0,5.9%,2947.0,15.6%
+334,TJK Tajikistan,0,1,1,2,2008,BEIJING,Tajikistan,Asia,,,,,
+335,CHI Chile,0,1,0,1,2008,BEIJING,Chile,South America,,,,,
+336,MAS Malaysia,0,1,0,1,2008,BEIJING,Malaysia,Asia,Malaysia,241763000000.0,4.8%,8760.0,17.1%
+337,SUD Sudan,0,1,0,1,2008,BEIJING,Sudan,Africa,,,,,
+338,ECU Ecuador,0,1,0,1,2008,BEIJING,Ecuador,South America,Ecuador,61763000000.0,6.4%,4267.0,18.9%
+339,VIE Vietnam,0,1,0,1,2008,BEIJING,Vietnam,Asia,,,,,
+340,ISL Iceland,0,1,0,1,2008,BEIJING,Iceland,Europe,,,,,
+341,SGP Singapore,0,1,0,1,2008,BEIJING,Singapore,Asia,,,,,
+342,RSA South Africa,0,1,0,1,2008,BEIJING,South Africa,Africa,South Africa,316491000000.0,3.2%,6356.0,-6.2%
+343,SAM Samoa,0,1,0,1,2008,BEIJING,Samoa,Australia,,,,,
+344,EGY Egypt,0,0,2,2,2008,BEIJING,Egypt,Africa,Egypt,170797000000.0,7.2%,2271.0,22.0%
+345,MDA Republic of Moldova,0,0,1,1,2008,BEIJING,Republic of Moldova,Europe,Moldova,6055000000.0,7.8%,2103.0,37.8%
+346,ISR Israel,0,0,1,1,2008,BEIJING,Israel,Asia,Israel,216710000000.0,3.5%,29660.0,18.8%
+347,MRI Mauritius,0,0,1,1,2008,BEIJING,Mauritius,Africa,,,,,
+348,AFG Afghanistan,0,0,1,1,2008,BEIJING,Afghanistan,Asia,,,,,
+349,VEN Venezuela,0,0,1,1,2008,BEIJING,Venezuela,South America,Venezuela,306764000000.0,5.3%,11079.0,29.8%
+350,TOG Togo,0,0,1,1,2008,BEIJING,Togo,Africa,,,,,
+351,USA United States of America,36,39,26,101,2004,ATHENS,United States of America,North America,United States,12217200000000.0,3.9%,41642.0,5.7%
+352,CHN People's Republic of China,32,17,14,63,2004,ATHENS,People's Republic of China,Asia,China,1949450000000.0,10.1%,1500.0,17.0%
+353,RUS Russian Federation,28,26,36,90,2004,ATHENS,Russian Federation,Europe,,,,,
+354,AUS Australia,17,16,17,50,2004,ATHENS,Australia,Australia,Australia,656735000000.0,3.2%,32761.0,20.4%
+355,JPN Japan,16,9,12,37,2004,ATHENS,Japan,Asia,Japan,4893140000000.0,2.4%,38307.0,8.2%
+356,GER Germany,13,16,20,49,2004,ATHENS,Germany,Europe,Germany,2813080000000.0,1.2%,34535.0,12.6%
+357,FRA France,11,9,13,33,2004,ATHENS,France,Europe,France,2116480000000.0,2.8%,34980.0,14.2%
+358,ITA Italy,10,11,11,32,2004,ATHENS,Italy,Europe,Italy,1805720000000.0,1.4%,31343.0,13.6%
+359,KOR Republic of Korea,9,12,9,30,2004,ATHENS,Republic of Korea,Asia,South Korea,792532000000.0,5.2%,16483.0,12.3%
+360,GBR Great Britain,9,9,12,30,2004,ATHENS,Great Britain,Europe,United Kingdom,2413130000000.0,2.3%,40252.0,16.9%
+361,CUB Cuba,9,7,11,27,2004,ATHENS,Cuba,North America,Cuba,38203000000.0,5.8%,3396.0,6.2%
+362,HUN Hungary,8,6,3,17,2004,ATHENS,Hungary,Europe,Hungary,103960000000.0,5.0%,10276.0,22.2%
+363,UKR Ukraine,8,5,9,22,2004,ATHENS,Ukraine,Europe,Ukraine,64752000000.0,11.8%,1375.0,30.2%
+364,ROU Romania,8,5,6,19,2004,ATHENS,Romania,Europe,Romania,74974000000.0,10.4%,3484.0,30.3%
+365,GRE Greece,6,6,4,16,2004,ATHENS,Greece,Europe,Greece,238823000000.0,5.1%,21830.0,18.8%
+366,BRA Brazil,5,2,3,10,2004,ATHENS,Brazil,South America,Brazil,669290000000.0,5.8%,3660.0,18.5%
+367,NOR Norway,5,0,1,6,2004,ATHENS,Norway,Europe,Norway,264510000000.0,4.0%,57512.0,14.9%
+368,NED Netherlands,4,9,9,22,2004,ATHENS,Netherlands,Europe,Netherlands,658081000000.0,2.0%,40477.0,13.0%
+369,SWE Sweden,4,2,1,7,2004,ATHENS,Sweden,Europe,Sweden,385119000000.0,4.3%,42737.0,14.7%
+370,ESP Spain,3,11,6,20,2004,ATHENS,Spain,Europe,Spain,1068570000000.0,3.1%,24932.0,16.0%
+371,CAN Canada,3,6,3,12,2004,ATHENS,Canada,North America,Canada,1026470000000.0,3.1%,32177.0,13.5%
+372,TUR Turkey,3,3,4,10,2004,ATHENS,Turkey,Asia,Turkey,409127000000.0,9.8%,6016.0,28.4%
+373,POL Poland,3,2,5,10,2004,ATHENS,Poland,Europe,Poland,255292000000.0,5.0%,6685.0,17.3%
+374,NZL New Zealand,3,2,0,5,2004,ATHENS,New Zealand,Australia,New Zealand,101564000000.0,3.3%,24840.0,21.3%
+375,THA Thailand,3,1,4,8,2004,ATHENS,Thailand,Asia,Thailand,172752000000.0,6.3%,2658.0,12.8%
+376,BLR Belarus,2,5,6,13,2004,ATHENS,Belarus,Europe,Belarus,23928000000.0,11.4%,2451.0,30.8%
+377,AUT Austria,2,4,1,7,2004,ATHENS,Austria,Europe,Austria,301321000000.0,2.7%,36884.0,14.2%
+378,ETH Ethiopia,2,3,2,7,2004,ATHENS,Ethiopia,Africa,Ethiopia,10142000000.0,11.7%,139.0,14.6%
+379,IRI Islamic Republic of Iran,2,2,2,6,2004,ATHENS,Islamic Republic of Iran,Asia,Iran,187546000000.0,4.4%,2744.0,21.6%
+380,SVK Slovakia,2,2,2,6,2004,ATHENS,Slovakia,Europe,Slovakia,43190000000.0,5.3%,8040.0,26.8%
+381,TPE Chinese Taipei,2,2,1,5,2004,ATHENS,Chinese Taipei,Asia,Taipei,,,,
+382,GEO Georgia,2,2,0,4,2004,ATHENS,Georgia,Asia,Georgia,5270000000.0,5.8%,1338.0,29.3%
+383,BUL Bulgaria,2,1,9,12,2004,ATHENS,Bulgaria,Europe,Bulgaria,26158000000.0,6.5%,3370.0,24.3%
+384,DEN Denmark,2,1,5,8,2004,ATHENS,Denmark,Europe,Denmark,251375000000.0,2.7%,46571.0,15.0%
+385,JAM Jamaica,2,1,2,5,2004,ATHENS,Jamaica,North America,Jamaica,10175000000.0,1.3%,3856.0,7.5%
+386,UZB Uzbekistan,2,1,2,5,2004,ATHENS,Uzbekistan,Asia,Uzbekistan,15045000000.0,7.4%,585.0,17.2%
+387,MAR Morocco,2,1,0,3,2004,ATHENS,Morocco,Africa,Morocco,59626000000.0,4.8%,1999.0,13.0%
+388,ARG Argentina,2,0,4,6,2004,ATHENS,Argentina,South America,Argentina,164911000000.0,9.0%,4314.0,14.7%
+389,CHI Chile,2,0,1,3,2004,ATHENS,Chile,South America,,,,,
+390,KAZ Kazakhstan,1,4,3,8,2004,ATHENS,Kazakhstan,Asia,Kazakhstan,43152000000.0,9.6%,2863.0,38.8%
+391,KEN Kenya,1,4,2,7,2004,ATHENS,Kenya,Africa,Kenya,30964000000.0,4.6%,941.0,-1.3%
+392,CZE Czech Republic,1,3,5,9,2004,ATHENS,Czech Republic,Europe,Czech Republic,119815000000.0,4.8%,11752.0,19.6%
+393,RSA South Africa,1,3,2,6,2004,ATHENS,South Africa,Africa,South Africa,256188000000.0,4.6%,5415.0,28.7%
+394,CRO Croatia,1,2,2,5,2004,ATHENS,Croatia,Europe,Croatia,41587000000.0,4.1%,9369.0,16.3%
+395,LTU Lithuania,1,2,0,3,2004,ATHENS,Lithuania,Europe,Lithuania,22624000000.0,6.6%,6699.0,21.8%
+396,SUI Switzerland,1,1,3,5,2004,ATHENS,Switzerland,Europe,Switzerland,405064000000.0,2.8%,55006.0,10.7%
+397,EGY Egypt,1,1,3,5,2004,ATHENS,Egypt,Africa,Egypt,82855000000.0,4.1%,1196.0,-4.5%
+398,INA Indonesia,1,1,2,4,2004,ATHENS,Indonesia,Asia,Indonesia,279556000000.0,5.0%,1281.0,7.9%
+399,ZIM Zimbabwe,1,1,1,3,2004,ATHENS,Zimbabwe,Africa,,,,,
+400,AZE Azerbaijan,1,0,4,5,2004,ATHENS,Azerbaijan,Asia,Azerbaijan,8682000000.0,9.3%,1040.0,18.2%
+401,BEL Belgium,1,0,2,3,2004,ATHENS,Belgium,Europe,Belgium,369047000000.0,3.6%,35498.0,15.6%
+402,ISR Israel,1,0,1,2,2004,ATHENS,Israel,Asia,Israel,135572000000.0,4.9%,19919.0,4.8%
+403,BAH Bahamas,1,0,1,2,2004,ATHENS,Bahamas,North America,Bahamas,9055000000.0,0.9%,28239.0,0.7%
+404,CMR Cameroon,1,0,0,1,2004,ATHENS,Cameroon,Africa,,,,,
+405,DOM Dominican Republic,1,0,0,1,2004,ATHENS,Dominican Republic,North America,Dominican Republic,22506000000.0,2.6%,2541.0,3.3%
+406,UAE United Arab Emirates,1,0,0,1,2004,ATHENS,United Arab Emirates,Asia,,,,,
+407,PRK Democratic People's Republic of Korea,0,4,1,5,2004,ATHENS,Democratic People's Republic of Korea,Asia,,,,,
+408,LAT Latvia,0,4,0,4,2004,ATHENS,Latvia,Europe,Latvia,14406000000.0,8.3%,6328.0,23.8%
+409,MEX Mexico,0,3,1,4,2004,ATHENS,Mexico,North America,Mexico,782243000000.0,3.9%,7502.0,5.8%
+410,POR Portugal,0,2,1,3,2004,ATHENS,Portugal,Europe,Portugal,189296000000.0,1.8%,18056.0,14.3%
+411,FIN Finland,0,2,0,2,2004,ATHENS,Finland,Europe,Finland,197390000000.0,4.0%,37816.0,14.7%
+412,SCG Serbia and Montenegro,0,2,0,2,2004,ATHENS,Serbia and Montenegro,Europe,,,,,
+413,SLO Slovenia,0,1,3,4,2004,ATHENS,Slovenia,Europe,Slovenia,34448000000.0,4.4%,17255.0,16.0%
+414,EST Estonia,0,1,2,3,2004,ATHENS,Estonia,Europe,Estonia,12158000000.0,6.8%,8923.0,23.7%
+415,IND India,0,1,0,1,2004,ATHENS,India,Asia,India,721589000000.0,7.9%,639.0,14.8%
+416,"HKG Hong Kong, China",0,1,0,1,2004,ATHENS,"Hong Kong, China",Asia,Hong Kong,169085000000.0,8.7%,24874.0,4.3%
+417,PAR Paraguay,0,1,0,1,2004,ATHENS,Paraguay,South America,,,,,
+418,COL Colombia,0,0,2,2,2004,ATHENS,Colombia,South America,Colombia,116336000000.0,5.3%,2826.0,22.2%
+419,VEN Venezuela,0,0,2,2,2004,ATHENS,Venezuela,South America,Venezuela,112254000000.0,18.3%,4312.0,32.0%
+420,NGR Nigeria,0,0,2,2,2004,ATHENS,Nigeria,Africa,Nigeria,130345000000.0,10.4%,963.0,23.4%
+421,ERI Eritrea,0,0,1,1,2004,ATHENS,Eritrea,Africa,,,,,
+422,MGL Mongolia,0,0,1,1,2004,ATHENS,Mongolia,Asia,Mongolia,2319000000.0,9.4%,920.0,23.1%
+423,TTO Trinidad and Tobago,0,0,1,1,2004,ATHENS,Trinidad and Tobago,North America,,,,,
+424,SYR Syrian Arab Republic,0,0,1,1,2004,ATHENS,Syrian Arab Republic,Asia,Syrian Arab Republic,,,,
+425,USA United States of America,37,24,32,93,2000,SYDNEY,United States of America,North America,United States,10251000000000.0,4.1%,36313.0,5.3%
+426,RUS Russian Federation,32,28,29,89,2000,SYDNEY,Russian Federation,Europe,,,,,
+427,CHN People's Republic of China,28,16,14,58,2000,SYDNEY,People's Republic of China,Asia,China,1205530000000.0,8.5%,951.0,9.9%
+428,AUS Australia,16,25,17,58,2000,SYDNEY,Australia,Australia,Australia,399101000000.0,1.9%,20851.0,-4.0%
+429,GER Germany,13,17,26,56,2000,SYDNEY,Germany,Europe,Germany,1948840000000.0,2.9%,23925.0,-11.3%
+430,FRA France,13,14,11,38,2000,SYDNEY,France,Europe,France,1362530000000.0,3.9%,23149.0,-9.3%
+431,ITA Italy,13,8,13,34,2000,SYDNEY,Italy,Europe,Italy,1147180000000.0,3.8%,20153.0,-8.5%
+432,NED Netherlands,12,9,4,25,2000,SYDNEY,Netherlands,Europe,Netherlands,417664000000.0,4.2%,26328.0,-7.3%
+433,CUB Cuba,11,11,7,29,2000,SYDNEY,Cuba,North America,Cuba,30565000000.0,5.9%,2747.0,7.4%
+434,GBR Great Britain,11,10,7,28,2000,SYDNEY,Great Britain,Europe,United Kingdom,1661340000000.0,3.5%,28213.0,-1.6%
+435,ROU Romania,11,6,9,26,2000,SYDNEY,Romania,Europe,Romania,37281000000.0,2.5%,1662.0,3.8%
+436,KOR Republic of Korea,8,10,10,28,2000,SYDNEY,Republic of Korea,Asia,South Korea,576483000000.0,9.1%,12263.0,15.0%
+437,HUN Hungary,8,6,3,17,2000,SYDNEY,Hungary,Europe,Hungary,47218000000.0,4.5%,4619.0,-3.5%
+438,POL Poland,6,5,3,14,2000,SYDNEY,Poland,Europe,Poland,171613000000.0,4.6%,4485.0,3.2%
+439,JPN Japan,5,8,5,18,2000,SYDNEY,Japan,Asia,Japan,4968360000000.0,2.3%,39173.0,7.0%
+440,BUL Bulgaria,5,6,2,13,2000,SYDNEY,Bulgaria,Europe,Bulgaria,13246000000.0,4.6%,1625.0,-3.8%
+441,GRE Greece,4,6,3,13,2000,SYDNEY,Greece,Europe,Greece,131082000000.0,3.9%,12165.0,-11.8%
+442,SWE Sweden,4,5,3,12,2000,SYDNEY,Sweden,Europe,Sweden,262834000000.0,4.8%,29589.0,-4.3%
+443,NOR Norway,4,3,3,10,2000,SYDNEY,Norway,Europe,Norway,171246000000.0,3.2%,38048.0,4.9%
+444,ETH Ethiopia,4,1,3,8,2000,SYDNEY,Ethiopia,Africa,Ethiopia,8235000000.0,9.8%,130.0,1.1%
+445,UKR Ukraine,3,10,10,23,2000,SYDNEY,Ukraine,Europe,Ukraine,32331000000.0,5.9%,664.0,-0.1%
+446,KAZ Kazakhstan,3,4,0,7,2000,SYDNEY,Kazakhstan,Asia,Kazakhstan,18292000000.0,9.8%,1230.0,8.7%
+447,BLR Belarus,3,3,11,17,2000,SYDNEY,Belarus,Europe,Belarus,10785000000.0,5.8%,1080.0,-10.9%
+448,CAN Canada,3,3,8,14,2000,SYDNEY,Canada,North America,Canada,744631000000.0,5.2%,24297.0,8.8%
+449,ESP Spain,3,3,5,11,2000,SYDNEY,Spain,Europe,Spain,598628000000.0,5.2%,14761.0,-6.7%
+450,TUR Turkey,3,0,2,5,2000,SYDNEY,Turkey,Asia,Turkey,274321000000.0,6.9%,4238.0,5.4%
+451,IRI Islamic Republic of Iran,3,0,1,4,2000,SYDNEY,Islamic Republic of Iran,Asia,Iran,362717000000.0,6.9%,5648.0,30.4%
+452,CZE Czech Republic,2,3,3,8,2000,SYDNEY,Czech Republic,Europe,Czech Republic,61823000000.0,4.0%,6015.0,-5.0%
+453,KEN Kenya,2,3,2,7,2000,SYDNEY,Kenya,Africa,Kenya,26480000000.0,0.3%,898.0,-7.7%
+454,DEN Denmark,2,3,1,6,2000,SYDNEY,Denmark,Europe,Denmark,164158000000.0,3.7%,30799.0,-8.0%
+455,FIN Finland,2,1,1,4,2000,SYDNEY,Finland,Europe,Finland,126075000000.0,5.8%,24380.0,-7.1%
+456,AUT Austria,2,1,0,3,2000,SYDNEY,Austria,Europe,Austria,197377000000.0,3.4%,24636.0,-9.5%
+457,LTU Lithuania,2,0,3,5,2000,SYDNEY,Lithuania,Europe,Lithuania,11525000000.0,3.7%,3293.0,5.8%
+458,AZE Azerbaijan,2,0,1,3,2000,SYDNEY,Azerbaijan,Asia,Azerbaijan,5273000000.0,6.2%,656.0,14.0%
+459,BAH Bahamas,2,0,1,3,2000,SYDNEY,Bahamas,North America,Bahamas,8076000000.0,4.1%,26669.0,3.5%
+460,SLO Slovenia,2,0,0,2,2000,SYDNEY,Slovenia,Europe,Slovenia,20393000000.0,3.7%,10259.0,-10.9%
+461,SUI Switzerland,1,6,2,9,2000,SYDNEY,Switzerland,Europe,Switzerland,279926000000.0,4.0%,39074.0,-6.7%
+462,INA Indonesia,1,3,2,6,2000,SYDNEY,Indonesia,Asia,Indonesia,179482000000.0,4.9%,870.0,4.9%
+463,SVK Slovakia,1,3,1,5,2000,SYDNEY,Slovakia,Europe,Slovakia,20730000000.0,1.2%,3840.0,-0.8%
+464,MEX Mexico,1,2,3,6,2000,SYDNEY,Mexico,North America,Mexico,707909000000.0,4.9%,7166.0,16.4%
+465,NGR Nigeria,1,2,0,3,2000,SYDNEY,Nigeria,Africa,Nigeria,67824000000.0,5.5%,555.0,15.1%
+466,ALG Algeria,1,1,3,5,2000,SYDNEY,Algeria,Africa,,,,,
+467,UZB Uzbekistan,1,1,2,4,2000,SYDNEY,Uzbekistan,Asia,Uzbekistan,17195000000.0,3.8%,702.0,-19.2%
+468,LAT Latvia,1,1,1,3,2000,SYDNEY,Latvia,Europe,Latvia,7953000000.0,5.7%,3339.0,6.4%
+469,SCG Serbia and Montenegro,1,1,1,3,2000,SYDNEY,Serbia and Montenegro,Europe,,,,,
+470,NZL New Zealand,1,0,3,4,2000,SYDNEY,New Zealand,Australia,New Zealand,54151000000.0,2.3%,14028.0,-8.6%
+471,EST Estonia,1,0,2,3,2000,SYDNEY,Estonia,Europe,Estonia,5707000000.0,10.1%,4085.0,-1.6%
+472,THA Thailand,1,0,2,3,2000,SYDNEY,Thailand,Asia,Thailand,126132000000.0,4.5%,2004.0,-1.4%
+473,CRO Croatia,1,0,1,2,2000,SYDNEY,Croatia,Europe,Croatia,21634000000.0,2.9%,4938.0,-3.2%
+474,COL Colombia,1,0,0,1,2000,SYDNEY,Colombia,South America,Colombia,99230000000.0,2.6%,2534.0,-5.2%
+475,CMR Cameroon,1,0,0,1,2000,SYDNEY,Cameroon,Africa,,,,,
+476,MOZ Mozambique,1,0,0,1,2000,SYDNEY,Mozambique,Africa,,,,,
+477,BRA Brazil,0,6,6,12,2000,SYDNEY,Brazil,South America,Brazil,655454000000.0,4.4%,3772.0,7.7%
+478,JAM Jamaica,0,6,3,9,2000,SYDNEY,Jamaica,North America,Jamaica,9065000000.0,0.8%,3511.0,1.1%
+479,BEL Belgium,0,2,3,5,2000,SYDNEY,Belgium,Europe,Belgium,236897000000.0,3.7%,23137.0,-8.6%
+480,RSA South Africa,0,2,3,5,2000,SYDNEY,South Africa,Africa,South Africa,151855000000.0,4.2%,3382.0,-1.2%
+481,ARG Argentina,0,2,2,4,2000,SYDNEY,Argentina,South America,Argentina,317759000000.0,-0.8%,8639.0,-0.8%
+482,TPE Chinese Taipei,0,1,4,5,2000,SYDNEY,Chinese Taipei,Asia,Taipei,,,,
+483,MAR Morocco,0,1,4,5,2000,SYDNEY,Morocco,Africa,Morocco,38859000000.0,1.9%,1374.0,-7.9%
+484,PRK Democratic People's Republic of Korea,0,1,3,4,2000,SYDNEY,Democratic People's Republic of Korea,Asia,,,,,
+485,KSA Saudi Arabia,0,1,1,2,2000,SYDNEY,Saudi Arabia,Asia,Saudi Arabia,189514000000.0,5.6%,9257.0,14.4%
+486,MDA Republic of Moldova,0,1,1,2,2000,SYDNEY,Republic of Moldova,Europe,Moldova,1315000000.0,2.1%,448.0,12.5%
+487,TTO Trinidad and Tobago,0,1,1,2,2000,SYDNEY,Trinidad and Tobago,North America,,,,,
+488,IRL Ireland,0,1,0,1,2000,SYDNEY,Ireland,Europe,Ireland,100253000000.0,9.4%,26186.0,-0.2%
+489,SRI Sri Lanka,0,1,0,1,2000,SYDNEY,Sri Lanka,Asia,,,,,
+490,URU Uruguay,0,1,0,1,2000,SYDNEY,Uruguay,South America,,,,,
+491,VIE Vietnam,0,1,0,1,2000,SYDNEY,Vietnam,Asia,,,,,
+492,GEO Georgia,0,0,6,6,2000,SYDNEY,Georgia,Asia,Georgia,3143000000.0,1.8%,764.0,11.1%
+493,POR Portugal,0,0,2,2,2000,SYDNEY,Portugal,Europe,Portugal,118658000000.0,3.8%,11531.0,-7.7%
+494,CRC Costa Rica,0,0,2,2,2000,SYDNEY,Costa Rica,North America,,,,,
+495,CHI Chile,0,0,1,1,2000,SYDNEY,Chile,South America,,,,,
+496,ISL Iceland,0,0,1,1,2000,SYDNEY,Iceland,Europe,,,,,
+497,IND India,0,0,1,1,2000,SYDNEY,India,Asia,India,476636000000.0,3.8%,451.0,0.3%
+498,ISR Israel,0,0,1,1,2000,SYDNEY,Israel,Asia,Israel,132454000000.0,8.9%,21072.0,10.0%
+499,KUW Kuwait,0,0,1,1,2000,SYDNEY,Kuwait,Asia,Kuwait,37721000000.0,4.7%,17013.0,27.4%
+500,ARM Armenia,0,0,1,1,2000,SYDNEY,Armenia,Asia,Armenia,1912000000.0,5.9%,621.0,3.9%
+501,BAR Barbados,0,0,1,1,2000,SYDNEY,Barbados,North America,,,,,
+502,KGZ Kyrgyzstan,0,0,1,1,2000,SYDNEY,Kyrgyzstan,Asia,Kyrgyzstan,1368000000.0,5.4%,281.0,8.6%
+503,QAT Qatar,0,0,1,1,2000,SYDNEY,Qatar,Asia,Qatar,18085000000.0,6.9%,30461.0,54.7%
+504,MKD North Macedonia,0,0,1,1,2000,SYDNEY,North Macedonia,Europe,North Macedonia,3774000000.0,4.5%,1878.0,-2.8%
+505,USA United States of America,44,32,25,101,1996,ATLANTA,United States of America,North America,United States,8073100000000.0,3.8%,29947.0,4.5%
+506,RUS Russian Federation,26,21,16,63,1996,ATLANTA,Russian Federation,Europe,,,,,
+507,GER Germany,20,18,27,65,1996,ATLANTA,Germany,Europe,Germany,2498110000000.0,0.8%,30664.0,-3.7%
+508,CHN People's Republic of China,16,22,12,50,1996,ATLANTA,People's Republic of China,Asia,China,860468000000.0,9.9%,703.0,16.5%
+509,FRA France,15,7,15,37,1996,ATLANTA,France,Europe,France,1605770000000.0,1.4%,27716.0,0.0%
+510,ITA Italy,13,10,12,35,1996,ATLANTA,Italy,Europe,Italy,1312780000000.0,1.3%,23094.0,11.7%
+511,AUS Australia,9,9,23,41,1996,ATLANTA,Australia,Australia,Australia,423544000000.0,4.0%,23107.0,10.7%
+512,CUB Cuba,9,8,8,25,1996,ATLANTA,Cuba,North America,Cuba,25017000000.0,7.8%,2287.0,-18.2%
+513,UKR Ukraine,9,2,12,23,1996,ATLANTA,Ukraine,Europe,Ukraine,46083000000.0,-10.0%,914.0,21.5%
+514,KOR Republic of Korea,7,15,5,27,1996,ATLANTA,Republic of Korea,Asia,South Korea,610164000000.0,7.6%,13403.0,6.7%
+515,POL Poland,7,5,5,17,1996,ATLANTA,Poland,Europe,Poland,156993000000.0,6.1%,4066.0,12.6%
+516,HUN Hungary,7,4,10,21,1996,ATLANTA,Hungary,Europe,Hungary,46659000000.0,0.1%,4521.0,0.7%
+517,ESP Spain,5,6,6,17,1996,ATLANTA,Spain,Europe,Spain,640026000000.0,2.7%,16096.0,4.0%
+518,ROU Romania,4,7,9,20,1996,ATLANTA,Romania,Europe,Romania,35692000000.0,3.9%,1565.0,0.2%
+519,NED Netherlands,4,5,10,19,1996,ATLANTA,Netherlands,Europe,Netherlands,450625000000.0,3.5%,29084.0,-0.9%
+520,GRE Greece,4,4,0,8,1996,ATLANTA,Greece,Europe,Greece,144642000000.0,2.9%,13661.0,6.0%
+521,CZE Czech Republic,4,3,4,11,1996,ATLANTA,Czech Republic,Europe,Czech Republic,67388000000.0,4.3%,6529.0,12.2%
+522,SUI Switzerland,4,3,0,7,1996,ATLANTA,Switzerland,Europe,Switzerland,340773000000.0,0.5%,48254.0,-4.1%
+523,DEN Denmark,4,1,1,6,1996,ATLANTA,Denmark,Europe,Denmark,187633000000.0,2.9%,35733.0,0.7%
+524,TUR Turkey,4,1,1,6,1996,ATLANTA,Turkey,Asia,Turkey,250486000000.0,7.0%,4099.0,5.6%
+525,CAN Canada,3,11,8,22,1996,ATLANTA,Canada,North America,Canada,630598000000.0,1.6%,21326.0,3.0%
+526,BUL Bulgaria,3,7,5,15,1996,ATLANTA,Bulgaria,Europe,Bulgaria,12295000000.0,5.2%,1495.0,-23.7%
+527,JPN Japan,3,6,5,14,1996,ATLANTA,Japan,Asia,Japan,4923390000000.0,2.6%,39164.0,-11.4%
+528,KAZ Kazakhstan,3,4,4,11,1996,ATLANTA,Kazakhstan,Asia,Kazakhstan,21035000000.0,0.5%,1359.0,28.0%
+529,BRA Brazil,3,3,9,15,1996,ATLANTA,Brazil,South America,Brazil,851146000000.0,2.2%,5205.0,7.3%
+530,NZL New Zealand,3,2,1,6,1996,ATLANTA,New Zealand,Australia,New Zealand,69093000000.0,3.4%,18504.0,9.3%
+531,RSA South Africa,3,1,1,5,1996,ATLANTA,South Africa,Africa,South Africa,163340000000.0,4.3%,3870.0,-6.7%
+532,IRL Ireland,3,0,1,4,1996,ATLANTA,Ireland,Europe,Ireland,75928000000.0,7.4%,20781.0,8.9%
+533,SWE Sweden,2,4,2,8,1996,ATLANTA,Sweden,Europe,Sweden,291746000000.0,1.6%,32986.0,9.1%
+534,NOR Norway,2,2,3,7,1996,ATLANTA,Norway,Europe,Norway,163520000000.0,5.0%,37225.0,7.0%
+535,BEL Belgium,2,2,2,6,1996,ATLANTA,Belgium,Europe,Belgium,279292000000.0,1.3%,27535.0,-3.2%
+536,NGR Nigeria,2,1,3,6,1996,ATLANTA,Nigeria,Africa,Nigeria,172686000000.0,4.1%,1560.0,27.4%
+537,PRK Democratic People's Republic of Korea,2,1,2,5,1996,ATLANTA,Democratic People's Republic of Korea,Asia,,,,,
+538,ALG Algeria,2,0,1,3,1996,ATLANTA,Algeria,Africa,,,,,
+539,ETH Ethiopia,2,0,1,3,1996,ATLANTA,Ethiopia,Africa,Ethiopia,8826000000.0,13.5%,155.0,1.6%
+540,GBR Great Britain,1,8,6,15,1996,ATLANTA,Great Britain,Europe,United Kingdom,1416840000000.0,2.5%,24359.0,5.3%
+541,BLR Belarus,1,6,8,15,1996,ATLANTA,Belarus,Europe,Belarus,14494000000.0,2.8%,1429.0,38.1%
+542,KEN Kenya,1,4,3,8,1996,ATLANTA,Kenya,Africa,Kenya,27562000000.0,4.1%,1048.0,10.1%
+543,JAM Jamaica,1,3,2,6,1996,ATLANTA,Jamaica,North America,Jamaica,7394000000.0,0.2%,2975.0,11.8%
+544,FIN Finland,1,2,1,4,1996,ATLANTA,Finland,Europe,Finland,132183000000.0,3.7%,25833.0,-2.0%
+545,SCG Serbia and Montenegro,1,1,2,4,1996,ATLANTA,Serbia and Montenegro,Europe,,,,,
+546,INA Indonesia,1,1,2,4,1996,ATLANTA,Indonesia,Asia,Indonesia,274722000000.0,7.8%,1395.0,11.2%
+547,SVK Slovakia,1,1,1,3,1996,ATLANTA,Slovakia,Europe,Slovakia,21659000000.0,6.6%,4005.0,7.9%
+548,IRI Islamic Republic of Iran,1,1,1,3,1996,ATLANTA,Islamic Republic of Iran,Asia,Iran,161829000000.0,6.2%,2695.0,35.4%
+549,ARM Armenia,1,1,0,2,1996,ATLANTA,Armenia,Asia,Armenia,1597000000.0,5.2%,504.0,26.1%
+550,CRO Croatia,1,1,0,2,1996,ATLANTA,Croatia,Europe,Croatia,23449000000.0,6.0%,5218.0,4.5%
+551,THA Thailand,1,0,1,2,1996,ATLANTA,Thailand,Asia,Thailand,183035000000.0,5.7%,3044.0,6.9%
+552,POR Portugal,1,0,1,2,1996,ATLANTA,Portugal,Europe,Portugal,122655000000.0,3.5%,12188.0,3.4%
+553,BDI Burundi,1,0,0,1,1996,ATLANTA,Burundi,Africa,,,,,
+554,SYR Syrian Arab Republic,1,0,0,1,1996,ATLANTA,Syrian Arab Republic,Asia,Syrian Arab Republic,,,,
+555,ECU Ecuador,1,0,0,1,1996,ATLANTA,Ecuador,South America,Ecuador,24035000000.0,1.7%,2037.0,2.9%
+556,"HKG Hong Kong, China",1,0,0,1,1996,ATLANTA,"Hong Kong, China",Asia,Hong Kong,159718000000.0,4.2%,24699.0,7.1%
+557,CRC Costa Rica,1,0,0,1,1996,ATLANTA,Costa Rica,North America,,,,,
+558,ARG Argentina,0,2,1,3,1996,ATLANTA,Argentina,South America,Argentina,304282000000.0,5.5%,8645.0,4.2%
+559,SLO Slovenia,0,2,0,2,1996,ATLANTA,Slovenia,Europe,Slovenia,21516000000.0,3.2%,10811.0,0.6%
+560,NAM Namibia,0,2,0,2,1996,ATLANTA,Namibia,Africa,Namibia,3494000000.0,3.2%,2126.0,-3.2%
+561,AUT Austria,0,1,2,3,1996,ATLANTA,Austria,Europe,Austria,237343000000.0,2.3%,29821.0,-1.8%
+562,MAS Malaysia,0,1,1,2,1996,ATLANTA,Malaysia,Asia,Malaysia,109839000000.0,10.0%,5176.0,10.6%
+563,MDA Republic of Moldova,0,1,1,2,1996,ATLANTA,Republic of Moldova,Europe,Moldova,1694000000.0,-5.9%,572.0,17.9%
+564,UZB Uzbekistan,0,1,1,2,1996,ATLANTA,Uzbekistan,Asia,Uzbekistan,17453000000.0,1.7%,755.0,34.3%
+565,BAH Bahamas,0,1,0,1,1996,ATLANTA,Bahamas,North America,Bahamas,5950000000.0,4.2%,20975.0,3.5%
+566,TPE Chinese Taipei,0,1,0,1,1996,ATLANTA,Chinese Taipei,Asia,Taipei,,,,
+567,ZAM Zambia,0,1,0,1,1996,ATLANTA,Zambia,Africa,,,,,
+568,TGA Tonga,0,1,0,1,1996,ATLANTA,Tonga,Australia,,,,,
+569,LAT Latvia,0,1,0,1,1996,ATLANTA,Latvia,Europe,Latvia,5969000000.0,2.6%,2417.0,11.8%
+570,PHI Philippines,0,1,0,1,1996,ATLANTA,Philippines,Asia,Philippines,94650000000.0,5.9%,1316.0,6.4%
+571,AZE Azerbaijan,0,1,0,1,1996,ATLANTA,Azerbaijan,Asia,Azerbaijan,3177000000.0,2.5%,411.0,30.0%
+572,GEO Georgia,0,0,2,2,1996,ATLANTA,Georgia,Asia,Georgia,3149000000.0,10.5%,689.0,66.6%
+573,TTO Trinidad and Tobago,0,0,2,2,1996,ATLANTA,Trinidad and Tobago,North America,,,,,
+574,MAR Morocco,0,0,2,2,1996,ATLANTA,Morocco,Africa,Morocco,43162000000.0,12.4%,1613.0,9.0%
+575,MEX Mexico,0,0,1,1,1996,ATLANTA,Mexico,North America,Mexico,410973000000.0,6.8%,4405.0,12.4%
+576,MOZ Mozambique,0,0,1,1,1996,ATLANTA,Mozambique,Africa,,,,,
+577,MGL Mongolia,0,0,1,1,1996,ATLANTA,Mongolia,Asia,Mongolia,1576000000.0,2.2%,692.0,-8.5%
+578,TUN Tunisia,0,0,1,1,1996,ATLANTA,Tunisia,Africa,Tunisia,21283000000.0,6.9%,2299.0,6.6%
+579,IND India,0,0,1,1,1996,ATLANTA,India,Asia,India,399791000000.0,7.5%,407.0,7.0%
+580,UGA Uganda,0,0,1,1,1996,ATLANTA,Uganda,Africa,Uganda,7713000000.0,6.6%,401.0,-0.1%
+581,LTU Lithuania,0,0,1,1,1996,ATLANTA,Lithuania,Europe,Lithuania,8383000000.0,5.2%,2328.0,26.1%
+582,ISR Israel,0,0,1,1,1996,ATLANTA,Israel,Asia,Israel,110182000000.0,5.0%,19392.0,6.8%
+583,PUR Puerto Rico,0,0,1,1,1996,ATLANTA,Puerto Rico,North America,Puerto Rico,,,,
+584,EUN Unified Team,45,38,29,112,1992,BARCELONA,Unified Team,Not Available,,,,,
+585,USA United States of America,37,34,37,108,1992,BARCELONA,United States of America,North America,United States,6520300000000.0,3.5%,25393.0,4.5%
+586,GER Germany,33,21,28,82,1992,BARCELONA,Germany,Europe,Germany,2136310000000.0,1.9%,26538.0,13.2%
+587,CHN People's Republic of China,16,22,16,54,1992,BARCELONA,People's Republic of China,Asia,China,492148000000.0,14.2%,420.0,17.7%
+588,CUB Cuba,14,6,11,31,1992,BARCELONA,Cuba,North America,Cuba,22086000000.0,-11.6%,2057.0,-9.7%
+589,ESP Spain,13,7,2,22,1992,BARCELONA,Spain,Europe,Spain,630122000000.0,0.9%,16013.0,9.0%
+590,KOR Republic of Korea,12,5,12,29,1992,BARCELONA,Republic of Korea,Asia,South Korea,355516000000.0,6.2%,8126.0,6.4%
+591,HUN Hungary,11,12,7,30,1992,BARCELONA,Hungary,Europe,Hungary,38731000000.0,-3.1%,3733.0,11.4%
+592,FRA France,8,5,16,29,1992,BARCELONA,France,Europe,France,1401400000000.0,1.6%,24538.0,9.9%
+593,AUS Australia,7,9,11,27,1992,BARCELONA,Australia,Australia,Australia,317475000000.0,4.0%,18082.0,-2.9%
+594,CAN Canada,7,4,7,18,1992,BARCELONA,Canada,North America,Canada,594376000000.0,0.9%,20985.0,-4.1%
+595,ITA Italy,6,5,8,19,1992,BARCELONA,Italy,Europe,Italy,1310660000000.0,0.8%,23086.0,6.1%
+596,GBR Great Britain,5,3,12,20,1992,BARCELONA,Great Britain,Europe,United Kingdom,1289070000000.0,0.4%,22385.0,3.0%
+597,ROU Romania,4,6,8,18,1992,BARCELONA,Romania,Europe,Romania,19779000000.0,-8.7%,848.0,-31.7%
+598,TCH Czechoslovakia,4,2,1,7,1992,BARCELONA,Czechoslovakia,Europe,,,,,
+599,PRK Democratic People's Republic of Korea,4,0,5,9,1992,BARCELONA,Democratic People's Republic of Korea,Asia,,,,,
+600,JPN Japan,3,8,11,22,1992,BARCELONA,Japan,Asia,Japan,3988330000000.0,0.8%,32069.0,8.7%
+601,BUL Bulgaria,3,7,6,16,1992,BARCELONA,Bulgaria,Europe,Bulgaria,10183000000.0,-1.9%,1183.0,310.1%
+602,POL Poland,3,6,10,19,1992,BARCELONA,Poland,Europe,Poland,88888000000.0,2.5%,2316.0,10.0%
+603,NED Netherlands,2,6,7,15,1992,BARCELONA,Netherlands,Europe,Netherlands,366004000000.0,1.7%,24192.0,9.7%
+604,KEN Kenya,2,4,2,8,1992,BARCELONA,Kenya,Africa,Kenya,23014000000.0,-1.1%,984.0,-4.5%
+605,NOR Norway,2,4,1,7,1992,BARCELONA,Norway,Europe,Norway,130838000000.0,3.6%,30433.0,6.7%
+606,TUR Turkey,2,2,2,6,1992,BARCELONA,Turkey,Asia,Turkey,219176000000.0,6.0%,3819.0,3.5%
+607,INA Indonesia,2,2,1,5,1992,BARCELONA,Indonesia,Asia,Indonesia,168280000000.0,6.5%,908.0,7.1%
+608,BRA Brazil,2,1,0,3,1992,BARCELONA,Brazil,South America,Brazil,382465000000.0,-0.5%,2524.0,-5.8%
+609,GRE Greece,2,0,0,2,1992,BARCELONA,Greece,Europe,Greece,115484000000.0,0.7%,11139.0,9.3%
+610,SWE Sweden,1,7,4,12,1992,BARCELONA,Sweden,Europe,Sweden,283228000000.0,-1.2%,32585.0,3.5%
+611,NZL New Zealand,1,4,5,10,1992,BARCELONA,New Zealand,Australia,New Zealand,41530000000.0,1.3%,11755.0,-5.4%
+612,FIN Finland,1,2,2,5,1992,BARCELONA,Finland,Europe,Finland,113134000000.0,-3.3%,22496.0,-12.3%
+613,DEN Denmark,1,1,4,6,1992,BARCELONA,Denmark,Europe,Denmark,152915000000.0,2.0%,29622.0,9.5%
+614,MAR Morocco,1,1,1,3,1992,BARCELONA,Morocco,Africa,Morocco,33712000000.0,-2.1%,1343.0,2.5%
+615,IRL Ireland,1,1,0,2,1992,BARCELONA,Ireland,Europe,Ireland,54911000000.0,3.3%,15332.0,11.5%
+616,ETH Ethiopia,1,0,2,3,1992,BARCELONA,Ethiopia,Africa,Ethiopia,14696000000.0,-8.9%,293.0,2.0%
+617,ALG Algeria,1,0,1,2,1992,BARCELONA,Algeria,Africa,,,,,
+618,EST Estonia,1,0,1,2,1992,BARCELONA,Estonia,Europe,Estonia,4306000000.0,-21.2%,2849.0,-17.1%
+619,LTU Lithuania,1,0,1,2,1992,BARCELONA,Lithuania,Europe,Lithuania,8562000000.0,-21.3%,2318.0,-16.5%
+620,SUI Switzerland,1,0,0,1,1992,BARCELONA,Switzerland,Europe,Switzerland,279957000000.0,0%,40911.0,2.6%
+621,JAM Jamaica,0,3,1,4,1992,BARCELONA,Jamaica,North America,Jamaica,4328000000.0,2.8%,1804.0,0.3%
+622,NGR Nigeria,0,3,1,4,1992,BARCELONA,Nigeria,Africa,Nigeria,52275000000.0,2.2%,522.0,-15.2%
+623,LAT Latvia,0,2,1,3,1992,BARCELONA,Latvia,Europe,Latvia,1693000000.0,-32.1%,633.0,-75.3%
+624,RSA South Africa,0,2,0,2,1992,BARCELONA,South Africa,Africa,South Africa,134557000000.0,-2.1%,3481.0,5.9%
+625,AUT Austria,0,2,0,2,1992,BARCELONA,Austria,Europe,Austria,195506000000.0,2.1%,25068.0,10.8%
+626,NAM Namibia,0,2,0,2,1992,BARCELONA,Namibia,Africa,Namibia,3014000000.0,9.3%,2071.0,1.8%
+627,BEL Belgium,0,1,2,3,1992,BARCELONA,Belgium,Europe,Belgium,228732000000.0,1.5%,22823.0,11.0%
+628,IOA Independent Olympic Athletes,0,1,2,3,1992,BARCELONA,Independent Olympic Athletes,Not Available,,,,,
+629,IRI Islamic Republic of Iran,0,1,2,3,1992,BARCELONA,Islamic Republic of Iran,Asia,Iran,50109000000.0,2.1%,884.0,-83.5%
+630,CRO Croatia,0,1,2,3,1992,BARCELONA,Croatia,Europe,Croatia,12168000000.0,-11.7%,2573.0,-34.9%
+631,ISR Israel,0,1,1,2,1992,BARCELONA,Israel,Asia,Israel,73816000000.0,7.8%,14407.0,7.9%
+632,TPE Chinese Taipei,0,1,0,1,1992,BARCELONA,Chinese Taipei,Asia,Taipei,,,,
+633,MEX Mexico,0,1,0,1,1992,BARCELONA,Mexico,North America,Mexico,403733000000.0,3.6%,4624.0,13.9%
+634,PER Peru,0,1,0,1,1992,BARCELONA,Peru,South America,,,,,
+635,MGL Mongolia,0,0,2,2,1992,BARCELONA,Mongolia,Asia,Mongolia,1831000000.0,-9.3%,844.0,-45.5%
+636,SLO Slovenia,0,0,2,2,1992,BARCELONA,Slovenia,Europe,Slovenia,19271000000.0,-5.5%,9639.0,45.3%
+637,BAH Bahamas,0,0,1,1,1992,BARCELONA,Bahamas,North America,Bahamas,5125000000.0,-3.8%,19417.0,-1.8%
+638,ARG Argentina,0,0,1,1,1992,BARCELONA,Argentina,South America,Argentina,255787000000.0,10.3%,7654.0,19.0%
+639,PHI Philippines,0,0,1,1,1992,BARCELONA,Philippines,Asia,Philippines,60422000000.0,0.4%,947.0,14.0%
+640,QAT Qatar,0,0,1,1,1992,BARCELONA,Qatar,Asia,Qatar,6384000000.0,10.4%,13039.0,13.4%
+641,COL Colombia,0,0,1,1,1992,BARCELONA,Colombia,South America,Colombia,68551000000.0,4.3%,1986.0,16.0%
+642,GHA Ghana,0,0,1,1,1992,BARCELONA,Ghana,Africa,Ghana,16312000000.0,4.5%,1103.0,-3.5%
+643,PUR Puerto Rico,0,0,1,1,1992,BARCELONA,Puerto Rico,North America,Puerto Rico,,,,
+644,MAS Malaysia,0,0,1,1,1992,BARCELONA,Malaysia,Asia,Malaysia,64424000000.0,8.9%,3379.0,17.1%
+645,THA Thailand,0,0,1,1,1992,BARCELONA,Thailand,Asia,Thailand,115576000000.0,9.2%,1999.0,13.0%
+646,SUR Suriname,0,0,1,1,1992,BARCELONA,Suriname,South America,,,,,
+647,PAK Pakistan,0,0,1,1,1992,BARCELONA,Pakistan,Asia,,,,,
+648,URS Soviet Union,55,31,46,132,1988,SEOUL,Soviet Union,Asia,,,,,
+649,GDR German Democratic Republic (Germany),37,35,30,102,1988,SEOUL,German Democratic Republic (Germany),Europe,,,,,
+650,USA United States of America,36,31,27,94,1988,SEOUL,United States of America,North America,United States,5236400000000.0,4.2%,21376.0,6.9%
+651,KOR Republic of Korea,12,10,11,33,1988,SEOUL,Republic of Korea,Asia,South Korea,199593000000.0,11.9%,4749.0,33.6%
+652,FRG Federal Republic of Germany,11,14,15,40,1988,SEOUL,Federal Republic of Germany,Europe,,,,,
+653,HUN Hungary,11,6,6,23,1988,SEOUL,Hungary,Europe,Hungary,29703000000.0,-0.1%,2839.0,9.9%
+654,BUL Bulgaria,10,12,13,35,1988,SEOUL,Bulgaria,Europe,Bulgaria,57029000000.0,2.4%,6433.0,63.9%
+655,ROU Romania,7,11,6,24,1988,SEOUL,Romania,Europe,Romania,60538000000.0,-0.5%,2593.0,3.0%
+656,FRA France,6,4,6,16,1988,SEOUL,France,Europe,France,1018810000000.0,4.7%,18204.0,8.5%
+657,ITA Italy,6,4,4,14,1988,SEOUL,Italy,Europe,Italy,900829000000.0,8.1%,15913.0,10.8%
+658,CHN People's Republic of China,5,11,12,28,1988,SEOUL,People's Republic of China,Asia,China,408663000000.0,11.2%,368.0,22.8%
+659,GBR Great Britain,5,10,9,24,1988,SEOUL,Great Britain,Europe,United Kingdom,989570000000.0,5.7%,17387.0,21.5%
+660,KEN Kenya,5,2,2,9,1988,SEOUL,Kenya,Africa,Kenya,23988000000.0,6.1%,1159.0,0.2%
+661,JPN Japan,4,3,7,14,1988,SEOUL,Japan,Asia,Japan,3134180000000.0,7.1%,25575.0,20.8%
+662,AUS Australia,3,6,5,14,1988,SEOUL,Australia,Australia,Australia,270594000000.0,3.9%,16216.0,25.0%
+663,YUG Yugoslavia,3,4,5,12,1988,SEOUL,Yugoslavia,Europe,,,,,
+664,TCH Czechoslovakia,3,3,2,8,1988,SEOUL,Czechoslovakia,Europe,,,,,
+665,NZL New Zealand,3,2,8,13,1988,SEOUL,New Zealand,Australia,New Zealand,45454000000.0,2.0%,13644.0,21.9%
+666,CAN Canada,3,2,5,10,1988,SEOUL,Canada,North America,Canada,509380000000.0,4.4%,19041.0,16.1%
+667,POL Poland,2,5,9,16,1988,SEOUL,Poland,Europe,Poland,68747000000.0,3.3%,1819.0,7.6%
+668,NOR Norway,2,3,0,5,1988,SEOUL,Norway,Europe,Norway,101901000000.0,-0.3%,24143.0,7.6%
+669,NED Netherlands,2,2,5,9,1988,SEOUL,Netherlands,Europe,Netherlands,264223000000.0,3.4%,17956.0,6.3%
+670,DEN Denmark,2,1,1,4,1988,SEOUL,Denmark,Europe,Denmark,115552000000.0,0%,22528.0,5.5%
+671,BRA Brazil,1,2,3,6,1988,SEOUL,Brazil,South America,Brazil,320105000000.0,0.3%,2289.0,9.7%
+672,ESP Spain,1,1,2,4,1988,SEOUL,Spain,Europe,Spain,374068000000.0,5.1%,9599.0,17.2%
+673,FIN Finland,1,1,2,4,1988,SEOUL,Finland,Europe,Finland,109255000000.0,5.2%,22123.0,18.7%
+674,TUR Turkey,1,1,0,2,1988,SEOUL,Turkey,Asia,Turkey,125032000000.0,2.1%,2333.0,3.2%
+675,MAR Morocco,1,0,2,3,1988,SEOUL,Morocco,Africa,Morocco,25947000000.0,10.4%,1103.0,15.8%
+676,SUR Suriname,1,0,0,1,1988,SEOUL,Suriname,South America,,,,,
+677,POR Portugal,1,0,0,1,1988,SEOUL,Portugal,Europe,Portugal,55435000000.0,7.5%,5533.0,17.1%
+678,AUT Austria,1,0,0,1,1988,SEOUL,Austria,Europe,Austria,133591000000.0,3.3%,17633.0,9.6%
+679,SWE Sweden,0,4,7,11,1988,SEOUL,Sweden,Europe,Sweden,205883000000.0,2.6%,24339.0,12.5%
+680,SUI Switzerland,0,2,2,4,1988,SEOUL,Switzerland,Europe,Switzerland,215521000000.0,3.3%,32819.0,7.4%
+681,JAM Jamaica,0,2,0,2,1988,SEOUL,Jamaica,North America,Jamaica,3184000000.0,-4.0%,1373.0,18.5%
+682,ARG Argentina,0,1,1,2,1988,SEOUL,Argentina,South America,Argentina,142386000000.0,-2.0%,4525.0,15.7%
+683,PER Peru,0,1,0,1,1988,SEOUL,Peru,South America,,,,,
+684,"ISV Virgin Islands, US",0,1,0,1,1988,SEOUL,"Virgin Islands, US",North America,,,,,
+685,SEN Senegal,0,1,0,1,1988,SEOUL,Senegal,Africa,,,,,
+686,INA Indonesia,0,1,0,1,1988,SEOUL,Indonesia,Asia,Indonesia,107279000000.0,7.0%,622.0,10.5%
+687,CRC Costa Rica,0,1,0,1,1988,SEOUL,Costa Rica,North America,,,,,
+688,IRI Islamic Republic of Iran,0,1,0,1,1988,SEOUL,Islamic Republic of Iran,Asia,Iran,307885000000.0,-9.5%,5931.0,5.9%
+689,AHO Netherlands Antilles,0,1,0,1,1988,SEOUL,Netherlands Antilles,South America,,,,,
+690,CHI Chile,0,1,0,1,1988,SEOUL,Chile,South America,,,,,
+691,MEX Mexico,0,0,2,2,1988,SEOUL,Mexico,North America,Mexico,201926000000.0,1.2%,2494.0,19.9%
+692,BEL Belgium,0,0,2,2,1988,SEOUL,Belgium,Europe,Belgium,158097000000.0,4.7%,16009.0,8.6%
+693,MGL Mongolia,0,0,1,1,1988,SEOUL,Mongolia,Asia,Mongolia,4797000000.0,5.1%,2296.0,-2.3%
+694,PHI Philippines,0,0,1,1,1988,SEOUL,Philippines,Asia,Philippines,43293000000.0,6.8%,744.0,11.6%
+695,GRE Greece,0,0,1,1,1988,SEOUL,Greece,Europe,Greece,75803000000.0,4.3%,7568.0,16.0%
+696,THA Thailand,0,0,1,1,1988,SEOUL,Thailand,Asia,Thailand,63704000000.0,13.3%,1161.0,19.9%
+697,COL Colombia,0,0,1,1,1988,SEOUL,Colombia,South America,Colombia,54570000000.0,4.5%,1714.0,5.6%
+698,DJI Djibouti,0,0,1,1,1988,SEOUL,Djibouti,Africa,,,,,
+699,PAK Pakistan,0,0,1,1,1988,SEOUL,Pakistan,Asia,,,,,
+700,USA United States of America,83,61,30,174,1984,LOSANGELES,United States of America,North America,United States,4037600000000.0,7.2%,17086.0,10.1%
+701,ROU Romania,20,16,17,53,1984,LOSANGELES,Romania,Europe,Romania,39111000000.0,6.0%,1710.0,-19.5%
+702,FRG Federal Republic of Germany,17,19,23,59,1984,LOSANGELES,Federal Republic of Germany,Europe,,,,,
+703,CHN People's Republic of China,15,8,9,32,1984,LOSANGELES,People's Republic of China,Asia,China,314230000000.0,15.2%,301.0,1.6%
+704,ITA Italy,14,6,12,32,1984,LOSANGELES,Italy,Europe,Italy,442925000000.0,11.7%,7830.0,-1.2%
+705,CAN Canada,10,18,16,44,1984,LOSANGELES,Canada,North America,Canada,356728000000.0,5.9%,13947.0,3.4%
+706,JPN Japan,10,8,14,32,1984,LOSANGELES,Japan,Asia,Japan,1345200000000.0,4.5%,11205.0,5.4%
+707,NZL New Zealand,8,1,2,11,1984,LOSANGELES,New Zealand,Australia,New Zealand,22352000000.0,4.8%,6961.0,-1.5%
+708,YUG Yugoslavia,7,4,7,18,1984,LOSANGELES,Yugoslavia,Europe,,,,,
+709,KOR Republic of Korea,6,6,7,19,1984,LOSANGELES,Republic of Korea,Asia,South Korea,97511000000.0,10.4%,2413.0,9.8%
+710,GBR Great Britain,5,11,21,37,1984,LOSANGELES,Great Britain,Europe,United Kingdom,504571000000.0,2.3%,8945.0,-5.4%
+711,FRA France,5,7,16,28,1984,LOSANGELES,France,Europe,France,530697000000.0,1.5%,9668.0,-5.6%
+712,NED Netherlands,5,2,6,13,1984,LOSANGELES,Netherlands,Europe,Netherlands,142578000000.0,3.1%,9905.0,-7.3%
+713,AUS Australia,4,8,12,24,1984,LOSANGELES,Australia,Australia,Australia,196777000000.0,5.2%,12552.0,8.5%
+714,FIN Finland,4,2,6,12,1984,LOSANGELES,Finland,Europe,Finland,53032000000.0,3.2%,10890.0,3.3%
+715,SWE Sweden,2,11,6,19,1984,LOSANGELES,Sweden,Europe,Sweden,108255000000.0,4.2%,12976.0,4.1%
+716,MEX Mexico,2,3,1,6,1984,LOSANGELES,Mexico,North America,Mexico,204860000000.0,3.6%,2755.0,15.3%
+717,MAR Morocco,2,0,0,2,1984,LOSANGELES,Morocco,Africa,Morocco,14904000000.0,4.3%,695.0,-10.7%
+718,BRA Brazil,1,5,2,8,1984,LOSANGELES,Brazil,South America,Brazil,142957000000.0,5.3%,1106.0,-2.6%
+719,ESP Spain,1,2,2,5,1984,LOSANGELES,Spain,Europe,Spain,172381000000.0,1.8%,4472.0,-0.7%
+720,BEL Belgium,1,1,2,4,1984,LOSANGELES,Belgium,Europe,Belgium,81237000000.0,2.5%,8245.0,-4.4%
+721,AUT Austria,1,1,1,3,1984,LOSANGELES,Austria,Europe,Austria,67007000000.0,0.1%,8883.0,-5.7%
+722,POR Portugal,1,0,2,3,1984,LOSANGELES,Portugal,Europe,Portugal,25951000000.0,-1.9%,2596.0,-8.6%
+723,KEN Kenya,1,0,2,3,1984,LOSANGELES,Kenya,Africa,Kenya,17856000000.0,1.6%,987.0,0.3%
+724,PAK Pakistan,1,0,0,1,1984,LOSANGELES,Pakistan,Asia,,,,,
+725,SUI Switzerland,0,4,4,8,1984,LOSANGELES,Switzerland,Europe,Switzerland,109596000000.0,3.0%,17050.0,-4.6%
+726,DEN Denmark,0,3,3,6,1984,LOSANGELES,Denmark,Europe,Denmark,59105000000.0,4.2%,11562.0,-2.5%
+727,NOR Norway,0,1,2,3,1984,LOSANGELES,Norway,Europe,Norway,62058000000.0,6.1%,14969.0,0.4%
+728,JAM Jamaica,0,1,2,3,1984,LOSANGELES,Jamaica,North America,Jamaica,2119000000.0,1.0%,948.0,-26.5%
+729,PUR Puerto Rico,0,1,1,2,1984,LOSANGELES,Puerto Rico,North America,Puerto Rico,,,,
+730,GRE Greece,0,1,1,2,1984,LOSANGELES,Greece,Europe,Greece,47922000000.0,2.0%,4854.0,-3.1%
+731,NGR Nigeria,0,1,1,2,1984,LOSANGELES,Nigeria,Africa,Nigeria,27250000000.0,-2.0%,357.0,-29.4%
+732,EGY Egypt,0,1,0,1,1984,LOSANGELES,Egypt,Africa,Egypt,41888000000.0,8.0%,926.0,9.4%
+733,THA Thailand,0,1,0,1,1984,LOSANGELES,Thailand,Asia,Thailand,43179000000.0,5.8%,845.0,2.5%
+734,COL Colombia,0,1,0,1,1984,LOSANGELES,Colombia,South America,Colombia,53235000000.0,3.0%,1767.0,-3.3%
+735,PER Peru,0,1,0,1,1984,LOSANGELES,Peru,South America,,,,,
+736,IRL Ireland,0,1,0,1,1984,LOSANGELES,Ireland,Europe,Ireland,19883000000.0,4.4%,5592.0,-4.3%
+737,SYR Syrian Arab Republic,0,1,0,1,1984,LOSANGELES,Syrian Arab Republic,Asia,Syrian Arab Republic,,,,
+738,CIV Côte d'Ivoire,0,1,0,1,1984,LOSANGELES,Côte d'Ivoire,Africa,Côte d'Ivoire,,,,
+739,TUR Turkey,0,0,3,3,1984,LOSANGELES,Turkey,Asia,Turkey,82642000000.0,6.7%,1668.0,-4.8%
+740,VEN Venezuela,0,0,3,3,1984,LOSANGELES,Venezuela,South America,Venezuela,57826000000.0,5.2%,3447.0,-29.4%
+741,ALG Algeria,0,0,2,2,1984,LOSANGELES,Algeria,Africa,,,,,
+742,ISL Iceland,0,0,1,1,1984,LOSANGELES,Iceland,Europe,,,,,
+743,TPE Chinese Taipei,0,0,1,1,1984,LOSANGELES,Chinese Taipei,Asia,Taipei,,,,
+744,DOM Dominican Republic,0,0,1,1,1984,LOSANGELES,Dominican Republic,North America,Dominican Republic,14870000000.0,1.3%,2398.0,53.5%
+745,ZAM Zambia,0,0,1,1,1984,LOSANGELES,Zambia,Africa,,,,,
+746,CMR Cameroon,0,0,1,1,1984,LOSANGELES,Cameroon,Africa,,,,,
+747,URS Soviet Union,80,69,46,195,1980,MOSCOW,Soviet Union,Asia,,,,,
+748,GDR German Democratic Republic (Germany),47,37,42,126,1980,MOSCOW,German Democratic Republic (Germany),Europe,,,,,
+749,BUL Bulgaria,8,16,17,41,1980,MOSCOW,Bulgaria,Europe,Bulgaria,32353000000.0,5.7%,3673.0,245.4%
+750,CUB Cuba,8,7,5,20,1980,MOSCOW,Cuba,North America,Cuba,19913000000.0,-4.8%,2022.0,1.1%
+751,ITA Italy,8,3,4,15,1980,MOSCOW,Italy,Europe,Italy,482019000000.0,19.6%,8548.0,22.4%
+752,HUN Hungary,7,10,15,32,1980,MOSCOW,Hungary,Europe,Hungary,23042000000.0,0.2%,2151.0,20.4%
+753,ROU Romania,6,6,13,25,1980,MOSCOW,Romania,Europe,Romania,46053000000.0,3.3%,2052.0,28.3%
+754,FRA France,6,5,3,14,1980,MOSCOW,France,Europe,France,701305000000.0,1.6%,13052.0,16.8%
+755,GBR Great Britain,5,7,9,21,1980,MOSCOW,Great Britain,Europe,United Kingdom,603983000000.0,-2.0%,10722.0,37.5%
+756,POL Poland,3,14,15,32,1980,MOSCOW,Poland,Europe,Poland,56731000000.0,-6.0%,1595.0,-26.4%
+757,SWE Sweden,3,3,6,12,1980,MOSCOW,Sweden,Europe,Sweden,140384000000.0,2.5%,16877.0,13.6%
+758,FIN Finland,3,1,4,8,1980,MOSCOW,Finland,Europe,Finland,53714000000.0,5.4%,11258.0,20.8%
+759,TCH Czechoslovakia,2,3,9,14,1980,MOSCOW,Czechoslovakia,Europe,,,,,
+760,YUG Yugoslavia,2,3,4,9,1980,MOSCOW,Yugoslavia,Europe,,,,,
+761,AUS Australia,2,2,5,9,1980,MOSCOW,Australia,Australia,Australia,162628000000.0,3.3%,10987.0,18.4%
+762,DEN Denmark,2,1,2,5,1980,MOSCOW,Denmark,Europe,Denmark,71127000000.0,-0.5%,13886.0,1.1%
+763,BRA Brazil,2,0,2,4,1980,MOSCOW,Brazil,South America,Brazil,145819000000.0,9.2%,1230.0,-35.6%
+764,ETH Ethiopia,2,0,2,4,1980,MOSCOW,Ethiopia,Africa,Ethiopia,7385000000.0,4.0%,215.0,
+765,SUI Switzerland,2,0,0,2,1980,MOSCOW,Switzerland,Europe,Switzerland,122701000000.0,4.6%,19464.0,9.9%
+766,ESP Spain,1,3,2,6,1980,MOSCOW,Spain,Europe,Spain,230759000000.0,1.2%,6128.0,6.7%
+767,AUT Austria,1,2,1,4,1980,MOSCOW,Austria,Europe,Austria,80923000000.0,1.7%,10732.0,9.5%
+768,GRE Greece,1,0,2,3,1980,MOSCOW,Greece,Europe,Greece,56529000000.0,0.7%,5898.0,3.8%
+769,ZIM Zimbabwe,1,0,0,1,1980,MOSCOW,Zimbabwe,Africa,,,,,
+770,IND India,1,0,0,1,1980,MOSCOW,India,Asia,India,189438000000.0,6.7%,271.0,21.0%
+771,BEL Belgium,1,0,0,1,1980,MOSCOW,Belgium,Europe,Belgium,123478000000.0,4.5%,12529.0,6.2%
+772,PRK Democratic People's Republic of Korea,0,3,2,5,1980,MOSCOW,Democratic People's Republic of Korea,Asia,,,,,
+773,MGL Mongolia,0,2,2,4,1980,MOSCOW,Mongolia,Asia,Mongolia,3188000000.0,6.4%,1887.0,430.7%
+774,TAN United Republic of Tanzania,0,2,0,2,1980,MOSCOW,United Republic of Tanzania,Africa,,,,,
+775,MEX Mexico,0,1,3,4,1980,MOSCOW,Mexico,North America,Mexico,228606000000.0,8.3%,3384.0,66.3%
+776,NED Netherlands,0,1,2,3,1980,MOSCOW,Netherlands,Europe,Netherlands,193758000000.0,1.3%,13750.0,7.8%
+777,IRL Ireland,0,1,1,2,1980,MOSCOW,Ireland,Europe,Ireland,21425000000.0,3.1%,6252.0,15.8%
+778,UGA Uganda,0,1,0,1,1980,MOSCOW,Uganda,Africa,Uganda,7486000000.0,-3.4%,665.0,275.0%
+779,VEN Venezuela,0,1,0,1,1980,MOSCOW,Venezuela,South America,Venezuela,69841000000.0,-4.9%,4671.0,42.8%
+780,JAM Jamaica,0,0,3,3,1980,MOSCOW,Jamaica,North America,Jamaica,2565000000.0,-4.0%,1214.0,6.8%
+781,GUY Guyana,0,0,1,1,1980,MOSCOW,Guyana,South America,,,,,
+782,LBN Lebanon,0,0,1,1,1980,MOSCOW,Lebanon,Asia,,,,,
+783,URS Soviet Union,49,41,35,125,1976,MONTREAL,Soviet Union,Asia,,,,,
+784,GDR German Democratic Republic (Germany),40,25,25,90,1976,MONTREAL,German Democratic Republic (Germany),Europe,,,,,
+785,USA United States of America,34,35,25,94,1976,MONTREAL,United States of America,North America,United States,1873400000000.0,5.4%,8611.0,10.1%
+786,FRG Federal Republic of Germany,10,12,17,39,1976,MONTREAL,Federal Republic of Germany,Europe,,,,,
+787,JPN Japan,9,6,10,25,1976,MONTREAL,Japan,Asia,Japan,586162000000.0,4.0%,5198.0,11.2%
+788,POL Poland,7,6,13,26,1976,MONTREAL,Poland,Europe,Poland,54576000000.0,7.9%,1581.0,10.4%
+789,BUL Bulgaria,6,9,7,22,1976,MONTREAL,Bulgaria,Europe,Bulgaria,12625000000.0,6.5%,1437.0,5.4%
+790,CUB Cuba,6,4,3,13,1976,MONTREAL,Cuba,North America,Cuba,13790000000.0,5.4%,1443.0,4.7%
+791,ROU Romania,4,9,14,27,1976,MONTREAL,Romania,Europe,Romania,25735000000.0,11.1%,1188.0,11.3%
+792,HUN Hungary,4,5,13,22,1976,MONTREAL,Hungary,Europe,Hungary,12690000000.0,3.5%,1194.0,15.3%
+793,FIN Finland,4,2,0,6,1976,MONTREAL,Finland,Europe,Finland,31850000000.0,0.3%,6732.0,7.8%
+794,SWE Sweden,4,1,0,5,1976,MONTREAL,Sweden,Europe,Sweden,89362000000.0,1.1%,10850.0,7.5%
+795,GBR Great Britain,3,5,5,13,1976,MONTREAL,Great Britain,Europe,United Kingdom,232615000000.0,2.9%,4139.0,-3.8%
+796,ITA Italy,2,7,4,13,1976,MONTREAL,Italy,Europe,Italy,224717000000.0,9.5%,4024.0,-1.8%
+797,FRA France,2,3,4,9,1976,MONTREAL,France,Europe,France,372319000000.0,4.4%,6867.0,2.6%
+798,YUG Yugoslavia,2,3,3,8,1976,MONTREAL,Yugoslavia,Europe,,,,,
+799,TCH Czechoslovakia,2,2,4,8,1976,MONTREAL,Czechoslovakia,Europe,,,,,
+800,NZL New Zealand,2,1,1,4,1976,MONTREAL,New Zealand,Australia,New Zealand,13605000000.0,0.9%,4374.0,4.8%
+801,KOR Republic of Korea,1,1,4,6,1976,MONTREAL,Republic of Korea,Asia,South Korea,29903000000.0,13.1%,834.0,35.1%
+802,SUI Switzerland,1,1,2,4,1976,MONTREAL,Switzerland,Europe,Switzerland,66493000000.0,-1.4%,10581.0,5.2%
+803,NOR Norway,1,1,0,2,1976,MONTREAL,Norway,Europe,Norway,35942000000.0,5.8%,8907.0,8.8%
+804,PRK Democratic People's Republic of Korea,1,1,0,2,1976,MONTREAL,Democratic People's Republic of Korea,Asia,,,,,
+805,JAM Jamaica,1,1,0,2,1976,MONTREAL,Jamaica,North America,Jamaica,2966000000.0,-6.5%,1443.0,2.3%
+806,DEN Denmark,1,0,2,3,1976,MONTREAL,Denmark,Europe,Denmark,44576000000.0,5.9%,8775.0,9.8%
+807,MEX Mexico,1,0,1,2,1976,MONTREAL,Mexico,North America,Mexico,89026000000.0,4.2%,1454.0,-1.5%
+808,TTO Trinidad and Tobago,1,0,0,1,1976,MONTREAL,Trinidad and Tobago,North America,,,,,
+809,CAN Canada,0,5,6,11,1976,MONTREAL,Canada,North America,Canada,206576000000.0,5.9%,8809.0,17.3%
+810,BEL Belgium,0,3,3,6,1976,MONTREAL,Belgium,Europe,Belgium,71114000000.0,5.7%,7239.0,8.2%
+811,NED Netherlands,0,2,3,5,1976,MONTREAL,Netherlands,Europe,Netherlands,109169000000.0,4.5%,7902.0,8.3%
+812,POR Portugal,0,2,0,2,1976,MONTREAL,Portugal,Europe,Portugal,20333000000.0,6.9%,2162.0,4.0%
+813,ESP Spain,0,2,0,2,1976,MONTREAL,Spain,Europe,Spain,118507000000.0,3.3%,3262.0,2.2%
+814,AUS Australia,0,1,4,5,1976,MONTREAL,Australia,Australia,Australia,104921000000.0,3.6%,7477.0,6.9%
+815,IRI Islamic Republic of Iran,0,1,1,2,1976,MONTREAL,Islamic Republic of Iran,Asia,Iran,68055000000.0,18.3%,2017.0,27.5%
+816,MGL Mongolia,0,1,0,1,1976,MONTREAL,Mongolia,Asia,Mongolia,394000000.0,3.9%,259.0,6.6%
+817,VEN Venezuela,0,1,0,1,1976,MONTREAL,Venezuela,South America,Venezuela,31420000000.0,8.8%,2315.0,11.2%
+818,BRA Brazil,0,0,2,2,1976,MONTREAL,Brazil,South America,Brazil,152678000000.0,10.3%,1391.0,20.5%
+819,PUR Puerto Rico,0,0,1,1,1976,MONTREAL,Puerto Rico,North America,Puerto Rico,,,,
+820,BER Bermuda,0,0,1,1,1976,MONTREAL,Bermuda,North America,Bermuda,,,,
+821,THA Thailand,0,0,1,1,1976,MONTREAL,Thailand,Asia,Thailand,16985000000.0,9.4%,392.0,11.4%
+822,AUT Austria,0,0,1,1,1976,MONTREAL,Austria,Europe,Austria,42960000000.0,4.6%,5678.0,7.2%
+823,PAK Pakistan,0,0,1,1,1976,MONTREAL,Pakistan,Asia,,,,,
+824,URS Soviet Union,50,27,22,99,1972,MUNICH,Soviet Union,Asia,,,,,
+825,USA United States of America,33,31,30,94,1972,MUNICH,United States of America,North America,United States,1279100000000.0,5.3%,6112.0,8.5%
+826,GDR German Democratic Republic (Germany),20,23,23,66,1972,MUNICH,German Democratic Republic (Germany),Europe,,,,,
+827,FRG Federal Republic of Germany,13,11,16,40,1972,MUNICH,Federal Republic of Germany,Europe,,,,,
+828,JPN Japan,13,8,8,29,1972,MUNICH,Japan,Asia,Japan,318031000000.0,8.4%,2967.0,30.6%
+829,AUS Australia,8,7,2,17,1972,MUNICH,Australia,Australia,Australia,51967000000.0,2.6%,3944.0,13.0%
+830,POL Poland,7,5,9,21,1972,MUNICH,Poland,Europe,Poland,34615000000.0,4.7%,1043.0,9.6%
+831,HUN Hungary,6,13,16,35,1972,MUNICH,Hungary,Europe,Hungary,7075000000.0,6.1%,679.0,16.9%
+832,BUL Bulgaria,6,10,5,21,1972,MUNICH,Bulgaria,Europe,Bulgaria,10407000000.0,7.7%,1211.0,16.5%
+833,ITA Italy,5,3,10,18,1972,MUNICH,Italy,Europe,Italy,145260000000.0,3.7%,2662.0,15.7%
+834,SWE Sweden,4,6,6,16,1972,MUNICH,Sweden,Europe,Sweden,48954000000.0,2.3%,6022.0,17.6%
+835,GBR Great Britain,4,5,9,18,1972,MUNICH,Great Britain,Europe,United Kingdom,169965000000.0,3.9%,3026.0,14.5%
+836,ROU Romania,3,6,7,16,1972,MUNICH,Romania,Europe,Romania,17432000000.0,10.6%,840.0,14.4%
+837,FIN Finland,3,1,4,8,1972,MUNICH,Finland,Europe,Finland,14743000000.0,7.7%,3168.0,17.0%
+838,CUB Cuba,3,1,4,8,1972,MUNICH,Cuba,North America,Cuba,8135000000.0,4.8%,901.0,15.6%
+839,NED Netherlands,3,1,1,5,1972,MUNICH,Netherlands,Europe,Netherlands,54707000000.0,3.5%,4086.0,21.6%
+840,FRA France,2,4,7,13,1972,MUNICH,France,Europe,France,203494000000.0,4.5%,3855.0,21.6%
+841,TCH Czechoslovakia,2,4,2,8,1972,MUNICH,Czechoslovakia,Europe,,,,,
+842,KEN Kenya,2,3,4,9,1972,MUNICH,Kenya,Africa,Kenya,2107000000.0,5.0%,174.0,14.3%
+843,YUG Yugoslavia,2,1,2,5,1972,MUNICH,Yugoslavia,Europe,,,,,
+844,NOR Norway,2,1,1,4,1972,MUNICH,Norway,Europe,Norway,17359000000.0,5.3%,4397.0,18.1%
+845,PRK Democratic People's Republic of Korea,1,1,3,5,1972,MUNICH,Democratic People's Republic of Korea,Asia,,,,,
+846,NZL New Zealand,1,1,1,3,1972,MUNICH,New Zealand,Australia,New Zealand,9567000000.0,5.1%,3295.0,18.8%
+847,UGA Uganda,1,1,0,2,1972,MUNICH,Uganda,Africa,Uganda,1492000000.0,0%,150.0,2.5%
+848,DEN Denmark,1,0,0,1,1972,MUNICH,Denmark,Europe,Denmark,23232000000.0,4.2%,4639.0,21.0%
+849,SUI Switzerland,0,3,0,3,1972,MUNICH,Switzerland,Europe,Switzerland,35777000000.0,3.2%,5690.0,21.6%
+850,CAN Canada,0,2,3,5,1972,MUNICH,Canada,North America,Canada,113083000000.0,5.5%,5090.0,12.6%
+851,IRI Islamic Republic of Iran,0,2,1,3,1972,MUNICH,Islamic Republic of Iran,Asia,Iran,17154000000.0,14.5%,570.0,21.6%
+852,BEL Belgium,0,2,0,2,1972,MUNICH,Belgium,Europe,Belgium,37209000000.0,5.3%,3825.0,24.4%
+853,GRE Greece,0,2,0,2,1972,MUNICH,Greece,Europe,Greece,16886000000.0,10.2%,1893.0,14.9%
+854,COL Colombia,0,1,2,3,1972,MUNICH,Colombia,South America,Colombia,8671000000.0,7.7%,385.0,8.4%
+855,AUT Austria,0,1,2,3,1972,MUNICH,Austria,Europe,Austria,22060000000.0,6.2%,2915.0,22.8%
+856,PAK Pakistan,0,1,0,1,1972,MUNICH,Pakistan,Asia,,,,,
+857,LBN Lebanon,0,1,0,1,1972,MUNICH,Lebanon,Asia,,,,,
+858,TUR Turkey,0,1,0,1,1972,MUNICH,Turkey,Asia,Turkey,20431000000.0,7.4%,545.0,22.6%
+859,KOR Republic of Korea,0,1,0,1,1972,MUNICH,Republic of Korea,Asia,South Korea,10862000000.0,7.2%,324.0,7.6%
+860,MGL Mongolia,0,1,0,1,1972,MUNICH,Mongolia,Asia,Mongolia,237000000.0,3.6%,174.0,4.9%
+861,ARG Argentina,0,1,0,1,1972,MUNICH,Argentina,South America,Argentina,34733000000.0,2.1%,1409.0,2.7%
+862,TUN Tunisia,0,1,0,1,1972,MUNICH,Tunisia,Africa,Tunisia,2238000000.0,17.7%,423.0,29.9%
+863,MEX Mexico,0,1,0,1,1972,MUNICH,Mexico,North America,Mexico,45200000000.0,8.5%,826.0,11.9%
+864,BRA Brazil,0,0,2,2,1972,MUNICH,Brazil,South America,Brazil,58539000000.0,11.9%,586.0,16.1%
+865,ETH Ethiopia,0,0,2,2,1972,MUNICH,Ethiopia,Africa,Ethiopia,,,,
+866,ESP Spain,0,0,1,1,1972,MUNICH,Spain,Europe,Spain,59132000000.0,8.1%,1699.0,25.4%
+867,GHA Ghana,0,0,1,1,1972,MUNICH,Ghana,Africa,Ghana,2112000000.0,-2.5%,229.0,-15.0%
+868,NGR Nigeria,0,0,1,1,1972,MUNICH,Nigeria,Africa,Nigeria,12274000000.0,7.2%,209.0,30.6%
+869,IND India,0,0,1,1,1972,MUNICH,India,Asia,India,71463000000.0,-0.6%,123.0,3.7%
+870,NIG Niger,0,0,1,1,1972,MUNICH,Niger,Africa,,,,,
+871,JAM Jamaica,0,0,1,1,1972,MUNICH,Jamaica,North America,Jamaica,1875000000.0,9.2%,969.0,19.8%
+872,USA United States of America,45,28,34,107,1968,MEXICOCITY,United States of America,North America,United States,940700000000.0,4.9%,4720.0,8.3%
+873,URS Soviet Union,29,32,30,91,1968,MEXICOCITY,Soviet Union,Asia,,,,,
+874,JPN Japan,11,7,7,25,1968,MEXICOCITY,Japan,Asia,Japan,146601000000.0,11.9%,1451.0,17.1%
+875,HUN Hungary,10,10,12,32,1968,MEXICOCITY,Hungary,Europe,Hungary,4685000000.0,,456.0,
+876,GDR German Democratic Republic (Germany),9,9,7,25,1968,MEXICOCITY,German Democratic Republic (Germany),Europe,,,,,
+877,FRA France,7,3,5,15,1968,MEXICOCITY,France,Europe,France,129785000000.0,4.5%,2536.0,8.2%
+878,TCH Czechoslovakia,7,2,4,13,1968,MEXICOCITY,Czechoslovakia,Europe,,,,,
+879,FRG Federal Republic of Germany,5,11,10,26,1968,MEXICOCITY,Federal Republic of Germany,Europe,,,,,
+880,AUS Australia,5,7,5,17,1968,MEXICOCITY,Australia,Australia,Australia,32666000000.0,7.0%,2720.0,5.6%
+881,GBR Great Britain,5,5,3,13,1968,MEXICOCITY,Great Britain,Europe,United Kingdom,107760000000.0,4.6%,1947.0,-5.2%
+882,POL Poland,5,2,11,18,1968,MEXICOCITY,Poland,Europe,Poland,,,,
+883,ROU Romania,4,6,5,15,1968,MEXICOCITY,Romania,Europe,Romania,,,,
+884,ITA Italy,3,4,9,16,1968,MEXICOCITY,Italy,Europe,Italy,87942000000.0,6.5%,1647.0,7.8%
+885,KEN Kenya,3,4,2,9,1968,MEXICOCITY,Kenya,Africa,Kenya,1353000000.0,,128.0,6.1%
+886,MEX Mexico,3,3,3,9,1968,MEXICOCITY,Mexico,North America,Mexico,29360000000.0,7.3%,606.0,7.2%
+887,YUG Yugoslavia,3,3,2,8,1968,MEXICOCITY,Yugoslavia,Europe,,,,,
+888,NED Netherlands,3,3,1,7,1968,MEXICOCITY,Netherlands,Europe,Netherlands,27818000000.0,6.4%,2174.0,9.7%
+889,BUL Bulgaria,2,4,3,9,1968,MEXICOCITY,Bulgaria,Europe,Bulgaria,,,,
+890,IRI Islamic Republic of Iran,2,1,2,5,1968,MEXICOCITY,Islamic Republic of Iran,Asia,Iran,8623000000.0,,319.0,11.1%
+891,SWE Sweden,2,1,1,4,1968,MEXICOCITY,Sweden,Europe,Sweden,31067000000.0,3.6%,3917.0,5.6%
+892,TUR Turkey,2,0,0,2,1968,MEXICOCITY,Turkey,Asia,Turkey,17500000000.0,6.7%,515.0,9.0%
+893,DEN Denmark,1,4,3,8,1968,MEXICOCITY,Denmark,Europe,Denmark,13506000000.0,5.7%,2769.0,2.9%
+894,CAN Canada,1,3,1,5,1968,MEXICOCITY,Canada,North America,Canada,71830000000.0,5.0%,3451.0,7.8%
+895,FIN Finland,1,2,1,4,1968,MEXICOCITY,Finland,Europe,Finland,8823000000.0,2.3%,1904.0,-6.1%
+896,NOR Norway,1,1,0,2,1968,MEXICOCITY,Norway,Europe,Norway,10160000000.0,2.3%,2651.0,5.9%
+897,ETH Ethiopia,1,1,0,2,1968,MEXICOCITY,Ethiopia,Africa,Ethiopia,,,,
+898,NZL New Zealand,1,0,2,3,1968,MEXICOCITY,New Zealand,Australia,New Zealand,5181000000.0,,1885.0,-13.9%
+899,TUN Tunisia,1,0,1,2,1968,MEXICOCITY,Tunisia,Africa,Tunisia,1215000000.0,,251.0,9.5%
+900,PAK Pakistan,1,0,0,1,1968,MEXICOCITY,Pakistan,Asia,,,,,
+901,VEN Venezuela,1,0,0,1,1968,MEXICOCITY,Venezuela,South America,Venezuela,10034000000.0,,938.0,5.0%
+902,CUB Cuba,0,4,0,4,1968,MEXICOCITY,Cuba,North America,Cuba,,,,
+903,AUT Austria,0,2,2,4,1968,MEXICOCITY,Austria,Europe,Austria,12441000000.0,4.4%,1675.0,7.1%
+904,SUI Switzerland,0,1,4,5,1968,MEXICOCITY,Switzerland,Europe,Switzerland,18943000000.0,3.6%,3103.0,5.5%
+905,MGL Mongolia,0,1,3,4,1968,MEXICOCITY,Mongolia,Asia,Mongolia,,,,
+906,BRA Brazil,0,1,2,3,1968,MEXICOCITY,Brazil,South America,Brazil,33876000000.0,,375.0,7.9%
+907,BEL Belgium,0,1,1,2,1968,MEXICOCITY,Belgium,Europe,Belgium,21376000000.0,4.2%,2219.0,6.6%
+908,UGA Uganda,0,1,1,2,1968,MEXICOCITY,Uganda,Africa,Uganda,1038000000.0,,117.0,3.7%
+909,KOR Republic of Korea,0,1,1,2,1968,MEXICOCITY,Republic of Korea,Asia,South Korea,6119000000.0,13.2%,198.0,23.1%
+910,JAM Jamaica,0,1,0,1,1968,MEXICOCITY,Jamaica,North America,Jamaica,1084000000.0,,594.0,-6.8%
+911,CMR Cameroon,0,1,0,1,1968,MEXICOCITY,Cameroon,Africa,,,,,
+912,ARG Argentina,0,0,2,2,1968,MEXICOCITY,Argentina,South America,Argentina,26437000000.0,,1141.0,7.4%
+913,TPE Chinese Taipei,0,0,1,1,1968,MEXICOCITY,Chinese Taipei,Asia,Taipei,,,,
+914,GRE Greece,0,0,1,1,1968,MEXICOCITY,Greece,Europe,Greece,10091000000.0,7.2%,1151.0,8.2%
+915,IND India,0,0,1,1,1968,MEXICOCITY,India,Asia,India,53086000000.0,3.4%,100.0,3.7%
+916,USA United States of America,36,26,28,90,1964,TOKYO,United States of America,North America,United States,684500000000.0,5.8%,3582.0,5.9%
+917,URS Soviet Union,30,31,35,96,1964,TOKYO,Soviet Union,Asia,,,,,
+918,JPN Japan,16,5,8,29,1964,TOKYO,Japan,Asia,Japan,81749000000.0,11.2%,844.0,16.4%
+919,GER Germany,10,22,18,50,1964,TOKYO,Germany,Europe,Germany,0.0,6.4%,0.0,
+920,ITA Italy,10,10,7,27,1964,TOKYO,Italy,Europe,Italy,63175000000.0,2.8%,1217.0,8.5%
+921,HUN Hungary,10,7,5,22,1964,TOKYO,Hungary,Europe,Hungary,,,,
+922,POL Poland,7,6,10,23,1964,TOKYO,Poland,Europe,Poland,,,,
+923,AUS Australia,6,2,10,18,1964,TOKYO,Australia,Australia,Australia,23764000000.0,6.0%,2128.0,8.4%
+924,TCH Czechoslovakia,5,6,3,14,1964,TOKYO,Czechoslovakia,Europe,,,,,
+925,GBR Great Britain,4,12,2,18,1964,TOKYO,Great Britain,Europe,United Kingdom,94408000000.0,5.9%,1742.0,8.3%
+926,BUL Bulgaria,3,5,2,10,1964,TOKYO,Bulgaria,Europe,Bulgaria,,,,
+927,NZL New Zealand,3,0,2,5,1964,TOKYO,New Zealand,Australia,New Zealand,7274000000.0,,2814.0,7.3%
+928,FIN Finland,3,0,2,5,1964,TOKYO,Finland,Europe,Finland,7767000000.0,5.2%,1704.0,12.3%
+929,ROU Romania,2,4,6,12,1964,TOKYO,Romania,Europe,Romania,,,,
+930,NED Netherlands,2,4,4,10,1964,TOKYO,Netherlands,Europe,Netherlands,18699000000.0,8.3%,1531.0,16.0%
+931,TUR Turkey,2,3,1,6,1964,TOKYO,Turkey,Asia,Turkey,11178000000.0,4.1%,363.0,5.0%
+932,SWE Sweden,2,2,4,8,1964,TOKYO,Sweden,Europe,Sweden,22532000000.0,6.8%,2928.0,10.5%
+933,DEN Denmark,2,1,3,6,1964,TOKYO,Denmark,Europe,Denmark,9507000000.0,9.3%,2005.0,13.4%
+934,YUG Yugoslavia,2,1,2,5,1964,TOKYO,Yugoslavia,Europe,,,,,
+935,BEL Belgium,2,0,1,3,1964,TOKYO,Belgium,Europe,Belgium,15960000000.0,6.9%,1693.0,10.7%
+936,FRA France,1,8,6,15,1964,TOKYO,France,Europe,France,94008000000.0,6.4%,1910.0,9.5%
+937,SUI Switzerland,1,2,1,4,1964,TOKYO,Switzerland,Europe,Switzerland,14481000000.0,5.3%,2484.0,9.3%
+938,CAN Canada,1,2,1,4,1964,TOKYO,Canada,North America,Canada,49378000000.0,6.6%,2543.0,7.6%
+939,ETH Ethiopia,1,0,0,1,1964,TOKYO,Ethiopia,Africa,Ethiopia,,,,
+940,IND India,1,0,0,1,1964,TOKYO,India,Asia,India,56480000000.0,7.5%,116.0,14.3%
+941,BAH Bahamas,1,0,0,1,1964,TOKYO,Bahamas,North America,Bahamas,267000000.0,,1995.0,6.9%
+942,KOR Republic of Korea,0,2,1,3,1964,TOKYO,Republic of Korea,Asia,South Korea,3459000000.0,9.5%,124.0,-15.5%
+943,TTO Trinidad and Tobago,0,1,2,3,1964,TOKYO,Trinidad and Tobago,North America,,,,,
+944,TUN Tunisia,0,1,1,2,1964,TOKYO,Tunisia,Africa,Tunisia,1026000000.0,,230.0,-1.9%
+945,PHI Philippines,0,1,0,1,1964,TOKYO,Philippines,Asia,Philippines,5271000000.0,,176.0,4.7%
+946,PAK Pakistan,0,1,0,1,1964,TOKYO,Pakistan,Asia,,,,,
+947,CUB Cuba,0,1,0,1,1964,TOKYO,Cuba,North America,Cuba,,,,
+948,ARG Argentina,0,1,0,1,1964,TOKYO,Argentina,South America,Argentina,25605000000.0,,1173.0,38.0%
+949,IRI Islamic Republic of Iran,0,0,2,2,1964,TOKYO,Islamic Republic of Iran,Asia,Iran,5380000000.0,,221.0,6.3%
+950,IRL Ireland,0,0,1,1,1964,TOKYO,Ireland,Europe,Ireland,2767000000.0,3.8%,963.0,13.3%
+951,KEN Kenya,0,0,1,1,1964,TOKYO,Kenya,Africa,Kenya,999000000.0,,108.0,4.4%
+952,URU Uruguay,0,0,1,1,1964,TOKYO,Uruguay,South America,,,,,
+953,GHA Ghana,0,0,1,1,1964,TOKYO,Ghana,Africa,Ghana,1731000000.0,,230.0,9.0%
+954,NGR Nigeria,0,0,1,1,1964,TOKYO,Nigeria,Africa,Nigeria,5553000000.0,,113.0,5.2%
+955,BRA Brazil,0,0,1,1,1964,TOKYO,Brazil,South America,Brazil,21212000000.0,,262.0,-10.5%
+956,MEX Mexico,0,0,1,1,1964,TOKYO,Mexico,North America,Mexico,20080000000.0,10.6%,469.0,14.8%
+957,URS Soviet Union,43,29,31,103,1960,ROME,Soviet Union,Asia,,,,,
+958,USA United States of America,34,21,16,71,1960,ROME,United States of America,North America,United States,542400000000.0,2.6%,3014.0,2.3%
+959,ITA Italy,13,10,13,36,1960,ROME,Italy,Europe,Italy,40385000000.0,,802.0,
+960,GER Germany,12,19,11,42,1960,ROME,Germany,Europe,Germany,0.0,,0.0,
+961,AUS Australia,8,8,6,22,1960,ROME,Australia,Australia,Australia,18578000000.0,2.5%,1808.0,
+962,TUR Turkey,7,2,0,9,1960,ROME,Turkey,Asia,Turkey,13995000000.0,,504.0,
+963,HUN Hungary,6,8,7,21,1960,ROME,Hungary,Europe,Hungary,,,,
+964,JPN Japan,4,7,7,18,1960,ROME,Japan,Asia,Japan,44307000000.0,,475.0,
+965,POL Poland,4,6,11,21,1960,ROME,Poland,Europe,Poland,,,,
+966,TCH Czechoslovakia,3,2,3,8,1960,ROME,Czechoslovakia,Europe,,,,,
+967,ROU Romania,3,1,6,10,1960,ROME,Romania,Europe,Romania,,,,
+968,GBR Great Britain,2,6,12,20,1960,ROME,Great Britain,Europe,United Kingdom,73234000000.0,5.8%,1392.0,6.1%
+969,DEN Denmark,2,3,1,6,1960,ROME,Denmark,Europe,Denmark,6249000000.0,,1360.0,
+970,NZL New Zealand,2,0,1,3,1960,ROME,New Zealand,Australia,New Zealand,5486000000.0,,2313.0,
+971,BUL Bulgaria,1,3,3,7,1960,ROME,Bulgaria,Europe,Bulgaria,,,,
+972,SWE Sweden,1,2,3,6,1960,ROME,Sweden,Europe,Sweden,15823000000.0,3.7%,2110.0,8.4%
+973,FIN Finland,1,1,3,5,1960,ROME,Finland,Europe,Finland,5224000000.0,,1175.0,
+974,YUG Yugoslavia,1,1,0,2,1960,ROME,Yugoslavia,Europe,,,,,
+975,AUT Austria,1,1,0,2,1960,ROME,Austria,Europe,Austria,6593000000.0,,933.0,
+976,PAK Pakistan,1,0,1,2,1960,ROME,Pakistan,Asia,,,,,
+977,ETH Ethiopia,1,0,0,1,1960,ROME,Ethiopia,Africa,Ethiopia,,,,
+978,GRE Greece,1,0,0,1,1960,ROME,Greece,Europe,Greece,4335000000.0,,518.0,
+979,NOR Norway,1,0,0,1,1960,ROME,Norway,Europe,Norway,5163000000.0,,1436.0,
+980,SUI Switzerland,0,3,3,6,1960,ROME,Switzerland,Europe,Switzerland,9523000000.0,,1777.0,
+981,FRA France,0,2,3,5,1960,ROME,France,Europe,France,62226000000.0,8.3%,1335.0,
+982,BEL Belgium,0,2,2,4,1960,ROME,Belgium,Europe,Belgium,11659000000.0,,1270.0,
+983,IRI Islamic Republic of Iran,0,1,3,4,1960,ROME,Islamic Republic of Iran,Asia,Iran,4199000000.0,,192.0,
+984,RSA South Africa,0,1,2,3,1960,ROME,South Africa,Africa,South Africa,7575000000.0,,443.0,
+985,NED Netherlands,0,1,2,3,1960,ROME,Netherlands,Europe,Netherlands,12277000000.0,,1062.0,
+986,ARG Argentina,0,1,1,2,1960,ROME,Argentina,South America,Argentina,,,,
+987,UAR United Arab Republic,0,1,1,2,1960,ROME,United Arab Republic,Asia,,,,,
+988,GHA Ghana,0,1,0,1,1960,ROME,Ghana,Africa,Ghana,1217000000.0,,183.0,
+989,IND India,0,1,0,1,1960,ROME,India,Asia,India,37030000000.0,5.5%,82.0,
+990,MAR Morocco,0,1,0,1,1960,ROME,Morocco,Africa,Morocco,2037000000.0,,165.0,
+991,CAN Canada,0,1,0,1,1960,ROME,Canada,North America,Canada,40462000000.0,,2247.0,
+992,TPE Chinese Taipei,0,1,0,1,1960,ROME,Chinese Taipei,Asia,Taipei,,,,
+993,POR Portugal,0,1,0,1,1960,ROME,Portugal,Europe,Portugal,3193000000.0,,359.0,
+994,SGP Singapore,0,1,0,1,1960,ROME,Singapore,Asia,,,,,
+995,WIF West Indies Federation,0,0,2,2,1960,ROME,West Indies Federation,North America,,,,,
+996,BRA Brazil,0,0,2,2,1960,ROME,Brazil,South America,Brazil,15166000000.0,,210.0,
+997,IRQ Iraq,0,0,1,1,1960,ROME,Iraq,Asia,,,,,
+998,VEN Venezuela,0,0,1,1,1960,ROME,Venezuela,South America,Venezuela,7779000000.0,,955.0,
+999,ESP Spain,0,0,1,1,1960,ROME,Spain,Europe,Spain,12072000000.0,,395.0,
+1000,MEX Mexico,0,0,1,1,1960,ROME,Mexico,North America,Mexico,13040000000.0,,345.0,
+1001,URS Soviet Union,37,29,32,98,1956,MELBOURNE,Soviet Union,Asia,,,,,
+1002,USA United States of America,32,25,17,74,1956,MELBOURNE,United States of America,North America,United States,449400000000.0,2.1%,2674.0,3.7%
+1003,AUS Australia,13,8,14,35,1956,MELBOURNE,Australia,Australia,Australia,,,,
+1004,HUN Hungary,9,10,7,26,1956,MELBOURNE,Hungary,Europe,Hungary,,,,
+1005,ITA Italy,8,6,8,22,1956,MELBOURNE,Italy,Europe,Italy,,,,
+1006,GBR Great Britain,5,7,9,21,1956,MELBOURNE,Great Britain,Europe,United Kingdom,,,,
+1007,SWE Sweden,5,5,6,16,1956,MELBOURNE,Sweden,Europe,Sweden,,,,
+1008,ROU Romania,5,3,5,13,1956,MELBOURNE,Romania,Europe,Romania,,,,
+1009,GER Germany,4,10,6,20,1956,MELBOURNE,Germany,Europe,Germany,,,,
+1010,JPN Japan,4,10,5,19,1956,MELBOURNE,Japan,Asia,Japan,,,,
+1011,FRA France,4,4,6,14,1956,MELBOURNE,France,Europe,France,,,,
+1012,TUR Turkey,3,2,2,7,1956,MELBOURNE,Turkey,Asia,Turkey,,,,
+1013,FIN Finland,3,1,11,15,1956,MELBOURNE,Finland,Europe,Finland,,,,
+1014,IRI Islamic Republic of Iran,2,2,1,5,1956,MELBOURNE,Islamic Republic of Iran,Asia,Iran,,,,
+1015,CAN Canada,2,1,2,5,1956,MELBOURNE,Canada,North America,Canada,,,,
+1016,NZL New Zealand,2,0,0,2,1956,MELBOURNE,New Zealand,Australia,New Zealand,,,,
+1017,POL Poland,1,4,4,9,1956,MELBOURNE,Poland,Europe,Poland,,,,
+1018,TCH Czechoslovakia,1,4,1,6,1956,MELBOURNE,Czechoslovakia,Europe,,,,,
+1019,BUL Bulgaria,1,3,1,5,1956,MELBOURNE,Bulgaria,Europe,Bulgaria,,,,
+1020,IRL Ireland,1,1,3,5,1956,MELBOURNE,Ireland,Europe,Ireland,,,,
+1021,DEN Denmark,1,1,1,3,1956,MELBOURNE,Denmark,Europe,Denmark,,,,
+1022,NOR Norway,1,0,2,3,1956,MELBOURNE,Norway,Europe,Norway,,,,
+1023,MEX Mexico,1,0,1,2,1956,MELBOURNE,Mexico,North America,Mexico,,,,
+1024,IND India,1,0,0,1,1956,MELBOURNE,India,Asia,India,,,,
+1025,BRA Brazil,1,0,0,1,1956,MELBOURNE,Brazil,South America,Brazil,,,,
+1026,YUG Yugoslavia,0,3,0,3,1956,MELBOURNE,Yugoslavia,Europe,,,,,
+1027,CHI Chile,0,2,2,4,1956,MELBOURNE,Chile,South America,,,,,
+1028,BEL Belgium,0,2,0,2,1956,MELBOURNE,Belgium,Europe,Belgium,,,,
+1029,KOR Republic of Korea,0,1,1,2,1956,MELBOURNE,Republic of Korea,Asia,South Korea,,,,
+1030,ARG Argentina,0,1,1,2,1956,MELBOURNE,Argentina,South America,Argentina,,,,
+1031,ISL Iceland,0,1,0,1,1956,MELBOURNE,Iceland,Europe,,,,,
+1032,PAK Pakistan,0,1,0,1,1956,MELBOURNE,Pakistan,Asia,,,,,
+1033,RSA South Africa,0,0,4,4,1956,MELBOURNE,South Africa,Africa,South Africa,,,,
+1034,AUT Austria,0,0,2,2,1956,MELBOURNE,Austria,Europe,Austria,,,,
+1035,BAH Bahamas,0,0,1,1,1956,MELBOURNE,Bahamas,North America,Bahamas,,,,
+1036,GRE Greece,0,0,1,1,1956,MELBOURNE,Greece,Europe,Greece,,,,
+1037,URU Uruguay,0,0,1,1,1956,MELBOURNE,Uruguay,South America,,,,,
+1038,USA United States of America,40,19,17,76,1952,HELSINKI,United States of America,North America,United States,367300000000.0,4.1%,2349.0,4.3%
+1039,URS Soviet Union,22,30,19,71,1952,HELSINKI,Soviet Union,Asia,,,,,
+1040,HUN Hungary,16,10,16,42,1952,HELSINKI,Hungary,Europe,Hungary,,,,
+1041,SWE Sweden,12,13,10,35,1952,HELSINKI,Sweden,Europe,Sweden,,,,
+1042,ITA Italy,8,9,4,21,1952,HELSINKI,Italy,Europe,Italy,,,,
+1043,TCH Czechoslovakia,7,3,3,13,1952,HELSINKI,Czechoslovakia,Europe,,,,,
+1044,FRA France,6,6,6,18,1952,HELSINKI,France,Europe,France,,,,
+1045,FIN Finland,6,3,13,22,1952,HELSINKI,Finland,Europe,Finland,,,,
+1046,AUS Australia,6,2,3,11,1952,HELSINKI,Australia,Australia,Australia,,,,
+1047,NOR Norway,3,2,0,5,1952,HELSINKI,Norway,Europe,Norway,,,,
+1048,SUI Switzerland,2,6,6,14,1952,HELSINKI,Switzerland,Europe,Switzerland,,,,
+1049,RSA South Africa,2,4,4,10,1952,HELSINKI,South Africa,Africa,South Africa,,,,
+1050,JAM Jamaica,2,3,0,5,1952,HELSINKI,Jamaica,North America,Jamaica,,,,
+1051,BEL Belgium,2,2,0,4,1952,HELSINKI,Belgium,Europe,Belgium,,,,
+1052,DEN Denmark,2,1,3,6,1952,HELSINKI,Denmark,Europe,Denmark,,,,
+1053,TUR Turkey,2,0,1,3,1952,HELSINKI,Turkey,Asia,Turkey,,,,
+1054,JPN Japan,1,6,2,9,1952,HELSINKI,Japan,Asia,Japan,,,,
+1055,GBR Great Britain,1,2,8,11,1952,HELSINKI,Great Britain,Europe,United Kingdom,,,,
+1056,ARG Argentina,1,2,2,5,1952,HELSINKI,Argentina,South America,Argentina,,,,
+1057,POL Poland,1,2,1,4,1952,HELSINKI,Poland,Europe,Poland,,,,
+1058,YUG Yugoslavia,1,2,0,3,1952,HELSINKI,Yugoslavia,Europe,,,,,
+1059,CAN Canada,1,2,0,3,1952,HELSINKI,Canada,North America,Canada,,,,
+1060,ROU Romania,1,1,2,4,1952,HELSINKI,Romania,Europe,Romania,,,,
+1061,BRA Brazil,1,0,2,3,1952,HELSINKI,Brazil,South America,Brazil,,,,
+1062,NZL New Zealand,1,0,2,3,1952,HELSINKI,New Zealand,Australia,New Zealand,,,,
+1063,IND India,1,0,1,2,1952,HELSINKI,India,Asia,India,,,,
+1064,LUX Luxembourg,1,0,0,1,1952,HELSINKI,Luxembourg,Europe,,,,,
+1065,GER Germany,0,7,17,24,1952,HELSINKI,Germany,Europe,Germany,,,,
+1066,NED Netherlands,0,5,0,5,1952,HELSINKI,Netherlands,Europe,Netherlands,,,,
+1067,IRI Islamic Republic of Iran,0,3,4,7,1952,HELSINKI,Islamic Republic of Iran,Asia,Iran,,,,
+1068,CHI Chile,0,2,0,2,1952,HELSINKI,Chile,South America,,,,,
+1069,AUT Austria,0,1,1,2,1952,HELSINKI,Austria,Europe,Austria,,,,
+1070,LBN Lebanon,0,1,1,2,1952,HELSINKI,Lebanon,Asia,,,,,
+1071,ESP Spain,0,1,0,1,1952,HELSINKI,Spain,Europe,Spain,,,,
+1072,MEX Mexico,0,1,0,1,1952,HELSINKI,Mexico,North America,Mexico,,,,
+1073,IRL Ireland,0,1,0,1,1952,HELSINKI,Ireland,Europe,Ireland,,,,
+1074,KOR Republic of Korea,0,0,2,2,1952,HELSINKI,Republic of Korea,Asia,South Korea,,,,
+1075,TTO Trinidad and Tobago,0,0,2,2,1952,HELSINKI,Trinidad and Tobago,North America,,,,,
+1076,URU Uruguay,0,0,2,2,1952,HELSINKI,Uruguay,South America,,,,,
+1077,POR Portugal,0,0,1,1,1952,HELSINKI,Portugal,Europe,Portugal,,,,
+1078,EGY Egypt,0,0,1,1,1952,HELSINKI,Egypt,Africa,Egypt,,,,
+1079,BUL Bulgaria,0,0,1,1,1952,HELSINKI,Bulgaria,Europe,Bulgaria,,,,
+1080,VEN Venezuela,0,0,1,1,1952,HELSINKI,Venezuela,South America,Venezuela,,,,
+1081,USA United States of America,38,27,19,84,1948,LONDON,United States of America,North America,United States,,,,
+1082,SWE Sweden,17,11,18,46,1948,LONDON,Sweden,Europe,Sweden,,,,
+1083,FRA France,11,6,15,32,1948,LONDON,France,Europe,France,,,,
+1084,FIN Finland,10,8,6,24,1948,LONDON,Finland,Europe,Finland,,,,
+1085,HUN Hungary,10,5,13,28,1948,LONDON,Hungary,Europe,Hungary,,,,
+1086,ITA Italy,9,12,10,31,1948,LONDON,Italy,Europe,Italy,,,,
+1087,TUR Turkey,6,4,2,12,1948,LONDON,Turkey,Asia,Turkey,,,,
+1088,TCH Czechoslovakia,6,2,3,11,1948,LONDON,Czechoslovakia,Europe,,,,,
+1089,SUI Switzerland,5,12,6,23,1948,LONDON,Switzerland,Europe,Switzerland,,,,
+1090,DEN Denmark,5,8,9,22,1948,LONDON,Denmark,Europe,Denmark,,,,
+1091,NED Netherlands,5,2,9,16,1948,LONDON,Netherlands,Europe,Netherlands,,,,
+1092,GBR Great Britain,4,16,7,27,1948,LONDON,Great Britain,Europe,United Kingdom,,,,
+1093,ARG Argentina,3,3,1,7,1948,LONDON,Argentina,South America,Argentina,,,,
+1094,AUS Australia,2,6,5,13,1948,LONDON,Australia,Australia,Australia,,,,
+1095,AUT Austria,2,2,4,8,1948,LONDON,Austria,Europe,Austria,,,,
+1096,BEL Belgium,2,2,3,7,1948,LONDON,Belgium,Europe,Belgium,,,,
+1097,RSA South Africa,2,2,2,6,1948,LONDON,South Africa,Africa,South Africa,,,,
+1098,EGY Egypt,2,2,1,5,1948,LONDON,Egypt,Africa,Egypt,,,,
+1099,MEX Mexico,2,1,2,5,1948,LONDON,Mexico,North America,Mexico,,,,
+1100,NOR Norway,1,3,3,7,1948,LONDON,Norway,Europe,Norway,,,,
+1101,JAM Jamaica,1,2,0,3,1948,LONDON,Jamaica,North America,Jamaica,,,,
+1102,POL Poland,1,0,1,2,1948,LONDON,Poland,Europe,Poland,,,,
+1103,PER Peru,1,0,0,1,1948,LONDON,Peru,South America,,,,,
+1104,IND India,1,0,0,1,1948,LONDON,India,Asia,India,,,,
+1105,CAN Canada,0,2,2,4,1948,LONDON,Canada,North America,Canada,,,,
+1106,YUG Yugoslavia,0,2,0,2,1948,LONDON,Yugoslavia,Europe,,,,,
+1107,POR Portugal,0,1,1,2,1948,LONDON,Portugal,Europe,Portugal,,,,
+1108,URU Uruguay,0,1,1,2,1948,LONDON,Uruguay,South America,,,,,
+1109,TTO Trinidad and Tobago,0,1,0,1,1948,LONDON,Trinidad and Tobago,North America,,,,,
+1110,ESP Spain,0,1,0,1,1948,LONDON,Spain,Europe,Spain,,,,
+1111,SRI Sri Lanka,0,1,0,1,1948,LONDON,Sri Lanka,Asia,,,,,
+1112,CUB Cuba,0,1,0,1,1948,LONDON,Cuba,North America,Cuba,,,,
+1113,KOR Republic of Korea,0,0,2,2,1948,LONDON,Republic of Korea,Asia,South Korea,,,,
+1114,PAN Panama,0,0,2,2,1948,LONDON,Panama,North America,,,,,
+1115,BRA Brazil,0,0,1,1,1948,LONDON,Brazil,South America,Brazil,,,,
+1116,IRI Islamic Republic of Iran,0,0,1,1,1948,LONDON,Islamic Republic of Iran,Asia,Iran,,,,
+1117,PUR Puerto Rico,0,0,1,1,1948,LONDON,Puerto Rico,North America,Puerto Rico,,,,
+1118,IRL Ireland,0,0,1,1,1948,LONDON,Ireland,Europe,Ireland,,,,
+1119,GER Germany,38,31,32,101,1936,BERLIN,Germany,Europe,Germany,,,,
+1120,USA United States of America,24,21,12,57,1936,BERLIN,United States of America,North America,United States,,,,
+1121,HUN Hungary,10,1,5,16,1936,BERLIN,Hungary,Europe,Hungary,,,,
+1122,ITA Italy,9,13,5,27,1936,BERLIN,Italy,Europe,Italy,,,,
+1123,FIN Finland,8,6,6,20,1936,BERLIN,Finland,Europe,Finland,,,,
+1124,FRA France,7,6,6,19,1936,BERLIN,France,Europe,France,,,,
+1125,SWE Sweden,6,5,10,21,1936,BERLIN,Sweden,Europe,Sweden,,,,
+1126,JPN Japan,6,4,10,20,1936,BERLIN,Japan,Asia,Japan,,,,
+1127,NED Netherlands,6,4,7,17,1936,BERLIN,Netherlands,Europe,Netherlands,,,,
+1128,AUT Austria,5,7,5,17,1936,BERLIN,Austria,Europe,Austria,,,,
+1129,SUI Switzerland,4,9,5,18,1936,BERLIN,Switzerland,Europe,Switzerland,,,,
+1130,GBR Great Britain,4,7,3,14,1936,BERLIN,Great Britain,Europe,United Kingdom,,,,
+1131,TCH Czechoslovakia,3,5,1,9,1936,BERLIN,Czechoslovakia,Europe,,,,,
+1132,ARG Argentina,2,2,3,7,1936,BERLIN,Argentina,South America,Argentina,,,,
+1133,EST Estonia,2,2,3,7,1936,BERLIN,Estonia,Europe,Estonia,,,,
+1134,EGY Egypt,2,1,2,5,1936,BERLIN,Egypt,Africa,Egypt,,,,
+1135,CAN Canada,1,3,5,9,1936,BERLIN,Canada,North America,Canada,,,,
+1136,NOR Norway,1,3,2,6,1936,BERLIN,Norway,Europe,Norway,,,,
+1137,TUR Turkey,1,0,1,2,1936,BERLIN,Turkey,Asia,Turkey,,,,
+1138,NZL New Zealand,1,0,0,1,1936,BERLIN,New Zealand,Australia,New Zealand,,,,
+1139,IND India,1,0,0,1,1936,BERLIN,India,Asia,India,,,,
+1140,POL Poland,0,4,5,9,1936,BERLIN,Poland,Europe,Poland,,,,
+1141,DEN Denmark,0,2,3,5,1936,BERLIN,Denmark,Europe,Denmark,,,,
+1142,LAT Latvia,0,1,1,2,1936,BERLIN,Latvia,Europe,Latvia,,,,
+1143,ROU Romania,0,1,0,1,1936,BERLIN,Romania,Europe,Romania,,,,
+1144,RSA South Africa,0,1,0,1,1936,BERLIN,South Africa,Africa,South Africa,,,,
+1145,YUG Yugoslavia,0,1,0,1,1936,BERLIN,Yugoslavia,Europe,,,,,
+1146,BEL Belgium,0,0,3,3,1936,BERLIN,Belgium,Europe,Belgium,,,,
+1147,MEX Mexico,0,0,3,3,1936,BERLIN,Mexico,North America,Mexico,,,,
+1148,POR Portugal,0,0,1,1,1936,BERLIN,Portugal,Europe,Portugal,,,,
+1149,PHI Philippines,0,0,1,1,1936,BERLIN,Philippines,Asia,Philippines,,,,
+1150,AUS Australia,0,0,1,1,1936,BERLIN,Australia,Australia,Australia,,,,
+1151,USA United States of America,44,36,30,110,1932,LOSANGELES,United States of America,North America,United States,,,,
+1152,ITA Italy,12,12,12,36,1932,LOSANGELES,Italy,Europe,Italy,,,,
+1153,FRA France,11,5,4,20,1932,LOSANGELES,France,Europe,France,,,,
+1154,SWE Sweden,10,5,9,24,1932,LOSANGELES,Sweden,Europe,Sweden,,,,
+1155,JPN Japan,7,7,4,18,1932,LOSANGELES,Japan,Asia,Japan,,,,
+1156,HUN Hungary,6,5,5,16,1932,LOSANGELES,Hungary,Europe,Hungary,,,,
+1157,GER Germany,5,12,7,24,1932,LOSANGELES,Germany,Europe,Germany,,,,
+1158,FIN Finland,5,8,12,25,1932,LOSANGELES,Finland,Europe,Finland,,,,
+1159,GBR Great Britain,5,7,5,17,1932,LOSANGELES,Great Britain,Europe,United Kingdom,,,,
+1160,POL Poland,3,2,4,9,1932,LOSANGELES,Poland,Europe,Poland,,,,
+1161,AUS Australia,3,1,1,5,1932,LOSANGELES,Australia,Australia,Australia,,,,
+1162,ARG Argentina,3,1,0,4,1932,LOSANGELES,Argentina,South America,Argentina,,,,
+1163,CAN Canada,2,5,9,16,1932,LOSANGELES,Canada,North America,Canada,,,,
+1164,NED Netherlands,2,5,1,8,1932,LOSANGELES,Netherlands,Europe,Netherlands,,,,
+1165,RSA South Africa,2,0,3,5,1932,LOSANGELES,South Africa,Africa,South Africa,,,,
+1166,IRL Ireland,2,0,0,2,1932,LOSANGELES,Ireland,Europe,Ireland,,,,
+1167,TCH Czechoslovakia,1,3,2,6,1932,LOSANGELES,Czechoslovakia,Europe,,,,,
+1168,AUT Austria,1,1,3,5,1932,LOSANGELES,Austria,Europe,Austria,,,,
+1169,IND India,1,0,0,1,1932,LOSANGELES,India,Asia,India,,,,
+1170,DEN Denmark,0,5,3,8,1932,LOSANGELES,Denmark,Europe,Denmark,,,,
+1171,MEX Mexico,0,2,0,2,1932,LOSANGELES,Mexico,North America,Mexico,,,,
+1172,SUI Switzerland,0,1,0,1,1932,LOSANGELES,Switzerland,Europe,Switzerland,,,,
+1173,LAT Latvia,0,1,0,1,1932,LOSANGELES,Latvia,Europe,Latvia,,,,
+1174,NZL New Zealand,0,1,0,1,1932,LOSANGELES,New Zealand,Australia,New Zealand,,,,
+1175,PHI Philippines,0,0,3,3,1932,LOSANGELES,Philippines,Asia,Philippines,,,,
+1176,ESP Spain,0,0,1,1,1932,LOSANGELES,Spain,Europe,Spain,,,,
+1177,BEL Belgium,0,0,1,1,1932,LOSANGELES,Belgium,Europe,Belgium,,,,
+1178,URU Uruguay,0,0,1,1,1932,LOSANGELES,Uruguay,South America,,,,,
+1179,USA United States of America,22,18,16,56,1928,AMSTERDAM,United States of America,North America,United States,,,,
+1180,GER Germany,11,9,19,39,1928,AMSTERDAM,Germany,Europe,Germany,,,,
+1181,NED Netherlands,8,10,5,23,1928,AMSTERDAM,Netherlands,Europe,Netherlands,,,,
+1182,FIN Finland,8,8,9,25,1928,AMSTERDAM,Finland,Europe,Finland,,,,
+1183,FRA France,7,12,6,25,1928,AMSTERDAM,France,Europe,France,,,,
+1184,SWE Sweden,7,6,12,25,1928,AMSTERDAM,Sweden,Europe,Sweden,,,,
+1185,ITA Italy,7,6,7,20,1928,AMSTERDAM,Italy,Europe,Italy,,,,
+1186,SUI Switzerland,7,6,4,17,1928,AMSTERDAM,Switzerland,Europe,Switzerland,,,,
+1187,HUN Hungary,5,5,0,10,1928,AMSTERDAM,Hungary,Europe,Hungary,,,,
+1188,GBR Great Britain,4,11,7,22,1928,AMSTERDAM,Great Britain,Europe,United Kingdom,,,,
+1189,CAN Canada,4,4,7,15,1928,AMSTERDAM,Canada,North America,Canada,,,,
+1190,ARG Argentina,3,3,1,7,1928,AMSTERDAM,Argentina,South America,Argentina,,,,
+1191,DEN Denmark,3,2,4,9,1928,AMSTERDAM,Denmark,Europe,Denmark,,,,
+1192,AUT Austria,3,0,1,4,1928,AMSTERDAM,Austria,Europe,Austria,,,,
+1193,TCH Czechoslovakia,2,5,2,9,1928,AMSTERDAM,Czechoslovakia,Europe,,,,,
+1194,JPN Japan,2,2,1,5,1928,AMSTERDAM,Japan,Asia,Japan,,,,
+1195,POL Poland,2,1,4,7,1928,AMSTERDAM,Poland,Europe,Poland,,,,
+1196,EST Estonia,2,1,2,5,1928,AMSTERDAM,Estonia,Europe,Estonia,,,,
+1197,EGY Egypt,2,1,1,4,1928,AMSTERDAM,Egypt,Africa,Egypt,,,,
+1198,NOR Norway,1,2,1,4,1928,AMSTERDAM,Norway,Europe,Norway,,,,
+1199,AUS Australia,1,2,1,4,1928,AMSTERDAM,Australia,Australia,Australia,,,,
+1200,YUG Yugoslavia,1,1,3,5,1928,AMSTERDAM,Yugoslavia,Europe,,,,,
+1201,RSA South Africa,1,0,2,3,1928,AMSTERDAM,South Africa,Africa,South Africa,,,,
+1202,URU Uruguay,1,0,0,1,1928,AMSTERDAM,Uruguay,South America,,,,,
+1203,ESP Spain,1,0,0,1,1928,AMSTERDAM,Spain,Europe,Spain,,,,
+1204,IRL Ireland,1,0,0,1,1928,AMSTERDAM,Ireland,Europe,Ireland,,,,
+1205,LUX Luxembourg,1,0,0,1,1928,AMSTERDAM,Luxembourg,Europe,,,,,
+1206,IND India,1,0,0,1,1928,AMSTERDAM,India,Asia,India,,,,
+1207,NZL New Zealand,1,0,0,1,1928,AMSTERDAM,New Zealand,Australia,New Zealand,,,,
+1208,BEL Belgium,0,1,2,3,1928,AMSTERDAM,Belgium,Europe,Belgium,,,,
+1209,CHI Chile,0,1,0,1,1928,AMSTERDAM,Chile,South America,,,,,
+1210,HAI Haiti,0,1,0,1,1928,AMSTERDAM,Haiti,North America,,,,,
+1211,PHI Philippines,0,0,1,1,1928,AMSTERDAM,Philippines,Asia,Philippines,,,,
+1212,POR Portugal,0,0,1,1,1928,AMSTERDAM,Portugal,Europe,Portugal,,,,
+1213,USA United States of America,45,27,27,99,1924,PARIS,United States of America,North America,United States,,,,
+1214,FRA France,14,15,12,41,1924,PARIS,France,Europe,France,,,,
+1215,FIN Finland,14,13,10,37,1924,PARIS,Finland,Europe,Finland,,,,
+1216,GBR Great Britain,9,14,12,35,1924,PARIS,Great Britain,Europe,United Kingdom,,,,
+1217,ITA Italy,8,3,5,16,1924,PARIS,Italy,Europe,Italy,,,,
+1218,SUI Switzerland,7,8,10,25,1924,PARIS,Switzerland,Europe,Switzerland,,,,
+1219,NOR Norway,5,2,3,10,1924,PARIS,Norway,Europe,Norway,,,,
+1220,SWE Sweden,4,13,12,29,1924,PARIS,Sweden,Europe,Sweden,,,,
+1221,NED Netherlands,4,1,6,11,1924,PARIS,Netherlands,Europe,Netherlands,,,,
+1222,BEL Belgium,3,7,3,13,1924,PARIS,Belgium,Europe,Belgium,,,,
+1223,AUS Australia,3,1,2,6,1924,PARIS,Australia,Australia,Australia,,,,
+1224,DEN Denmark,2,6,3,11,1924,PARIS,Denmark,Europe,Denmark,,,,
+1225,HUN Hungary,2,4,4,10,1924,PARIS,Hungary,Europe,Hungary,,,,
+1226,YUG Yugoslavia,2,0,0,2,1924,PARIS,Yugoslavia,Europe,,,,,
+1227,TCH Czechoslovakia,1,4,5,10,1924,PARIS,Czechoslovakia,Europe,,,,,
+1228,ARG Argentina,1,3,2,6,1924,PARIS,Argentina,South America,Argentina,,,,
+1229,EST Estonia,1,1,4,6,1924,PARIS,Estonia,Europe,Estonia,,,,
+1230,RSA South Africa,1,1,1,3,1924,PARIS,South Africa,Africa,South Africa,,,,
+1231,LUX Luxembourg,1,1,0,2,1924,PARIS,Luxembourg,Europe,,,,,
+1232,GRE Greece,1,0,0,1,1924,PARIS,Greece,Europe,Greece,,,,
+1233,URU Uruguay,1,0,0,1,1924,PARIS,Uruguay,South America,,,,,
+1234,CAN Canada,0,3,1,4,1924,PARIS,Canada,North America,Canada,,,,
+1235,AUT Austria,0,3,1,4,1924,PARIS,Austria,Europe,Austria,,,,
+1236,IRL Ireland,0,1,1,2,1924,PARIS,Ireland,Europe,Ireland,,,,
+1237,POL Poland,0,1,1,2,1924,PARIS,Poland,Europe,Poland,,,,
+1238,JPN Japan,0,0,1,1,1924,PARIS,Japan,Asia,Japan,,,,
+1239,HAI Haiti,0,0,1,1,1924,PARIS,Haiti,North America,,,,,
+1240,MON Monaco,0,0,1,1,1924,PARIS,Monaco,Europe,,,,,
+1241,POR Portugal,0,0,1,1,1924,PARIS,Portugal,Europe,Portugal,,,,
+1242,ROU Romania,0,0,1,1,1924,PARIS,Romania,Europe,Romania,,,,
+1243,NZL New Zealand,0,0,1,1,1924,PARIS,New Zealand,Australia,New Zealand,,,,
+1244,USA United States of America,41,27,27,95,1920,ANTWERP,United States of America,North America,United States,,,,
+1245,SWE Sweden,19,20,25,64,1920,ANTWERP,Sweden,Europe,Sweden,,,,
+1246,BEL Belgium,16,12,14,42,1920,ANTWERP,Belgium,Europe,Belgium,,,,
+1247,FIN Finland,15,10,9,34,1920,ANTWERP,Finland,Europe,Finland,,,,
+1248,GBR Great Britain,14,16,13,43,1920,ANTWERP,Great Britain,Europe,United Kingdom,,,,
+1249,ITA Italy,14,6,5,25,1920,ANTWERP,Italy,Europe,Italy,,,,
+1250,NOR Norway,13,10,9,32,1920,ANTWERP,Norway,Europe,Norway,,,,
+1251,FRA France,9,20,13,42,1920,ANTWERP,France,Europe,France,,,,
+1252,NED Netherlands,4,2,5,11,1920,ANTWERP,Netherlands,Europe,Netherlands,,,,
+1253,DEN Denmark,3,9,1,13,1920,ANTWERP,Denmark,Europe,Denmark,,,,
+1254,RSA South Africa,3,4,3,10,1920,ANTWERP,South Africa,Africa,South Africa,,,,
+1255,CAN Canada,3,3,3,9,1920,ANTWERP,Canada,North America,Canada,,,,
+1256,SUI Switzerland,2,2,7,11,1920,ANTWERP,Switzerland,Europe,Switzerland,,,,
+1257,EST Estonia,1,2,0,3,1920,ANTWERP,Estonia,Europe,Estonia,,,,
+1258,BRA Brazil,1,1,1,3,1920,ANTWERP,Brazil,South America,Brazil,,,,
+1259,AUS Australia,0,2,1,3,1920,ANTWERP,Australia,Australia,Australia,,,,
+1260,ESP Spain,0,2,0,2,1920,ANTWERP,Spain,Europe,Spain,,,,
+1261,JPN Japan,0,2,0,2,1920,ANTWERP,Japan,Asia,Japan,,,,
+1262,GRE Greece,0,1,0,1,1920,ANTWERP,Greece,Europe,Greece,,,,
+1263,LUX Luxembourg,0,1,0,1,1920,ANTWERP,Luxembourg,Europe,,,,,
+1264,TCH Czechoslovakia,0,0,2,2,1920,ANTWERP,Czechoslovakia,Europe,,,,,
+1265,NZL New Zealand,0,0,1,1,1920,ANTWERP,New Zealand,Australia,New Zealand,,,,
+1266,USA United States of America,26,19,19,64,1912,STOCKHOLM,United States of America,North America,United States,,,,
+1267,SWE Sweden,24,24,17,65,1912,STOCKHOLM,Sweden,Europe,Sweden,,,,
+1268,GBR Great Britain,10,15,16,41,1912,STOCKHOLM,Great Britain,Europe,United Kingdom,,,,
+1269,FIN Finland,9,8,9,26,1912,STOCKHOLM,Finland,Europe,Finland,,,,
+1270,FRA France,7,5,3,15,1912,STOCKHOLM,France,Europe,France,,,,
+1271,GER Germany,6,13,7,26,1912,STOCKHOLM,Germany,Europe,Germany,,,,
+1272,ITA Italy,5,1,2,8,1912,STOCKHOLM,Italy,Europe,Italy,,,,
+1273,RSA South Africa,4,2,0,6,1912,STOCKHOLM,South Africa,Africa,South Africa,,,,
+1274,NOR Norway,4,1,5,10,1912,STOCKHOLM,Norway,Europe,Norway,,,,
+1275,CAN Canada,3,2,3,8,1912,STOCKHOLM,Canada,North America,Canada,,,,
+1276,HUN Hungary,3,2,3,8,1912,STOCKHOLM,Hungary,Europe,Hungary,,,,
+1277,ANZ Australasia,2,2,3,7,1912,STOCKHOLM,Australasia,Australia,,,,,
+1278,BEL Belgium,2,1,3,6,1912,STOCKHOLM,Belgium,Europe,Belgium,,,,
+1279,DEN Denmark,1,6,5,12,1912,STOCKHOLM,Denmark,Europe,Denmark,,,,
+1280,GRE Greece,1,0,1,2,1912,STOCKHOLM,Greece,Europe,Greece,,,,
+1281,SUI Switzerland,1,0,0,1,1912,STOCKHOLM,Switzerland,Europe,Switzerland,,,,
+1282,RUS Russian Federation,0,2,3,5,1912,STOCKHOLM,Russian Federation,Europe,,,,,
+1283,AUT Austria,0,2,2,4,1912,STOCKHOLM,Austria,Europe,Austria,,,,
+1284,NED Netherlands,0,0,3,3,1912,STOCKHOLM,Netherlands,Europe,Netherlands,,,,
+1285,GBR Great Britain,56,51,39,146,1908,LONDON,Great Britain,Europe,United Kingdom,,,,
+1286,USA United States of America,23,12,12,47,1908,LONDON,United States of America,North America,United States,,,,
+1287,SWE Sweden,8,6,11,25,1908,LONDON,Sweden,Europe,Sweden,,,,
+1288,FRA France,5,5,9,19,1908,LONDON,France,Europe,France,,,,
+1289,GER Germany,3,5,5,13,1908,LONDON,Germany,Europe,Germany,,,,
+1290,HUN Hungary,3,4,2,9,1908,LONDON,Hungary,Europe,Hungary,,,,
+1291,CAN Canada,3,3,10,16,1908,LONDON,Canada,North America,Canada,,,,
+1292,NOR Norway,2,3,3,8,1908,LONDON,Norway,Europe,Norway,,,,
+1293,ITA Italy,2,2,0,4,1908,LONDON,Italy,Europe,Italy,,,,
+1294,BEL Belgium,1,5,2,8,1908,LONDON,Belgium,Europe,Belgium,,,,
+1295,ANZ Australasia,1,2,2,5,1908,LONDON,Australasia,Australia,,,,,
+1296,RUS Russian Federation,1,2,0,3,1908,LONDON,Russian Federation,Europe,,,,,
+1297,FIN Finland,1,1,3,5,1908,LONDON,Finland,Europe,Finland,,,,
+1298,RSA South Africa,1,1,0,2,1908,LONDON,South Africa,Africa,South Africa,,,,
+1299,GRE Greece,0,3,1,4,1908,LONDON,Greece,Europe,Greece,,,,
+1300,DEN Denmark,0,2,3,5,1908,LONDON,Denmark,Europe,Denmark,,,,
+1301,NED Netherlands,0,0,2,2,1908,LONDON,Netherlands,Europe,Netherlands,,,,
+1302,BOH Bohemia,0,0,2,2,1908,LONDON,Bohemia,Europe,,,,,
+1303,AUT Austria,0,0,1,1,1908,LONDON,Austria,Europe,Austria,,,,
+1304,USA United States of America,11,7,2,20,1896,ATHENS,United States of America,North America,United States,,,,
+1305,GRE Greece,10,18,19,47,1896,ATHENS,Greece,Europe,Greece,,,,
+1306,GER Germany,6,5,2,13,1896,ATHENS,Germany,Europe,Germany,,,,
+1307,FRA France,5,4,2,11,1896,ATHENS,France,Europe,France,,,,
+1308,GBR Great Britain,2,3,2,7,1896,ATHENS,Great Britain,Europe,United Kingdom,,,,
+1309,HUN Hungary,2,1,3,6,1896,ATHENS,Hungary,Europe,Hungary,,,,
+1310,AUT Austria,2,1,2,5,1896,ATHENS,Austria,Europe,Austria,,,,
+1311,AUS Australia,2,0,0,2,1896,ATHENS,Australia,Australia,Australia,,,,
+1312,DEN Denmark,1,2,3,6,1896,ATHENS,Denmark,Europe,Denmark,,,,
+1313,SUI Switzerland,1,2,0,3,1896,ATHENS,Switzerland,Europe,Switzerland,,,,
+1314,MIX MIX,1,0,1,2,1896,ATHENS,MIX,Not Available,,,,,

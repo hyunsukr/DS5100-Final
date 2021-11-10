@@ -15,6 +15,94 @@ class Web_Scrapper():
             history = json.load(json_file)
         self.history = history
     
+    def scrape_gdp_history(self, years):
+        ## Not Tested Yet
+        time_series = pd.DataFrame()
+        pbar.start()
+        for i in pbar(range(0,len(years))):
+            if int(years[i]) > 1949:
+                df = self.scrape_gdp_economy(years[i])
+                time_series = time_series.append(df)
+
+        return time_series
+
+
+    def scrape_gdp_economy(self, year):
+        URL = 'https://countryeconomy.com/gdp?year=' + year
+        r = requests.get(URL) #http requests tot ehs specified url and save it in R
+        soup = BeautifulSoup(r.content, 'html5lib')
+        tables = soup.find_all('table', {'id':'tbA'})
+        tables_percap = soup.find_all('table', {'id':'tbPC'})
+        tempList = []
+        for table in tables:
+            for child in table.children:
+                for td in child:
+                    for tr in td:
+                        tempList.append(tr.get_text())
+        
+        second_tempList = []
+        for table in tables_percap:
+            for child in table.children:
+                for td in child:
+                    for tr in td:
+                        second_tempList.append(tr.get_text())
+        tempList = tempList[5:len(tempList)-1]
+        second_tempList = second_tempList[6:len(second_tempList) - 1]
+
+        country = []
+        year = []
+        amount = []
+        growth = []
+
+        country_percap = []
+        year_percap = []
+        amount_percap = []
+        growth_percap = []
+        
+        for i in range(0,len(tempList)):
+            if i % 8 == 0:
+                country.append(" ".join(tempList[i].split()[:-1]))
+            elif i % 8 == 1:
+                year.append(tempList[i])
+            elif i % 8 == 4:
+                if tempList[i] == '':
+                    amount.append('$0M')
+                else:
+                    amount.append(tempList[i])
+            elif i % 8 == 6:
+                growth.append(tempList[i])
+        
+        for i in range(0,len(second_tempList)):
+            if i % 10 == 0:
+                country_percap.append(" ".join(second_tempList[i].split()[:-1]))
+            elif i % 10 == 1:
+                year_percap.append(second_tempList[i])
+            elif i % 10 == 4:
+                if second_tempList[i] == '':
+                    amount_percap.append('$0')
+                else:
+                    amount_percap.append(second_tempList[i])
+            elif i % 10 == 8:
+                growth_percap.append(second_tempList[i])
+
+        d = {'Country': country, 'GDP': amount,'GDP growth': growth, 'Year': year}
+        df = pd.DataFrame(d)
+
+        d_percap = {'Country': country_percap, 'Year': year_percap, 'GDP per capita': amount_percap,'GDP per capita growth': growth_percap}
+        df_percap = pd.DataFrame(d_percap)
+        ## Remove Data Quality Issue
+        df = df[df["Country"] != 'Liechtenstein']
+        df_percap = df_percap[df_percap["Country"] != 'Liechtenstein']
+
+        ## Change to numeric
+        df["GDP"] = df["GDP"].map(lambda x: int(x[1:].replace(",","").replace('M',''))*1000000)
+
+        ## Change to numeric
+        df_percap["GDP per capita"] = df_percap["GDP per capita"].map(lambda x: int(x[1:].replace(",","")))
+
+        merged = pd.merge(df, df_percap, how='inner', on=['Country','Year'])
+        return merged
+    
     def scrape_gdp(self):
         URL = "https://www.worldometers.info/gdp/gdp-by-country/" # specify URL of website we want to scrape
         r = requests.get(URL) #http requests tot ehs specified url and save it in R
@@ -51,10 +139,11 @@ class Web_Scrapper():
             d = {'Country': country, 'GDP': vals,'GDP abbreviated': other_val,'GDP growth': percent,'Population': temp,'GDP per capita': other}
         df = pd.DataFrame(d)
         return df
-    
+
     def scrape_history(self):
         ## Not Tested Yet
         time_series = pd.DataFrame()
+        pbar.start()
         for i in pbar(self.history.values()):
             df = self.scrape_summary(i)
             df["Year"] = i.split('/')[5].split('-')[-1]
@@ -63,7 +152,6 @@ class Web_Scrapper():
 
         time_series["NOC"] = time_series["Name"].str[4:]
         return time_series
-
 
 
     def scrape_summary(self, url_query):

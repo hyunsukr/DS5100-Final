@@ -32,6 +32,13 @@ def test_scarpe_summary():
     assert computed_total.equals(scrapped_olympic["Total"].astype(int))
     assert sanity_check_medal_count == 0
 
+def test_scrape_gdp_history():
+    webscrapper = Web_Scrapper()
+    history = webscrapper.scrape_gdp_history(['2020','1961'])
+
+    assert sum(history["Year"].astype(int) < 1961) == 0
+    assert history.shape[0] < 500
+
 def test_scrape_history():
     webscrapper = Web_Scrapper()
     history = webscrapper.scrape_history()
@@ -43,6 +50,3 @@ def test_scrape_history():
     assert set(history.columns) == set(['Name','Gold','Silver','Bronze','Total','Year','Location','NOC'])
     assert computed_total.equals(history["Total"].astype(int))
     assert sanity_check_medal_count == 0
-
-
-    

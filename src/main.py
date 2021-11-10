@@ -1,17 +1,32 @@
 from utils.webscrapper import Web_Scrapper
 from utils.cleaner import Cleaner
 import pandas as pd
+import numpy as np
 
 def main():
+    print("Kicking off Data Pipeline \n")
     scrapper = Web_Scrapper()
     mapper_class = Cleaner()
 
     ## History
+    print("Collecting Historical Olympic Data \n")
     history = scrapper.scrape_history()
     history = mapper_class.convert_continent(history)
     history.to_csv('data/time_series.csv')
 
+    ## History GDP
+    print("Collecting Historical GDP Data \n")
+    gdp_history = scrapper.scrape_gdp_history(list(np.unique(history["Year"])))
+
+    gdp_history.to_csv('data/gdp_timeseries.csv')
+
+    ## Merging GDP with History
+    print("Mergeing GDP with Olympic History\n")
+    joined_history = mapper_class.join_gdp(gdp_history, history,['Country','Year'])
+    joined_history.to_csv('data/history_olympic_with_gdp.csv')
+
     ## Tokyo
+    print("Kicking off most recent tokyo dataset with updated GDP databse\n")
     national_src = scrapper.scrape_summary('https://olympics.com/en/olympic-games/tokyo-2020/medals')
     national_src.to_csv('data/country.csv')
     gdp = scrapper.scrape_gdp()
