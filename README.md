@@ -30,11 +30,11 @@ Currently the repo is performing as follows.
 | Name | Stmts | Miss | Cover|
 | :--- | :---: | :---: | :--: |
 | src/__init__.py | 0 | 0 | 100% |
-| src/main.py | 19  | 19 | 0 |
+| src/main.py | 24  | 24 | 0 |
 | src/utils/__init__.py | 0 | 0 | 100% |
 | src/utils/cleaner.py | 50 | 0 | 100% |
 | src/utils/webscrapper.py  | 66 | 0 | 100% |
-| TOTAL | 139 | 23 | 83% |
+| TOTAL | 140 | 24 | 83% |
 
 
 After running the code, you may deactivate the virtual env by running the following.
