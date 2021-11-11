@@ -64,3 +64,38 @@ To start the data pull and gather all Tokyo Olympic data you must run the main.p
 ```
 python src/main.py 
 ```
+
+## Notes for next steps
+Get started with virtual environments
+```
+python -m venv venv
+source venv/bin/actiavte
+pip install -r requirments.txt 
+```
+After running these commands you will see a (venv) next to your terminal (if on mac)
+
+## Git Commands
+First Make a new branch and commit and push. After changes are taken into account, make a Pull Request (PR). Reach  out to me if you need help on making a PR
+
+```
+## Make a new branch
+git checkout -b new-branch-name
+
+## Check what you are commiting before commint
+git status
+
+## Add the files (the . means all files from the above command)
+git add .
+
+## Push the files
+git push origin new-branch-name
+
+```
+
+After you push you will see the branch in the github repo, which you will use to make a Pull Request to merge into the main branch in github.
+
+## Next Steps
+1. More Eda (Find different ways to represent the data and formualte a story) = Reilly
+2. Get started on formulating the presentation / Video. Accomplishments = Sydney
+3. Documation of tests and methods that are not covered (similar to this [documentation](https://github.com/hyunsukr/DS5100-Final/blob/main/src/utils/webscrapper.py#L158-L165))  =   Said
+
