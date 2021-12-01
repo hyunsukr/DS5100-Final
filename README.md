@@ -2,9 +2,12 @@
 
 This repo is for the final project for DS5100 for the Online MSDS proogram. 
 
+## Final Report
+The final report for this project is contained in the [FinalReport.md](/report/FinalReport.md) in the report folder of this repository.
+
 
 ## Inital Analysis
-Exploratory Analysis can be found in the notebook pathed `analysis/jupyter_notebooks_eda.ipynb`
+Exploratory Analysis can be found in the notebook pathed `analysis/jupyter_notebooks_eda.ipynb` and `analysis/jupyter_notebooks_charts.ipynb`
 
 Regression Analysis of notebooks can be found in the notebook pathed `analysis/jupyter_notebooks/regression.ipynb`
 
