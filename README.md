@@ -13,7 +13,7 @@ Regression Analysis of notebooks can be found in the notebook pathed `analysis/j
 
 Any pictures or resources generated from the notebooks can be downloaded in the folder pathed `analysis/resources/`
 
-
+To see the jupter notebooks you must have `jupyter lab` installed. When running `jupyter-lab` from the root, you have see and reproduce the jupyter notebooks.
 
 ## Setting up and running the datapull
 The repo is configured to use a virtual environment for the sake of package dependencies. Please run the commandas to set up the virtual env.
