@@ -68,6 +68,9 @@ To start the data pull and gather all Tokyo Olympic data you must run the main.p
 python src/main.py 
 ```
 
+Due to some issues in requests and the clients for webparsing, the data pull may take some time. An issue that was faced was the datasource blocking some requets when scrapping the data. However, with multiple tries, this problem was fixed and ran correctly.
+
+
 ## Notes for next steps
 Get started with virtual environments
 ```
