@@ -5,9 +5,11 @@ This repo is for the final project for DS5100 for the Online MSDS proogram.
 ## Final Report
 The final report for this project is contained in the [FinalReport.md](/report/FinalReport.md) in the report folder of this repository.
 
+## Code
+All code for the data ETL process is in the src folder.
 
-## Inital Analysis
-Exploratory Analysis can be found in the notebook pathed `analysis/jupyter_notebooks_eda.ipynb` and `analysis/jupyter_notebooks_charts.ipynb`
+## Analysis Jupyter Notebooks
+Exploratory Analysis can be found in the notebook pathed `analysis/jupyter_notebooks_charts.ipynb`
 
 Regression Analysis of notebooks can be found in the notebook pathed `analysis/jupyter_notebooks/regression.ipynb`
 
@@ -101,7 +103,6 @@ git push origin new-branch-name
 After you push you will see the branch in the github repo, which you will use to make a Pull Request to merge into the main branch in github.
 
 ## Next Steps
-1. More Eda (Find different ways to represent the data and formualte a story) = Reilly
-2. Get started on formulating the presentation / Video. Accomplishments = Sydney
-3. Documation of tests and methods that are not covered (similar to this [documentation](https://github.com/hyunsukr/DS5100-Final/blob/main/src/utils/webscrapper.py#L158-L165))  =   Said
+1. Get started on formulating the presentation / Video. Accomplishments = Sydney
+2. Documation of tests and methods that are not covered (similar to this [documentation](https://github.com/hyunsukr/DS5100-Final/blob/main/src/utils/webscrapper.py#L158-L165))  =   Said
 
