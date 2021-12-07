@@ -54,7 +54,7 @@ Currently the repo is performing as follows.
 | src/utils/__init__.py | 0 | 0 | 100% |
 | src/utils/cleaner.py | 50 | 0 | 100% |
 | src/utils/webscrapper.py  | 135 | 0 | 100% |
-| TOTAL | 219 | 24 | 84% |
+| TOTAL | 219 | 34 | 84% |
 
 
 After running the code, you may deactivate the virtual env by running the following.
