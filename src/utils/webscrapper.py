@@ -10,13 +10,22 @@ import json
 
 class Web_Scrapper():
     def __init__(self, baselink="https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/", history = {}):
+        """
+        Class init.
+        """
         self.baselink = baselink
         with open('src/resources/history.json') as json_file:
             history = json.load(json_file)
         self.history = history
     
     def scrape_gdp_history(self, years):
-        ## Not Tested Yet
+        """
+        Method to kick off data pull for the years that the olympic data pull was pulled for.
+
+        :param: years <list> = A list containig the years that the script needs to pull GDP data for. 
+
+        :returns: <dataframe> = A data frame for each countries GDP, GDP growth, and all the years that the user inserted. 
+        """
         time_series = pd.DataFrame()
         pbar.start()
         for i in pbar(range(0,len(years))):
@@ -28,6 +37,14 @@ class Web_Scrapper():
 
 
     def scrape_gdp_economy(self, year):
+        """
+        A method to scrape the table data for historical data.
+        The data will be a summary table with of each countries GDP, GDP growth, and Year
+
+        :param: year <string> = Year to pull. The parameter 2020 will pull the GDP related information for the year 2020
+
+        :returns: <dataframe> = A data frame containing the summary statistics of each countries GDP, GDP growth, and Year
+        """
         URL = 'https://countryeconomy.com/gdp?year=' + year
         r = requests.get(URL) #http requests tot ehs specified url and save it in R
         soup = BeautifulSoup(r.content, 'html5lib')
@@ -104,6 +121,11 @@ class Web_Scrapper():
         return merged
     
     def scrape_gdp(self):
+        """
+        Method to scrap the most recent GDP data.
+
+        :returns: <dataframe> = A dataframe that has each countries name and GDP (GDP, GDP abbreviated, GDP growth, Population, GDP per capita)
+        """
         URL = "https://www.worldometers.info/gdp/gdp-by-country/" # specify URL of website we want to scrape
         r = requests.get(URL) #http requests tot ehs specified url and save it in R
         soup = BeautifulSoup(r.content, 'html5lib')
@@ -117,6 +139,7 @@ class Web_Scrapper():
                 for tr in td:
                     if not isinstance(tr, str):
                         templist.append(tr.get_text())
+        ## Lists to capture row data
         country = []
         vals = []
         other_val = []
@@ -141,7 +164,12 @@ class Web_Scrapper():
         return df
 
     def scrape_history(self):
-        ## Not Tested Yet
+        """
+        A method to scrape the historical data from the https://olympics.com/en/olympic-games
+        This method gets all the links for all the summer olympics that have past.
+
+        :returns: <dataframe> = A data frame containing the summary statistics of each country and medals earned for all summer olympic games
+        """
         time_series = pd.DataFrame()
         pbar.start()
         for i in pbar(self.history.values()):

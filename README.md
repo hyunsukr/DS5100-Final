@@ -99,10 +99,3 @@ git add .
 git push origin new-branch-name
 
 ```
-
-After you push you will see the branch in the github repo, which you will use to make a Pull Request to merge into the main branch in github.
-
-## Next Steps
-1. Get started on formulating the presentation / Video. Accomplishments = Sydney
-2. Documation of tests and methods that are not covered (similar to this [documentation](https://github.com/hyunsukr/DS5100-Final/blob/main/src/utils/webscrapper.py#L158-L165))  =   Said
-
