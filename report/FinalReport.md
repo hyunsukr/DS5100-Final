@@ -114,4 +114,14 @@ Also, the group decided to follow industry standards for project organization an
 The group also wanted to enhance the wait time of the data pull, which was not very long, but enough time to get bored while waiting. The group utilized an external package called progress bar to integrate a small graphic to provide how much of the data pull was complete to the user running the datapull. 
 
 ## Conclusion
-TODO
+To conclude, the ultimate goal of this project was to see what factors contributed to the earning medals for each country. 
+
+Data was pulled through webscraping from the Olympics website (Tokyo Olympics as well as all summer olympics dating back to 1986), a GDP tracker (Most recent GDP), a historical GDP tracker and finally a kaggle dataset (with teams breakdowns) that were added as features to see if any external factors or information had on impact on earning medals at the Tokyo Olympics. The features chosen to examine were GDP, geographic location (continents), discipline, Population, GDP growth and GDP per capita with the response variable being the medal count.
+
+An exploratory data analysis (EDA) was conducted to see the distribution of some of our variables in univariate analysis which showed that only a couple of countries had a high medal count and that the medals earned weren’t evenly distributed between the countries. Following that, bivariate analysis was conducted in the form of a scatter plot and bar charts. The scatter plot showed a weak linear relationship between the GDP per capita and total medals won partially due to the lower GDP countries having a lower total medal count when compared to higher GDP countries while the bar charts showed that some continents performed better than others with low performances especially in African and South American countries.
+
+From the initial exploratory data analysis, a Multiple linear Regression model was created to fit on the dataset with the goal of predicting how many medals a country will earn based on the fields that were generated from the data pull. The model was fit with the following predictors: continent, number of teams, GDP, Population, GDP growth, GDP per capita. From the given coefficient matrix, we can see that the main feature of GDP had a value of 0, which means that it did not have a big impact on the prediction of medals earned for a country when all the given predictors were used, it can be attributed to multicollinearity as continents performance and GDP are correlated.
+
+The group then wanted to visualize the greater olympic data pulled from the historical archive of the official olympics website dividing each country into their respective continents and providing a time series analysis visuzaliations of medal counts for each continent along with its average. The biggest change that can be seen is the medal count for Australia, where the trend has almost always increased since the day records could be found we can see most continents have increased in their medal earnings throughout history
+
+An MVP was delivered through the project using agile methodology.
