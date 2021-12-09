@@ -5,6 +5,14 @@ This repo is for the final project for DS5100 for the Online MSDS proogram.
 ## Final Report
 The final report for this project is contained in the [FinalReport.md](/report/FinalReport.md) in the report folder of this repository.
 
+## Slides
+The final presntation slides can be found in the [DS5100_Final_Presentation.pdf](/report/DS5100_Final_Presentation.pdf) in the report folder of this repository.
+
+## Video Presentation
+The final video can be requested via emailing the repository owner.
+
+The pptx slide used for the video is also shown in [DS5100_Final_Presentation.pptx](/report/DS5100_Final_Presentation.pptx) in the report folder of this repository.
+
 ## Code
 All code for the data ETL process is in the src folder.
 

@@ -8,6 +8,9 @@ Members
 * Said Mrad 
 * Sydney Masterson
 
+Github Link: https://github.com/hyunsukr/DS5100-Final
+ 
+
 ## Introduction
 The purpose of this project is to examine the data from the 2021 Tokyo Olympics and see what factors contributed to the earning of medals for each country. The group wanted to see if any external factors / information such as GDP or geographical location had an impact on earning medals at the Tokyo Olympics.
 
